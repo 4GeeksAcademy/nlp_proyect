@@ -1,0 +1,2 @@
+url: The web address
+is_spam: A binary indicator representing whether the URL is classified as True (0) or False (1) in terms of being spam or not

@@ -1,0 +1,2370 @@
+,url,is_spam
+0,"['briefingday', 'list', 'manage', 'unsubscribe']",0
+1,['hvper'],0
+2,['briefingday'],0
+3,"['briefingday', 'commentform']",1
+4,['briefingday'],0
+5,"['brookings', 'interactives', 'reopening', 'america', 'world']",1
+6,"['reuters', 'investigates', 'special', 'report', 'health', 'coronavirus', 'britain']",1
+7,"['theatlantic', 'magazine', 'archive', 'supermarket', 'miracle']",1
+8,"['john', 'bolton', 'book', 'excerpt', 'trump', 'ukraine', 'china']",1
+9,"['theguardian', 'travel', 'tourism', 'coronavirus', 'pandemic', 'travel', 'industry']",1
+10,"['future', 'article', 'virus', 'disappeared']",1
+11,"['narratively', 'quarantined', 'hippy', 'trapped', 'jungle', 'paradise']",1
+12,"['ourworldindata', 'grapher', 'daily', 'covid', 'case', 'average']",1
+13,"['spiked', 'online', 'healthy', 'society', 'destroy', 'monument']",1
+14,"['nytimes', 'interactive', 'business', 'economy', 'container', 'ship', 'built', 'html']",1
+15,"['aeon', 'essay', 'nostalgia', 'rocket', 'fuel', 'power', 'hope', 'change']",1
+16,"['youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",1
+17,"['popsci', 'story', 'science', 'haribo', 'gummy', 'candy', 'flavor']",1
+18,"['atlasobscura', 'article', 'coffee']",1
+19,"['outsideonline', 'john', 'ackerman', 'cave', 'minnesota']",1
+20,"['nautil', 'issue', 'energy', 'power', 'crossed', 'brain', 'wire']",1
+21,"['scmp', 'abacus', 'tech', 'article', 'satellite', 'internet', 'failed', 'year', 'time', 'different']",1
+22,"['technologyreview', 'innovator']",1
+23,"['marketwatch', 'story', 'best', 'worst', 'stock', 'first', 'coronavirus', 'pandemic']",1
+24,"['josefschulz', 'uebergang']",1
+25,"['sadanduseless', 'bread', 'doggos']",1
+26,"['nmaahc', 'explore', 'collection']",1
+27,"['theguardian', 'news', 'call', 'grow', 'make', 'juneteenth', 'federal', 'holiday']",1
+28,"['nmaahc', 'blog', 'post', 'historical', 'legacy', 'juneteenth']",1
+29,['join'],0
+30,"['link', 'morningbrew', 'manage']",0
+31,"['morningbrew', 'daily', 'latest']",1
+32,"['help', 'aweber', 'article']",1
+33,"['austinkleon', 'list', 'manage', 'subscribe', 'confirm']",0
+34,"['nytimes', 'upshot', 'epidemiologist', 'decision', 'child', 'school', 'coronavirus', 'html']",1
+35,"['findthatpod', 'archive']",1
+36,"['constantpodcast', 'episode', 'cold', 'hard', 'truth']",1
+37,"['theobservereffect', 'marc', 'html']",1
+38,"['wired', 'story', 'covid']",1
+39,"['expressnews', 'news', 'local', 'article', 'hour', 'inside']",1
+40,"['politico', 'news', 'klobuchar', 'biden', 'woman', 'color']",1
+41,"['museeholocauste', 'object', 'identification', 'badge', 'political', 'prisoner', 'nazi', 'camp']",1
+42,"['techcrunch', 'facebook', 'trump', 'campaign', 'nazi', 'imagery', 'triangle']",1
+43,"['nbcnews', 'politics', 'election', 'trump', 'supporter', 'crowd', 'tulsa', 'ahead', 'saturday', 'rally']",1
+44,"['ourworldindata', 'grapher', 'daily', 'covid', 'death', 'average']",0
+45,"['axios', 'california', 'face', 'mask', 'order', 'coronavirus', 'html']",1
+46,"['reuters', 'article', 'albertsons', 'company', 'grocer', 'albertsons', 'expects', 'raise', 'billion']",1
+47,"['reuters', 'article', 'palantir', 'funding', 'japanese', 'insurer', 'sompo', 'investing', 'million', 'data', 'analytics', 'firm', 'palantir']",1
+48,"['techcrunch', 'delay', 'doordash', 'confirms', 'raise']",1
+49,"['nypost', 'carnival', 'loses', 'billion', 'coronavirus', 'sink', 'cruise', 'industry']",1
+50,"['hopkinsmedicine', 'news', 'newsroom', 'news', 'release', 'light', 'activated', 'crispr', 'trigger', 'precision', 'gene', 'editing', 'super', 'fast', 'repair']",1
+51,"['caltech', 'news', 'natural', 'fluid', 'injection', 'triggered', 'cahuilla', 'earthquake', 'swarm']",1
+52,"['theguardian', 'environment', 'climate', 'change', 'pollution', 'investigation', 'study']",1
+53,"['theguardian', 'environment', 'climate', 'crisis', 'alarm', 'record', 'breaking', 'heatwave', 'siberia']",1
+54,"['techcrunch', 'colin', 'kaepernick', 'join', 'medium', 'board', 'director', 'partnership', 'publishing', 'deal']",1
+55,"['news', 'entertainment']",1
+56,"['hollywoodreporter', 'news', 'theatre', 'reopen', 'location', 'july']",1
+57,"['supremecourt', 'opinion']",1
+58,"['reuters', 'article', 'trump', 'immigration', 'dreamer', 'factbo', 'factbox', 'immigrant', 'dreamer', 'affected', 'supreme', 'court', 'ruling']",1
+59,"['scotusblog', 'opinion', 'analysis', 'court', 'reject', 'trump', 'administration', 'effort', 'daca']",1
+63,"['briefingday', 'commentform']",1
+65,"['ianwelsh', 'cruelty', 'required']",1
+66,"['forbes', 'site', 'sergeiklebnikov', 'goldman', 'clear', 'sign', 'recovery', 'risk', 'remain']",1
+67,"['theguardian', 'film', 'werner', 'herzog', 'fascinated', 'trash', 'poet', 'must', 'avert']",1
+68,"['arstechnica', 'science', 'trump', 'administration', 'paid', 'million', 'test', 'tube', 'unusable', 'mini', 'soda', 'bottle']",1
+69,"['youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",1
+70,"['mansionglobal', 'article', 'apartment', 'next', 'door', 'london', 'famed', 'royal', 'albert', 'hall', 'asks', 'million']",1
+71,"['visualcapitalist', 'growth', 'covid', 'united', 'state', 'peak']",1
+72,"['statista', 'chart', 'country', 'hosting', 'refugee']",1
+73,"['howmuch', 'article', 'gold', 'silver', 'ratio', 'timeline']",1
+74,"['youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",1
+75,"['saturdayeveningpost', 'heinrich', 'beranns', 'beauty']",1
+76,"['news', 'trust', 'item']",1
+77,"['devex', 'news', 'opinion', 'open', 'response', 'open', 'recovery']",1
+78,"['lesswrong', 'post', 'cognitive', 'algorithm']",1
+79,"['seth', 'blog', 'dominant', 'culture']",1
+80,"['cnet', 'news', 'dark', 'matter', 'detector', 'pick', 'unexplained', 'unexpected', 'signal']",1
+81,"['protocol', 'bret', 'arensault', 'microsoft', 'ciso', 'profile']",1
+82,"['sciencemag', 'news', 'worst', 'year', 'alive']",1
+83,"['themarkup', 'banned', 'bounty', 'amazon', 'enforcement', 'failure', 'leave', 'open', 'back', 'door']",1
+84,"['theneutral', 'company', 'rush', 'change', 'brand', 'name', 'image', 'based', 'racial', 'stereotype']",1
+85,"['wired', 'article', 'coronavirus', 'beijing', 'second', 'wave', 'lockdown']",1
+86,"['lawfareblog', 'question', 'government', 'bolton', 'book', 'hearing']",1
+87,"['google', 'form', 'yduq', 'viewform']",0
+88,"['cbsnews', 'news', 'space', 'tourism', 'space', 'perspective', 'balloon', 'ride', 'earth', 'atmosphere']",1
+89,"['youtube', 'watch']",1
+90,"['iflscience', 'plant', 'animal', 'giant', 'squid', 'found', 'washed', 'beach', 'south', 'africa']",1
+91,"['cbsnews', 'news', 'watch', 'weekend', 'rare', 'solstice', 'ring', 'fire', 'solar', 'eclipse']",1
+92,"['thebalance', 'unemployment']",1
+93,"['cnbc', 'portman', 'congress', 'need', 'creative', 'solution', 'jobless', 'benefit', 'html']",1
+94,"['cnbc', 'weekly', 'jobless', 'claim', 'html']",1
+95,"['mymodernmet', 'santiago', 'olay', 'milky', 'cargo', 'ship']",1
+96,['stackmedia'],0
+97,"['sandiegouniontribune', 'business', 'story', 'baby', 'pygmy', 'hippo', 'make', 'splash', 'debut']",1
+98,"['seattle', 'eater', 'seattle', 'protest', 'zone', 'chop', 'chaz', 'capitol', 'hill', 'food', 'eating']",1
+99,"['google', 'form', 'vwjiha', 'viewform']",0
+100,['businesscasual'],0
+101,"['morningbrew', 'emerging', 'tech']",0
+102,"['morningbrew', 'retail']",0
+103,"['youtube', 'watch', 'feature', 'youtu', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",1
+104,"['cnbc', 'stock', 'market', 'future', 'open', 'close', 'news', 'html']",1
+105,"['apnews', 'ecbdd']",1
+106,"['manscaped', 'product', 'weed', 'whacker']",1
+107,"['morningbrew', 'daily', 'story', 'covid', 'consumer']",0
+108,"['morningbrew', 'daily']",1
+109,['morningbrew'],0
+110,"['alcoholic', 'monkey', 'india', 'kalua']",1
+111,"['reuters', 'article', 'pepsico', 'race', 'breakingviews', 'breakingviews', 'company', 'first', 'reparation']",1
+112,"['mentalfloss', 'article', 'spare', 'keanu', 'reef', 'call', 'charity']",1
+114,"['briefingday', 'commentform']",1
+118,"['cbsnews', 'news', 'movie', 'theater', 'face', 'mask', 'policy', 'required']",1
+119,"['tech', 'wirecard', 'fraud', 'tech', 'accounting']",1
+120,"['forbes', 'site', 'bradhunter', 'three', 'reason', 'home', 'improvement', 'fastest', 'growing', 'retail', 'category', 'watch']",1
+121,"['reuters', 'article', 'health', 'coronavirus', 'garden', 'home', 'gardening', 'bloom', 'around', 'world', 'coronavirus', 'lockdown']",1
+122,"['good', 'summer', 'pool', 'open', 'inflatable', 'boat', 'rental', 'camp', 'lawn', 'coronavirus']",1
+123,"['morningbrew', 'daily', 'story', 'lowes', 'beat', 'home', 'depot', 'sale', 'surge', 'html']",1
+124,"['federalreserve', 'publication', 'economic', 'well', 'household', 'banking', 'credit']",1
+125,"['forbes', 'site', 'jonmarkman', 'pandemic', 'ring', 'death', 'knell', 'paper', 'cash']",1
+126,['content'],1
+127,"['cnbc', 'coroanvirus', 'bain', 'report', 'global', 'luxury', 'sale', 'beyond', 'html']",1
+128,"['theatlantic', 'technology', 'archive', 'youll', 'shop', 'grocery', 'pandemic']",1
+129,"['forbes', 'site', 'jenniferwang', 'instacart', 'founder', 'apoorva', 'mehta', 'becomes', 'billionaire']",1
+130,"['bloomberg', 'tosv', 'html']",0
+131,"['opportunityinsights', 'content', 'uploads', 'tracker', 'summary']",1
+132,"['cnbc', 'saving', 'rate', 'record', 'percent', 'coronavirus', 'cause', 'american', 'stockpile', 'cash', 'curb', 'spending', 'html']",1
+133,"['thesunmagazine', 'issue', 'boyfriend', 'girlfriend']",1
+134,"['news', 'trust', 'item']",1
+135,"['tedium', 'flight', 'entertainment', 'system', 'covid', 'impact', 'history']",1
+136,"['profgalloway', 'iaddiction']",1
+137,"['future', 'article', 'boeing', 'plane', 'shrank', 'world']",1
+138,"['sivers', 'exan']",1
+139,"['german', 'police', 'allowed']",1
+140,"['psychologytoday', 'blog', 'insight', 'therapy', 'good', 'king', 'social', 'status', 'health']",1
+141,"['buzzfeednews', 'article', 'tanyachen', 'influencers', 'privilege', 'post', 'black', 'square']",1
+142,"['fivethirtyeight', 'feature', 'economy', 'mess', 'isnt', 'stock', 'market']",1
+143,"['realclearpolitics', 'article', 'medium', 'begging', 'second', 'wave', 'html']",1
+144,['content'],1
+145,"['smithsonianmag', 'innovation', 'covid', 'tipping', 'point', 'telemedicine']",1
+146,"['theguardian', 'commentisfree', 'venice', 'tourism', 'covid', 'coronavirus', 'green', 'tourism']",1
+147,"['morningbrew', 'privacy']",0
+149,"['shop', 'morningbrew']",0
+150,"['lever', 'morningbrew']",0
+151,"['morningbrew', 'essential']",0
+152,"['morningbrew', 'daily']",0
+153,"['morningbrew', 'daily']",0
+154,"['morningbrew', 'daily', 'refer', 'friend']",0
+155,"['medium', 'giphy', 'medium', 'giphy']",1
+156,"['standard', 'business', 'cashstrapped', 'british', 'airway', 'sell', 'artwork', 'worth', 'million', 'html']",1
+157,"['morningbrewdaily', 'typeform']",1
+158,"['patch', 'york', 'westhampton', 'hamptonbays', 'filmmaker', 'movie', 'america', 'pandemic']",1
+159,['neeva'],1
+161,"['invest', 'truststamp', 'morningbrew']",1
+162,"['cnbc', 'robinhood', 'increase', 'guardrail', 'option', 'trading', 'wake', 'customer', 'suicide', 'html']",1
+163,"['cnbc', 'apple', 'close', 'store', 'covid', 'case', 'reappear', 'html']",1
+164,"['amusingplanet', 'liverpool', 'secret', 'tunnel', 'built', 'html']",1
+165,"['reason', 'swiss', 'investigate', 'year', 'trying', 'money']",1
+166,"['melmagazine', 'story', 'summer', 'signaled', 'arnold', 'dawn']",1
+167,"['mentalfloss', 'article', 'incisive', 'fact']",1
+168,"['independent', 'life', 'style', 'cinema', 'return', 'lockdown', 'closed', 'watch', 'movie', 'silence', 'html']",1
+169,"['afar', 'magazine', 'rugby', 'north', 'dakota', 'geographical', 'center', 'north', 'america']",1
+170,"['cbsnews', 'news', 'arctic', 'hottest', 'temperature', 'ever']",1
+171,"['lesswrong', 'post', 'hxvf', 'oqyr', 'wireless', 'trap']",1
+172,"['thecut', 'think', 'arnold', 'schwarzeneggers', 'mini', 'horse', 'html']",1
+173,"['psychologytoday', 'blog', 'beauty', 'sick', 'instagram', 'worse', 'body', 'image', 'facebook']",1
+174,"['medium', 'learningbyshipping', 'store', 'debate', 'story', 'ecosystem', 'eeef']",1
+175,"['money', 'tracker', 'much', 'trump', 'biden', 'raised', 'election']",1
+176,"['austinkleon', 'good', 'book', 'read', 'spring']",0
+177,"['youtube', 'watch', 'tgyx', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",1
+178,"['aeon', 'essay', 'reality', 'computer', 'simulation', 'matter']",1
+179,"['fastcompany', 'airbnbwhileblack', 'inside', 'story', 'airbnbs', 'racism', 'problem']",1
+180,"['undark', 'undark', 'interview', 'brianna', 'remster']",1
+181,"['news', 'business']",1
+183,"['nypost', 'inside', 'government', 'plan', 'blow', 'moon']",1
+184,"['digitalcommerce', 'versus', 'goliath', 'guess']",1
+185,"['slate', 'human', 'interest', 'flight', 'attendant', 'interview', 'flying', 'right', 'covid', 'html']",1
+186,"['huckmag', 'culture', 'photography', 'charlie', 'kwai', 'pate', 'croute', 'sandwich', 'magazine']",1
+187,"['newstatesman', 'culture', 'design', 'news', 'picture', 'best', 'current', 'affair', 'shot']",1
+191,"['briefingday', 'commentform']",1
+193,"['reddit', 'nextfuckinglevel', 'comment', 'fitness', 'freak', 'simultaneously', 'solves', 'rubiks']",1
+195,"['wikipedia', 'wiki']",1
+196,"['people', 'health', 'workout', 'allow', 'client', 'exercise', 'without', 'mask', 'amid', 'pandemic']",1
+197,"['world', 'soap', 'bubble', 'robotic', 'pollination', 'study', 'index', 'html']",1
+198,"['thehustle', 'sport', 'stadium', 'suddenly', 'full', 'cardboard']",1
+199,"['youtube', 'watch']",1
+200,"['pitchfork', 'news', 'beyonce', 'drop', 'song', 'black', 'parade', 'listen']",1
+201,"['news', 'science', 'environment']",1
+202,['salvationmountain'],1
+203,"['youtube', 'watch', 'text', 'arrated', 'aters', 'eccentric', 'individualistic']",1
+204,"['wikipedia', 'wiki', 'essage', 'ottle']",1
+205,"['wikipedia', 'wiki', 'ulinary', 'triangle']",1
+206,"['violenceandreligion', 'mimetic', 'theory']",1
+207,"['wikipedia', 'wiki', 'iolence', 'eace', 'eace', 'esearch']",1
+208,"['english', 'file', 'university', 'writing', 'file', 'item']",1
+209,"['wikipedia', 'wiki', 'rovidence']",1
+210,"['wikipedia', 'wiki', 'antrum']",1
+211,"['youtube', 'watch']",1
+212,"['logoworks', 'blog', 'bass', 'pale', 'brand', 'logo']",1
+213,['whyisthisinteresting'],0
+214,"['whyisthisinteresting', 'subscribe']",0
+215,"['theguardian', 'commentisfree', 'black', 'life', 'mattered', 'revolt', 'cultural', 'debate', 'hostile', 'establishment']",1
+216,"['tribunemag', 'covid', 'could', 'disaster', 'automation', 'waiting']",1
+218,"['pudding', 'cool', 'travel', 'local']",1
+219,"['news', 'england', 'wiltshire']",1
+220,"['minnesota', 'cbslocal', 'legislature', 'adjourns', 'special', 'session', 'issue', 'remain', 'unsolved']",1
+221,"['reuters', 'article', 'seattle', 'shooting', 'teenager', 'killed', 'seattle', 'protest', 'zone', 'shooting', 'wounded']",1
+222,['apnews'],1
+223,"['news', 'england', 'berkshire']",1
+224,"['reuters', 'article', 'wirecard', 'account', 'wirecard', 'exit', 'search', 'missing', 'billion', 'dead', 'asia']",1
+225,"['axios', 'major', 'cruise', 'line', 'suspend', 'trip', 'coronavirus', 'html']",1
+226,"['cnbc', 'treasury', 'disclose', 'name', 'business', 'taking', 'loan', 'html']",1
+227,"['nature', 'article']",1
+228,"['theverge', 'apple', 'wwdc', 'ipados', 'watchos', 'rumor']",1
+229,['presskit'],1
+230,"['news', 'science', 'environment']",1
+231,"['deadline', 'regal', 'cinema', 'face', 'mask', 'policy', 'change', 'adam', 'aron', 'controversy', 'coronavirus']",1
+232,"['cbssports', 'news', 'player', 'vote', 'game', 'season', 'monday', 'manfred', 'tweak', 'proposal', 'report']",1
+233,"['espn', 'horse', 'racing', 'story', 'york', 'bred', 'belmont', 'stake']",1
+234,"['reuters', 'article', 'people', 'malala', 'sleep', 'netflix', 'ahead', 'malala', 'finish', 'oxford', 'degree']",1
+235,"['documentcloud', 'document', 'etter', 'erman', 'html']",1
+236,"['judiciary', 'senate', 'press', 'release', 'chairman', 'graham', 'statement', 'trump', 'administration', 'intent', 'nominate', 'clayton', 'attorney', 'southern', 'district', 'york']",1
+237,"['cbsnews', 'news', 'geoffrey', 'berman', 'trump', 'appointee', 'attorney', 'william', 'barr']",1
+238,"['axios', 'barr', 'trump', 'southern', 'district', 'york', 'html']",1
+239,"['scmp', 'news', 'hong', 'kong', 'politics', 'article', 'national', 'security', 'beijing', 'plan', 'appoint', 'adviser']",1
+240,"['reuters', 'article', 'hongkong', 'protest', 'finance', 'explainer', 'explainer', 'important', 'hong', 'kong', 'china', 'free', 'finance']",1
+241,"['reuters', 'article', 'hongkong', 'protest', 'security', 'beijing', 'sweeping', 'power', 'hong', 'kong', 'security']",1
+243,"['politico', 'news', 'takeaway', 'biden', 'trump', 'fundraising']",1
+244,"['tulsaworld', 'news', 'local', 'moment', 'inside', 'center', 'president', 'trump', 'rally', 'article', 'html']",1
+245,"['usatoday', 'stans', 'spamming', 'explained']",1
+246,"['politico', 'news', 'trump', 'tulsa', 'rally', 'ticket', 'hack']",1
+247,"['politico', 'gallery', 'trump', 'rally', 'tulsa', 'oklahoma', 'photo']",1
+248,"['tulsaworld', 'news', 'trump', 'tulsa', 'president', 'attack', 'china', 'biden', 'others', 'tout', 'heritage', 'improving', 'economy', 'article', 'efbcae', 'html']",1
+250,"['link', 'theskimm', 'manage']",0
+251,"['theskimm', 'general', 'disclaimer', 'post']",0
+252,"['google', 'form', 'pgrydnzd', 'viewform']",0
+253,['collectiveaidngo'],1
+254,['uprising'],1
+255,"['sakara', 'page', 'skimm']",1
+256,"['drinkhydrant', 'skimm', 'june']",1
+257,"['simplisafe', 'save']",0
+258,"['theskimm', 'skimmpicks']",0
+259,"['food', 'blog', 'picnic', 'perfect', 'dish', 'taste', 'great', 'room', 'temperature']",1
+260,"['elle', 'culture', 'movie', 'best', 'summer', 'show']",1
+261,"['latimes', 'entertainment', 'music', 'story', 'beyonce', 'black', 'parade', 'juneteenth']",1
+263,"['nytimes', 'world', 'europe', 'forbury', 'garden', 'stabbing', 'reading', 'terrorism', 'html']",1
+264,"['reading', 'terror', 'incident', 'intl', 'index', 'html']",1
+265,"['nascar', 'confederate', 'flag', 'trnd', 'index', 'html']",1
+266,"['espn', 'racing', 'nascar', 'story', 'nascar', 'noose', 'found', 'bubba', 'wallace', 'garage', 'talladega']",1
+267,"['politics', 'judge', 'john', 'bolton', 'book', 'index', 'html']",1
+268,"['thehill', 'homenews', 'administration', 'former', 'manhattan', 'prosecutor', 'condemn', 'berman', 'firing']",1
+269,"['theguardian', 'news', 'attorney', 'geoffrey', 'berman', 'oversaw', 'prosecution', 'trump', 'ally', 'abruptly', 'resigns']",1
+270,"['nytimes', 'nyregion', 'trump', 'geoffrey', 'berman', 'fired', 'sdny', 'html']",1
+271,['apnews'],1
+272,"['forbes', 'site', 'andrewsolender', 'trump', 'campaign', 'manager', 'registered', 'ticket', 'tulsa', 'rallybut', 'venue', 'seat']",1
+273,"['marketwatch', 'story', 'trump', 'tongue', 'cheek', 'said', 'slow', 'testing', 'white', 'house', 'adviser', 'peter', 'navarro']",1
+274,"['section', 'health', 'shot', 'younger', 'adult', 'increasingly', 'testing', 'positive', 'coronavirus']",1
+275,"['insider', 'texas', 'governor', 'blame', 'coronavirus', 'case', 'spike', 'young', 'people']",1
+276,"['coronavirus', 'sunday', 'index', 'html']",1
+277,"['stevebryant', 'substack']",0
+278,"['outsideonline', 'world', 'change', 'chart']",1
+279,"['lawfareblog', 'challenge', 'effective', 'counterterrorism', 'intelligence']",1
+280,"['newstatesman', 'politics', 'health', 'dark', 'side', 'wellness', 'industry']",1
+281,"['yale', 'feature', 'global', 'regulator', 'selling', 'world', 'largest', 'tuna']",1
+282,"['militarytimes', 'news', 'military', 'tinder', 'sailor', 'hooker', 'pimp', 'navy', 'trafficking', 'scandal', 'bahrain']",1
+283,"['onezero', 'medium', 'segway', 'inventor', 'project', 'manufacturing', 'human', 'organ']",1
+284,"['thedailybeast', 'google', 'founder', 'sergey', 'brin', 'secret', 'disaster', 'relief', 'squad']",1
+285,"['youtube', 'watch', 'xxxqw', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",1
+286,"['layohn', 'village', 'built', 'among', 'rock', 'html']",1
+287,"['story', 'californiasunday', 'small', 'business', 'covid', 'north', 'light']",1
+288,"['nybooks', 'article', 'college', 'worth']",1
+289,"['robert', 'goetzfried']",1
+290,"['redd', 'mzrpdbygb']",1
+291,"['future', 'article', 'better', 'predicting', 'future', 'think']",1
+292,"['popularmechanics', 'culture', 'gaming', 'lego', 'bionicle', 'faber']",1
+293,"['googlemapsmania', 'blogspot', 'lived', 'house', 'html']",1
+294,"['ankit', 'alone']",1
+295,"['youtube', 'watch', 'jedph', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",1
+296,"['noemamag', 'statue', 'limitation']",1
+297,"['inverse', 'mind', 'body', 'first', 'stay', 'home']",1
+298,"['mcsweeneys', 'article', 'america', 'explained', 'pant']",1
+299,"['theracquet', 'substack', 'modernisation', 'tennis']",1
+301,"['briefingday', 'commentform']",1
+305,['rentalcarrally'],1
+306,"['arbesman', 'substack', 'revisiting', 'world', 'simulation']",1
+307,"['uncertaintymindset', 'substack', 'preference', 'uncertainty']",1
+308,"['mailchi', 'racial', 'capitalism', 'stack', 'green', 'deal', 'finding', 'right', 'simplifier']",1
+309,"['drawinglinks', 'substack']",0
+310,"['breakingsmart', 'substack']",1
+311,"['othervalleys', 'substack']",1
+312,"['themargins', 'substack']",1
+313,['messynessychic'],1
+314,"['youtube', 'watch']",1
+315,"['apps', 'apple', 'oblique', 'strategy']",1
+316,['amazon'],1
+317,"['wikipedia', 'wiki', 'alifornia']",1
+318,"['abcnews', 'state', 'record', 'high', 'covid', 'case', 'story']",1
+319,"['theguardian', 'world', 'coronavirus', 'world', 'country', 'covid', 'case', 'death']",1
+320,['apnews'],1
+321,"['section', 'health', 'shot', 'tracking', 'spread', 'coronavirus']",1
+322,"['nytimes', 'world', 'coronavirus', 'live', 'update', 'html', 'link']",1
+323,"['theskimm', 'invite']",0
+324,"['theskimm', 'daily', 'skimm']",0
+325,['theskimm'],0
+337,"['morningbrew', 'daily', 'story', 'week', 'review', 'crossword', 'june']",1
+338,"['dcist', 'story', 'past', 'present', 'potential', 'future', 'statehood', 'explained']",1
+339,"['oversight', 'house', 'site', 'democrat', 'oversight', 'house', 'file', 'ayor', 'owser', 'estimony']",1
+340,"['cato', 'publication', 'commentary', 'statehood', 'fool', 'errand']",1
+341,"['statehood', 'columbia']",1
+342,"['wamu', 'story', 'statehood', 'back', 'table', 'need', 'know', 'push', 'become', 'state']",1
+343,"['politico', 'news', 'house', 'vote', 'statehood']",1
+344,['geoguessr'],1
+345,"['nerdfitness', 'blog', 'beginner', 'body', 'weight', 'workout', 'burn', 'build', 'muscle']",1
+346,"['nytimes', 'wild', 'removed', 'html']",1
+347,"['imdb', 'title']",1
+348,"['penguinrandomhouse', 'book', 'wild', 'krakauer']",1
+349,"['podcasts', 'apple', 'podcast', 'megatrends', 'think', 'long', 'term', 'downturn']",1
+350,"['blog', 'announcement', 'decision', 'capitalize', 'black']",1
+351,['content'],1
+352,"['reuters', 'article', 'american', 'airline', 'offering', 'american', 'airline', 'sell', 'share', 'debt', 'cope', 'coronavirus']",1
+353,"['tech', 'north', 'face', 'facebook', 'index', 'html']",1
+354,"['reuters', 'article', 'stock', 'weekahead', 'wall', 'street', 'week', 'ahead', 'london', 'index', 'reshuffle', 'give', 'healthcare', 'stock', 'bigger', 'profile']",1
+355,"['forbes', 'site', 'lisakocay', 'electric', 'blockaloo', 'livestream', 'music', 'festival', 'minecraft']",1
+356,"['morningbrew', 'daily', 'story', 'week', 'ahead', 'june']",1
+357,"['article', 'york', 'city', 'reopens', 'driving', 'becomes', 'tempting', 'commute']",1
+358,"['article', 'yorkers', 'return', 'office', 'staying', 'away']",1
+359,"['morningbrew', 'daily', 'story', 'enters', 'phase', 'reopening']",1
+360,"['youtube', 'watch']",1
+361,"['article', 'short', 'seller', 'made', 'billion', 'wirecards', 'plunge', 'without', 'scar']",1
+362,"['nytimes', 'business', 'wirecard', 'scandal', 'html']",1
+363,"['morningbrew', 'daily', 'story', 'whats', 'happening', 'wirecard']",1
+364,"['geoffrey', 'berman', 'attorney', 'prosecuted', 'trump', 'ally', 'wont', 'quit']",1
+365,"['morningbrew', 'daily', 'story', 'sdny', 'prosecutor', 'resigns', 'trump', 'chairman', 'nominated', 'take']",1
+366,"['developer', 'apple']",1
+367,['apnews'],1
+369,"['theverge', 'apple', 'email', 'basecamp', 'rejection', 'response', 'controversy', 'antitrust', 'regulation']",1
+370,"['morningbrew', 'daily', 'story', 'apple', 'wwdc', 'virtual', 'first', 'time', 'ever']",1
+373,"['blackrock', 'individual']",0
+374,"['morningbrew', 'daily', 'story']",0
+375,"['morningbrew', 'daily']",1
+377,['itsmestevebryant'],1
+381,"['briefingday', 'commentform']",1
+383,"['rollingstone', 'music', 'music', 'feature', 'penny', 'lane', 'beatles', 'slave', 'trade']",1
+384,"['airspacemag', 'history', 'flight', 'first', 'force']",1
+385,"['nbcnews', 'think', 'opinion', 'bullet', 'journal', 'paper', 'planner', 'rage', 'ncna']",1
+386,"['vice', 'article', 'wemm', 'strip', 'club', 'forced', 'creative', 'reopen', 'amid', 'coronavirus']",1
+387,"['youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",1
+388,"['youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",1
+389,"['youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",1
+390,"['protocol', 'apple', 'wwdc', 'developer']",1
+391,"['seth', 'blog', 'whats', 'front', 'line']",1
+392,"['section', 'coronavirus', 'live', 'update', 'barcelona', 'opera', 'reopens', 'audience', 'plant']",1
+393,"['wired', 'story', 'human', 'startup', 'investing', 'people']",1
+394,"['theguardian', 'money', 'martin', 'lewis', 'money', 'happiness', 'money', 'destroys', 'life']",1
+396,"['getpocket', 'explore', 'item', 'meat', 'paradox', 'reveals', 'moral', 'decision', 'making']",1
+397,"['percentinvisible', 'article', 'insert', 'coin', 'lump', 'coal', 'brief', 'year', 'history', 'vending', 'machine']",1
+398,"['theguardian', 'artanddesign', 'gallery', 'brief', 'history', 'protest', 'whitney', 'york']",1
+399,"['discovermagazine', 'health', 'sometimes', 'virus', 'good', 'health']",1
+400,"['melmagazine', 'story', 'everything', 'wikihow']",1
+401,"['theconversation', 'journalist', 'believe', 'news', 'opinion', 'separate', 'reader', 'cant', 'tell', 'difference']",1
+402,"['science', 'health', 'optical', 'illusion', 'science', 'humility', 'reality', 'polarization']",1
+403,"['fivethirtyeight', 'feature', 'police', 'reform', 'fundamentally', 'flawed', 'idea']",1
+404,['apnews'],1
+405,"['noemamag', 'long', 'shadow', 'future']",1
+406,"['brookings', 'multi', 'chapter', 'report', 'opioid', 'crisis', 'america', 'domestic', 'international', 'dimension']",1
+407,"['salon', 'inside', 'blue', 'leak', 'trove', 'hacked', 'police', 'document', 'released', 'anonymous']",1
+408,"['thewalrus', 'shopping', 'mall', 'might', 'coming', 'back']",1
+411,"['oldfashioned', 'tech']",1
+412,"['youtube', 'watch']",1
+413,"['news', 'world', 'canada']",1
+414,"['dupont', 'product', 'dupont', 'tychem', 'html']",1
+415,"['tacobell', 'food', 'specialty', 'chalupa', 'supreme']",1
+416,"['coronavirus', 'ncov', 'traveler', 'travel', 'html']",1
+417,"['tinyletter', 'transportation']",1
+418,"['whyisthisinteresting', 'substack', 'interesting', 'autopilot']",0
+420,"['insidehook', 'daily', 'brief', 'dating', 'woman', 'dont', 'date']",1
+421,"['good', 'firework', 'complaint', 'northeastern', 'city']",1
+422,"['tiqets', 'blog', 'black', 'history', 'museum']",1
+423,"['flowingdata', 'generation', 'population']",1
+424,"['thisiscolossal', 'joerg', 'daiber', 'flower', 'power']",1
+425,"['admin', 'preview', 'thrillist', 'drink', 'nation', 'beer', 'changed', 'america', 'influential', 'beer', 'brewery']",1
+426,"['visualcapitalist', 'visualizing', 'true', 'size', 'land', 'mass', 'largest', 'smallest']",1
+427,"['nytimes', 'business', 'cheese', 'cheddar', 'price', 'html']",1
+428,"['theverge', 'crisis', 'text', 'line', 'racism', 'insensitivity', 'police', 'nancy', 'lublin', 'mental', 'health']",1
+430,"['reuters', 'article', 'saudi', 'saudi', 'arabia', 'arrival', 'abroad', 'attend']",1
+431,"['politico', 'news', 'trump', 'extends', 'foreign', 'worker', 'restriction']",1
+432,"['apnews', 'dcff']",1
+433,"['cnbc', 'patagonia', 'join', 'growing', 'list', 'company', 'boycotting', 'facebook', 'html']",1
+434,"['reuters', 'article', 'stock', 'wall', 'street', 'higher', 'boost', 'technology', 'stock']",1
+435,"['reuters', 'article', 'economy', 'home', 'sale', 'nine', 'half', 'year', 'price', 'growth', 'cool']",1
+436,"['news', 'japan', 'capture', 'crown', 'powered', 'supercomputer']",1
+437,"['theverge', 'apple', 'email', 'approval', 'rule', 'basecamp', 'launch']",1
+438,"['theverge', 'apple', 'processor', 'silicon', 'chip', 'wwdc']",1
+439,"['nature', 'article']",1
+440,"['player', 'association', 'reject', 'game', 'proposal', 'season']",1
+441,"['hollywoodreporter', 'news', 'golden', 'globe', 'oscar', 'delay']",1
+442,"['variety', 'film', 'news', 'joel', 'schumacher', 'dead', 'batman', 'director']",1
+443,"['espn', 'racing', 'nascar', 'story', 'richard', 'petty', 'attend', 'talladega', 'support', 'bubba', 'wallace']",1
+444,"['christopher', 'cloos']",0
+445,"['tech', 'wirecard', 'missing', 'money', 'index', 'html']",1
+446,['content'],1
+448,"['reuters', 'article', 'wirecard', 'account', 'total', 'disaster', 'phantom', 'billion', 'plunge', 'wirecard', 'chaos']",1
+449,"['politico', 'news', 'everybody', 'hate', 'john', 'bolton']",1
+450,"['lawfareblog', 'assessing', 'government', 'lawsuit', 'john', 'bolton']",1
+451,"['thehill', 'homenews', 'administration', 'trump', 'lash', 'bolton', 'book', 'release']",1
+452,['apnews'],1
+454,"['nbcnewyork', 'news', 'local', 'reopening', 'highest', 'gear', 'shop', 'outdoor', 'dining', 'playground', 'return', 'monday']",1
+455,"['theguardian', 'world', 'coronavirus', 'spike', 'first', 'wave']",1
+456,"['coronavirus', 'testing', 'individual', 'state', 'florida']",1
+457,"['orlandosentinel', 'coronavirus', 'coronavirus', 'monday', 'june', 'uuntnu', 'vqzff', 'hsuet', 'mgsbwa', 'story', 'html']",1
+462,"['classy', 'campaign', 'help', 'keep', 'virtual', 'door', 'open']",1
+463,"['lovevery', 'page', 'play', 'program']",1
+464,['curiouselixirs'],1
+466,"['chocolateforbasil', 'squarespace', 'blog', 'pretzel', 'shortbread', 'cooky']",1
+467,"['open', 'spotify', 'playlist', 'oywva']",1
+468,"['mybillie', 'page', 'skimm']",0
+469,"['ballotpedia', 'ample', 'allot', 'ookup']",1
+470,"['usatoday', 'story', 'news', 'world', 'huge', 'circle', 'ancient', 'shaft', 'found', 'near', 'stonehenge']",1
+471,"['theverge', 'apple', 'update', 'cycling', 'direction', 'electric', 'charging', 'wwdc']",1
+472,"['cnet', 'news', 'wwdc', 'everything', 'apple', 'announced', 'macos', 'chip', 'siri', 'message', 'memoji']",1
+473,"['businessinsider', 'apple', 'wwdc', 'keynote', 'live', 'blog', 'watchos', 'announcement', 'feature', 'ipad', 'airpods']",1
+474,['apnews'],1
+475,"['usatoday', 'nascar', 'bubba', 'wallace', 'geico', 'talladega', 'infield']",1
+476,"['nascar', 'noose', 'bubba', 'wallace', 'trnd', 'index', 'html']",1
+477,"['theskimm', 'immigration', 'policy', 'election']",1
+478,"['businessinsider', 'amazon', 'google', 'twitter', 'speak', 'trump', 'visa', 'freeze']",1
+479,"['newshour', 'economy', 'making', 'sense', 'myth', 'immigrant', 'affect', 'economy']",1
+480,"['nbcnews', 'business', 'economy', 'economy', 'shed', 'record', 'million', 'last']",1
+481,"['trump', 'expected', 'suspend', 'visa', 'year']",1
+482,"['entertainment', 'hamilton', 'movie', 'trailer', 'disney', 'intl', 'scli', 'index', 'html']",1
+484,"['communication', 'fidelity', 'retirement']",1
+500,"['gothamist', 'news', 'firework', 'complaint', 'increase', 'june', 'official', 'seek', 'supplier', 'crackdown']",1
+501,"['livemorningbrewkevinolearytalk', 'splashthat']",1
+502,"['link', 'morningbrew', 'join', 'thankyou', 'hash']",1
+503,"['pudding', 'cool', 'music', 'challenge']",1
+504,"['pudding', 'cool', 'karen']",1
+505,"['theverge', 'apple', 'update', 'home', 'screen', 'redesign', 'feature', 'release', 'date', 'wwdc']",1
+506,"['theverge', 'apple', 'wwdc', 'recap', 'biggest', 'announcement', 'ipados', 'macos', 'silicon', 'chip']",1
+507,"['foursigmatic', 'summer', 'sale']",1
+508,['joinhoney'],0
+509,"['consequenceofsound', 'grateful', 'dead', 'deodorant']",1
+510,"['apnews', 'cbcd', 'ffef']",1
+511,"['axios', 'texas', 'coronavirus', 'case', 'spread', 'ecfaa', 'html']",1
+512,"['cnbc', 'bill', 'ackmans', 'blank', 'check', 'company', 'billion', 'called', 'mature', 'unicorn', 'html']",1
+513,"['arstechnica', 'gadget', 'apple', 'roadmap', 'moving', 'first', 'away', 'intel']",1
+514,"['theverge', 'microsoft', 'gaming', 'cloud', 'xbox', 'future']",1
+515,"['theloadout', 'mixer', 'facebook', 'gaming', 'ninja', 'shroud', 'contract', 'offer', 'turned']",1
+516,"['theverge', 'microsoft', 'mixer', 'closing', 'facebook', 'gaming', 'partnership', 'xcloud', 'feature']",1
+517,"['morningbrew', 'daily', 'story', 'microsoft', 'shuts', 'mixer']",1
+519,"['reuters', 'article', 'court', 'supreme', 'court', 'limit', 'power', 'recover', 'gotten', 'gain']",1
+520,"['morningbrew', 'daily', 'story', 'supreme', 'court', 'limit', 'disgorgement', 'practice']",1
+521,"['techcrunch', 'canva', 'design', 'platform', 'partner', 'fedex', 'office', 'push']",1
+522,"['techcrunch', 'canva', 'raise', 'million', 'billion', 'valuation']",1
+523,"['morningbrew', 'daily', 'story', 'canva', 'worth', 'billion', 'recent', 'round']",1
+524,"['article', 'trump', 'order', 'would', 'temporarily', 'suspend', 'visa']",1
+525,"['axios', 'immigrant', 'suspension', 'coronavirus', 'trump', 'html']",1
+526,"['buzzfeednews', 'article', 'adolfoflores', 'trump', 'suspending', 'certain', 'visa', 'foreign', 'worker']",1
+527,"['morningbrew', 'daily', 'story', 'trump', 'sign', 'order', 'restricting', 'immigration']",1
+528,"['reuters', 'article', 'facebook', 'patagonia', 'patagonia', 'join', 'north', 'face', 'facebook', 'boycott']",1
+529,"['article', 'google', 'revenue', 'expected', 'decline', 'emarketer']",1
+530,"['cnbc', 'google', 'revenue', 'drop', 'year', 'emarketer', 'html']",1
+531,"['morningbrew', 'daily', 'story', 'google', 'revenue', 'expected', 'fall']",1
+532,"['article', 'rally', 'material', 'signal', 'economic', 'rebound']",1
+533,"['apnews', 'fcff']",1
+534,"['fool', 'content', 'stock', 'alert']",1
+536,"['morningbrew', 'daily']",1
+538,"['bigspaceship', 'list', 'manage', 'profile']",0
+539,"['bigspaceship', 'list', 'manage', 'unsubscribe']",0
+540,"['forward', 'friend', 'forward']",0
+541,"['atlanta', 'spotlight', 'brook', 'funeral', 'index', 'html']",1
+542,"['cosmopolitan', 'politics', 'kentucky', 'voting', 'election', 'polling', 'location', 'help', 'donate']",1
+543,['apnews'],1
+544,"['eonline', 'news', 'tennis', 'star', 'novak', 'djokovic', 'test', 'positive', 'coronavirus']",1
+550,"['theverge', 'spotify', 'interactive', 'podcasts', 'offer', 'launch']",1
+551,"['youtube', 'watch', 'ndag', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",1
+553,"['buzzfeed', 'natashajokic', 'megan', 'jimmy', 'kimmel', 'interview']",1
+554,"['variety', 'news', 'rock', 'blackface', 'episode', 'removed', 'tina']",1
+555,"['theverge', 'spongebob', 'squarepants', 'digital', 'release', 'delay', 'streaming', 'access', 'warner', 'bros', 'tenet']",1
+556,"['movie', 'chicken', 'work', 'netflix']",1
+557,"['hollywoodreporter', 'live', 'feed', 'cobra', 'move', 'netflix']",1
+559,"['buzzfeed', 'shelbyheinrich', 'tiktok', 'song', 'jingle', 'statistic', 'viral']",1
+560,"['youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",1
+561,"['youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",1
+562,"['youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",1
+563,"['mailchi', 'bigspaceship', 'spaceship', 'internet', 'brunch']",1
+565,"['theskimm', 'pick', 'thing', 'youll', 'need', 'smooth', 'road', 'trip']",0
+567,"['tennessean', 'story', 'news', 'tennessean', 'fire', 'manager', 'donates', 'fund', 'plan', 'training', 'anti', 'muslim']",1
+568,"['theguardian', 'artanddesign', 'expert', 'call', 'regulation', 'latest', 'botched', 'restoration', 'spain']",1
+569,"['sciencealert', 'number', 'understand', 'letter', 'symbol']",1
+570,"['mymodernmet', 'tibetan', 'book', 'printed', 'gutenberg', 'bible']",1
+572,"['livescience', 'hottest', 'arctic', 'circle', 'temperature', 'ever', 'siberia', 'html']",1
+574,"['theguardian', 'environment', 'gallery', 'otherworldly', 'life', 'giving', 'award', 'winning', 'photo', 'theme', 'water']",1
+575,"['axios', 'protest', 'fuel', 'record', 'traffic', 'donation', 'site', 'html']",1
+576,"['news', 'world', 'canada']",1
+577,"['nbcnews', 'news', 'latino', 'magnitude', 'earthquake', 'rock', 'mexico']",1
+578,"['thehill', 'homenews', 'state', 'watch', 'texas', 'governor', 'urge', 'resident', 'stay', 'home', 'state', 'report', 'high']",1
+579,['apnews'],1
+580,"['theverge', 'european', 'union', 'travel', 'coronavirus', 'reopening', 'border', 'draft', 'list']",1
+581,"['countable', 'article', 'major', 'difference', 'democrat', 'republican', 'police', 'reform', 'bill']",1
+582,"['politico', 'news', 'harris', 'booker', 'schumer', 'police', 'plan']",1
+583,"['tech', 'wirecard', 'markus', 'braun', 'arrested', 'index', 'html']",1
+584,"['reuters', 'article', 'johnson', 'johnson', 'talc', 'lawsuit', 'loses', 'overturn', 'baby', 'powder', 'verdict', 'damage', 'billion']",1
+585,"['news', 'ucsc', 'pluto', 'ocean', 'html']",1
+586,"['axios', 'mercedes', 'nvidia', 'self', 'driving', 'update', 'html']",1
+587,"['eruption', 'alaska', 'okmok', 'volcano', 'linked', 'mysterious', 'period', 'extreme', 'cold', 'ancient', 'rome']",1
+588,"['hollywoodreporter', 'news', 'jeremy', 'charged', 'raping', 'three', 'woman']",1
+589,"['deadline', 'weekend', 'office', 'coroanvirus', 'cinemark', 'jurassic', 'park', 'troll', 'world', 'tour']",1
+590,"['hollywoodreporter', 'live', 'feed', 'jimmy', 'kimmel', 'apologizes', 'blackface', 'impression', 'star', 'karl', 'malone']",1
+591,"['dropps', 'page', 'welcome']",0
+592,"['news', 'video', 'puerto', 'rico', 'saharan', 'dust', 'moved', 'across', 'atlantic']",1
+593,"['nbcnews', 'news', 'news', 'suspect', 'custody', 'alleged', 'arson', 'wendy', 'rayshard', 'brook']",1
+594,"['news', 'local', 'exclusive', 'atlanta', 'charged', 'brook', 'case', 'truth', 'come']",1
+595,"['lifestyle', 'photo', 'rayshard', 'brook', 'funeral', 'ebenezer', 'baptist', 'church']",1
+596,"['cbsnews', 'news', 'rayshard', 'brook', 'funeral', 'today', 'atlanta', 'ebenezer', 'baptist', 'church']",1
+597,"['thehill', 'homenews', 'campaign', 'madison', 'cawthorn', 'defeat', 'meadow', 'ally', 'north', 'carolina', 'house', 'runoff']",1
+598,"['thehill', 'homenews', 'campaign', 'bowman', 'lead', 'engel', 'york', 'primary', 'vote', 'count', 'continues']",1
+599,"['usatoday', 'story', 'news', 'politics', 'election', 'june', 'primary', 'charles', 'booker', 'mcgrath', 'result', 'delayed']",1
+600,"['politico', 'news', 'tuesday', 'primary', 'york', 'kentucky']",1
+614,"['techcrunch', 'mschf', 'finger']",1
+615,"['morningbrew', 'daily', 'story', 'youre', 'getting', 'married', 'pandemic']",1
+616,"['wework', 'info', 'future', 'work', 'flexible']",1
+617,"['fool', 'ascent', 'credit', 'card', 'landing', 'citi', 'diamond', 'preferred']",0
+618,"['reuters', 'article', 'trump', 'twitter', 'twitter', 'warning', 'notice', 'trump', 'tweet', 'abusive', 'behavior']",1
+619,"['nytimes', 'business', 'stacy', 'brown', 'philpot', 'taskrabbit', 'html']",1
+620,"['article', 'dell', 'explores', 'option', 'vmware', 'stake']",1
+621,"['morningbrew', 'daily', 'story', 'mask', 'prove', 'puzzling', 'retail', 'category', 'html']",1
+622,"['cnbc', 'etsy', 'stock', 'climb', 'record', 'tripled', 'since', 'march', 'spurred', 'mask', 'html']",1
+623,"['politics', 'coronavirus', 'travel', 'index', 'html']",1
+624,['apnews'],1
+625,"['fastcompany', 'exclusive', 'segway', 'hyped', 'invention', 'since', 'macintosh', 'production']",1
+626,"['morningbrew', 'daily', 'story', 'segway', 'shut', 'july']",1
+627,"['forbes', 'site', 'quora', 'jeff', 'bezos', 'banned', 'powerpoint', 'presentation', 'amazon', 'meeting', 'replaced', 'eebafb']",1
+630,"['apnews', 'fdcf']",1
+631,"['breonna', 'taylor', 'shooting', 'officer', 'fired', 'index', 'html']",1
+632,"['theguardian', 'news', 'breonna', 'taylor', 'louisville', 'protest', 'george', 'floyd']",1
+633,"['usatoday', 'story', 'news', 'nation', 'breonna', 'taylor', 'case', 'louisville', 'police', 'nearly', 'blank', 'incident', 'report']",1
+634,"['businessinsider', 'mcgrath', 'charles', 'booker', 'kentucky', 'primary', 'live', 'result', 'update']",1
+635,"['courier', 'journal', 'story', 'news', 'politics', 'kentucky', 'official', 'refute', 'primary', 'voter', 'suppression', 'claim']",1
+637,"['nbcnews', 'politics', 'election', 'wisconsin', 'vote', 'national', 'guard', 'called', 'many', 'polling', 'place']",1
+638,"['theguardian', 'news', 'georgia', 'election', 'primary', 'long', 'line', 'broken', 'voting', 'machine']",1
+639,"['cbsnews', 'news', 'kentucky', 'primary', 'election', 'turnout', 'historic']",1
+640,"['nytimes', 'politics', 'kentucky', 'york', 'election', 'recap', 'html']",1
+641,"['section', 'live', 'update', 'protest', 'racial', 'justice', 'nascars', 'bubba', 'wallace', 'target', 'hate', 'crime']",1
+642,"['cbsnews', 'news', 'fauci', 'coronavirus', 'testing', 'house', 'committee', 'testimony']",1
+644,"['newyorker', 'news', 'news', 'desk', 'went', 'wrong', 'coronavirus', 'testing']",1
+646,"['nytimes', 'rayshard', 'brook', 'police', 'tactic', 'html']",1
+647,"['nbcnews', 'news', 'news', 'george', 'floyd', 'memorial', 'loved', 'goodbye', 'whose', 'death']",1
+648,"['nbcnews', 'news', 'sport', 'baseball', 'restart', 'athlete', 'heading', 'back', 'training', 'player', 'union']",1
+649,"['people', 'human', 'interest', 'lawn', 'raise', 'money', 'black', 'life', 'matter']",1
+650,"['theskimm', 'pick', 'gift', 'friend', 'whose', 'wedding', 'postponed']",1
+651,"['womenshealthmag', 'beauty', 'pedicure', 'home']",1
+653,"['fool', 'ascent', 'credit', 'card', 'landing', 'discover', 'cash', 'back', 'review']",0
+654,"['sephora', 'product', 'ultra', 'repair', 'cream', 'intense', 'hydration']",1
+655,"['article', 'amazon', 'launch', 'billion', 'venture', 'capital', 'fund', 'invest', 'clean', 'energy']",1
+656,"['morningbrew', 'daily', 'story', 'amazon', 'announces', 'climate', 'fund']",1
+658,"['former', 'wirecard', 'markus', 'braun', 'arrested']",1
+660,"['flickr', 'people', 'websummit']",1
+661,"['creativecommons', 'license']",0
+662,"['flickr', 'photo', 'websummit']",1
+663,"['morningbrew', 'daily', 'story', 'german', 'regulator', 'criticized', 'wirecard', 'disaster']",1
+664,"['article', 'stock', 'index', 'telling', 'different', 'story']",1
+665,"['creativecommons', 'license', 'legalcode']",1
+666,"['common', 'wikimedia', 'wiki', 'stock', 'market', 'display']",1
+667,"['morningbrew', 'daily', 'story', 'major', 'stock', 'index', 'grow', 'historic', 'distance']",1
+668,"['article', 'impose', 'abbreviated', 'season']",1
+669,"['nytimes', 'world', 'coronavirus', 'update', 'html']",1
+670,"['politico', 'state', 'florida', 'story', 'desantis', 'pivot', 'covid', 'surge', 'testing', 'doesnt', 'account', 'spike']",1
+671,"['axios', 'trump', 'coronavirus', 'testing', 'kidding', 'html']",1
+672,"['cnbc', 'average', 'coronavirus', 'case', 'surge', 'percent', 'week', 'html']",1
+673,"['cnbc', 'fauci', 'part', 'seeing', 'distrubing', 'surge', 'coronavirus', 'html']",1
+674,"['morningbrew', 'daily', 'story', 'fauci', 'official', 'warn', 'disturbing', 'surge', 'coronavirus', 'case']",1
+675,"['cnbc', 'stock', 'market', 'future', 'open', 'close', 'news', 'html']",1
+676,"['reuters', 'article', 'trade', 'china', 'china', 'picked', 'game', 'trade', 'trump', 'adviser']",1
+678,"['policygenius', 'homeowner', 'insurance']",0
+680,"['morningbrew', 'daily']",1
+684,"['sephora', 'product', 'first', 'beauty', 'limited', 'edition']",1
+685,['firstaidbeauty'],1
+686,"['lunya', 'collection', 'skimmrs', 'code', 'skimmr']",1
+689,"['tuesday', 'primary', 'race', 'watch', 'live', 'result']",1
+690,"['weather', 'mexico', 'earthquake', 'southern', 'coast', 'intl', 'index', 'html']",1
+692,"['theverge', 'amazon', 'prime', 'video', 'live', 'linear']",1
+693,"['nytimes', 'style', 'leslie', 'jordan', 'instagram', 'html']",1
+694,"['variety', 'podcasts', 'miley', 'cyrus', 'black', 'mirror', 'britney', 'spear', 'sobriety']",1
+695,"['variety', 'news', 'kendrick', 'sampson', 'tessa', 'thompson', 'black', 'life', 'matter', 'letter', 'hollywood', 'divest', 'police']",1
+696,"['deadline', 'terry', 'crew', 'brooklyn', 'nine', 'nine', 'scrap', 'four', 'episode', 'george', 'floyds', 'death']",1
+697,"['refinery', 'shes', 'dark', 'amanda', 'bynes', 'sexism']",1
+698,"['culture', 'eurovision', 'review', 'interview', 'ferrell', 'rachel', 'mcadams', 'netflix']",1
+699,"['tiktok', 'miss', 'excel']",1
+700,"['nytimes', 'style', 'roller', 'skating', 'back', 'baby', 'html']",1
+701,"['youtube', 'watch', 'qrinh', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",1
+702,"['mailchi', 'bigspaceship', 'spaceship', 'internet', 'brunch']",1
+703,"['rainydayclothing', 'sticker']",1
+707,"['youtube', 'watch', 'tzfg']",1
+708,"['youtube', 'watch']",1
+709,"['youtube', 'watch']",1
+710,"['youtube', 'watch']",1
+711,['product'],1
+712,"['youtube', 'watch']",1
+713,"['account', 'google', 'ervice', 'ogin']",0
+714,"['youtube', 'channel', 'hbmb']",1
+715,"['howtospendit', 'house', 'garden', 'john', 'pawson', 'favourite', 'bookcase']",1
+716,['outlier'],0
+717,"['shop', 'outlier', 'shop', 'retail', 'beach', 'thing', 'html']",1
+718,"['theatlantic', 'health', 'archive', 'became', 'poker', 'champion', 'year']",1
+721,"['reuters', 'article', 'health', 'coronavirus', 'wave', 'explainer', 'second', 'wave', 'pandemic', 'arrived']",1
+722,"['quantamagazine', 'south', 'asia', 'covid', 'number']",1
+723,"['news', 'world']",1
+724,"['visualcapitalist', 'covid', 'impact', 'advertising', 'spend']",1
+725,"['knowablemagazine', 'article', 'health', 'disease', 'america', 'unhealthy', 'inequality', 'kill']",1
+726,"['worklife', 'article', 'think', 'pressure']",1
+727,"['latimes', 'lifestyle', 'story', 'comedian', 'laurie', 'kilmarten', 'live', 'tweet', 'mother', 'death']",1
+728,"['thrillist', 'travel', 'nation', 'travel', 'trend', 'road', 'trip', 'scenic', 'drive', 'camping']",1
+729,"['currentaffairs', 'personality', 'sale']",1
+730,"['restofworld', 'india', 'magh', 'mela']",1
+731,"['marketplace', 'forgotten', 'paved', 'today', 'battle', 'immigration']",1
+732,"['thesunmagazine', 'issue', 'ordinary']",1
+733,"['saturdayeveningpost', 'good', 'medicine']",1
+734,"['petapixel', 'photo', 'shoot', 'mike', 'tyson']",1
+735,['redd'],1
+736,"['scmp', 'abacus', 'culture', 'article', 'live', 'streaming', 'commerce', 'booming', 'china', 'covid', 'pandemic']",1
+737,['vimeo'],1
+741,"['briefingday', 'commentform']",1
+743,"['blog', 'crisis']",1
+745,"['nytimes', 'dining', 'peanut', 'baseball', 'html']",1
+746,"['wired', 'story', 'poker', 'psychology', 'uncertainty']",1
+747,"['youtube', 'watch', 'zuhc', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",1
+748,"['designyoutrust', 'artist', 'imago', 'famous', 'cartoon', 'character', 'human', 'body', 'result', 'bizarre']",1
+749,"['designboom', 'architecture', 'nordic', 'office', 'spiraling', 'observation', 'tower', 'nanchang', 'wave', 'china']",1
+750,"['liadm', 'click']",0
+751,"['article', 'unemployment', 'benefit', 'weekly', 'jobless', 'claim', 'coronavirus']",1
+752,"['nbcnews', 'business', 'economy', 'million', 'people', 'filed', 'first', 'time', 'unemployment', 'last', 'week']",1
+753,"['cbsnews', 'news', 'united', 'state', 'recession', 'started', 'february']",1
+754,"['covid', 'coronavirus', 'case', 'update', 'texas', 'arizona', 'florida']",1
+755,"['marketwatch', 'story', 'future', 'slump', 'point', 'resurgence', 'coronavirus', 'case', 'trade', 'tension', 'take', 'focus']",1
+756,"['cnbc', 'million', 'face', 'income', 'cliff', 'next', 'month', 'extra', 'dollar', 'html']",1
+757,"['future', 'perfect', 'coronavirus', 'covid', 'economy', 'recession', 'unemployment', 'chetty']",1
+758,"['liveintent', 'choice']",0
+759,"['axios', 'american', 'traveler', 'reopen', 'border', 'html']",1
+760,"['nytimes', 'world', 'europe', 'coronavirus', 'merican', 'travel', 'html']",1
+761,"['news', 'world', 'europe']",1
+763,"['policy', 'politics', 'supreme', 'court', 'immigration', 'trump', 'deportation', 'thuraissigiam']",1
+764,"['section', 'coronavirus', 'live', 'update', 'contact', 'tracing', 'tell', 'cluster', 'spread', 'coronavirus']",1
+765,"['news', 'state', 'regional', 'govt', 'politics', 'today', 'finest', 'georgia', 'legislature', 'approves', 'hate', 'crime', 'bill']",1
+766,"['nasa', 'press', 'release', 'nasa', 'name', 'headquarters', 'hidden', 'figure', 'mary', 'jackson']",1
+767,"['open', 'spotify', 'show']",1
+768,"['nytimes', 'interactive', 'magazine', 'reparation', 'slavery', 'html']",1
+769,"['youtube', 'watch', 'byfj']",1
+770,"['recode', 'facebook', 'misinformation', 'natural', 'news', 'conspiracy', 'theory']",1
+771,"['good', 'reopening', 'coronavirus', 'florida']",1
+772,"['trump', 'reelection', 'polling', 'lead']",1
+773,"['biden', 'president', 'voice', 'america', 'fire', 'michael', 'pack']",1
+774,"['martha', 'mcsally', 'trip', 'explained']",1
+775,"['youtube', 'user', 'voxdotcom']",0
+776,"['page', 'support']",0
+777,"['voxmedia', 'legal', 'privacy', 'notice']",0
+778,"['voxmedia', 'legal', 'term']",0
+779,['email'],1
+780,"['email', 'daily', 'brief']",1
+781,[],1
+782,"['subscribe', 'email']",0
+783,"['guide', 'world', 'coronavirus']",1
+784,"['guide', 'amazon']",1
+785,"['guide', 'china', 'africa', 'project']",1
+786,['guide'],1
+787,"['mailchi', 'bigspaceship', 'spaceship', 'internet', 'brunch']",1
+788,"['youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",1
+789,"['theverge', 'animal', 'crossing', 'horizon', 'summer', 'update', 'swimming', 'date']",1
+790,"['movie', 'scott', 'pilgrim', 'world', 'oral', 'history']",1
+791,"['buzzfeed', 'eleanorbate', 'kristen', 'bell', 'quit', 'voicing', 'biracial', 'central', 'park', 'character']",1
+792,"['recode', 'instagram', 'black', 'life', 'matter', 'politics', 'blackout', 'tuesday']",1
+793,"['mashable', 'article', 'apple', 'youtube', 'video', 'background', 'play', 'picture', 'picture']",1
+794,"['theverge', 'google', 'photo', 'redesign', 'view', 'memory', 'search']",1
+795,"['hollywoodreporter', 'news', 'disneyland', 'reopening', 'delayed']",1
+796,"['techcrunch', 'tiktok', 'launch', 'tiktok', 'business', 'marketer', 'take', 'snapchat']",1
+797,"['york', 'coronavirus', 'travel', 'restriction', 'index', 'html']",1
+798,"['nbcnews', 'news', 'news', 'three', 'suspect', 'indicted', 'murder', 'death', 'ahmaud', 'arbery', 'georgia']",1
+799,"['colorado', 'investigation', 'elijah', 'mcclain', 'died', 'custody', 'index', 'html']",1
+800,"['cbsnews', 'news', 'rhode', 'island', 'name', 'change', 'providence', 'plantation', 'slavery', 'connotation']",1
+804,['digg'],0
+805,['chewy'],1
+806,"['theatlantic', 'idea', 'archive', 'dude', 'wont', 'wear', 'mask']",1
+807,"['nymag', 'intelligencer', 'peter', 'stein', 'lifeguard', 'html']",1
+808,"['propublica', 'article', 'removed', 'label', 'said', 'medical', 'prohibited', 'tried', 'sell', 'thousand', 'mask', 'official', 'distribute', 'hospital']",1
+809,"['newrepublic', 'article', 'temping', 'percent']",1
+810,"['melmagazine', 'story', 'secret', 'life', 'police', 'wife', 'abuse', 'suffer', 'silence']",1
+811,"['scientificamerican', 'interactive', 'inside', 'coronavirus']",1
+812,"['newyorker', 'news', 'annals', 'activism', 'bail', 'fund']",1
+813,"['next', 'angelic', 'troublemaker', 'reset', 'america']",1
+814,"['digg', 'video', 'german', 'shepherd', 'sneak', 'pool']",1
+815,"['health', 'coronavirus', 'thursday', 'index', 'html']",1
+816,"['abcnews', 'grand', 'jury', 'indicts', 'arrested', 'murder', 'ahmaud', 'arbery', 'story']",1
+817,"['thehill', 'policy', 'healthcare', 'trump', 'admin', 'ending', 'support', 'texas', 'testing', 'site', 'case', 'spike']",1
+818,"['futurism', 'tesla', 'reportedly', 'sold', 'battery', 'knew', 'catch', 'fire']",1
+819,"['store', 'digg', 'sale', 'trainz', 'railroad', 'simulator', 'platinum', 'edition', 'bundle']",1
+820,"['story', 'underground', 'railroad', 'north', 'korea']",1
+821,"['digg', 'edition', 'story']",1
+822,"['digg', 'tumblr']",0
+823,"['youtube', 'user', 'riginal']",0
+824,"['digg', 'advertising']",0
+825,"['digg', 'cmail', 'ptitydd', 'vkjjhbly']",1
+827,"['fultonandroark', 'collection', 'product', 'sample', 'pack']",1
+829,"['gearpatrol', 'jannard', 'oakley', 'origin', 'story']",1
+830,"['mossandfog', 'concert', 'plant', 'barcelona']",1
+831,['gettheelevator'],0
+832,"['gettheelevator', 'editorial']",0
+833,"['theskimm', 'money', 'skimmd', 'couch', 'tiffany', 'warren']",1
+836,"['goodhousekeeping', 'lifestyle', 'relate', 'research', 'turbo', 'relationship', 'lockdown']",1
+837,['apnews'],1
+838,"['britannica', 'event', 'osovo', 'conflict']",1
+839,"['nytimes', 'world', 'serb', 'renew', 'crackdown', 'albanian', 'village', 'kosovo', 'html']",1
+840,['apnews'],1
+841,"['reuters', 'article', 'kosovo', 'serbia', 'kosovo', 'declares', 'independence', 'serbia']",1
+842,"['thehill', 'policy', 'international', 'kosovo', 'president', 'indicted', 'crime', 'cancel', 'trip']",1
+843,"['reuters', 'article', 'serbia', 'russia', 'kosovo', 'serbia', 'ready', 'sacrifice', 'membership', 'kosovo', 'deal']",1
+844,"['nbcnews', 'news', 'world', 'kosovo', 'president', 'hashim', 'thaci', 'indicted', 'crime', 'cancel', 'white', 'house']",1
+846,"['nbcnews', 'news', 'news', 'highest', 'single', 'coronavirus', 'case']",1
+849,"['axios', 'senate', 'republican', 'police', 'reform', 'bill', 'vote', 'fails', 'html']",1
+850,"['nytimes', 'politics', 'qualified', 'immunity', 'html']",1
+851,"['latimes', 'california', 'story', 'george', 'floyd', 'carotid', 'neck', 'hold', 'police']",1
+852,"['apnorc', 'project', 'idespread', 'esire', 'olicing', 'riminal', 'ustice', 'eform', 'aspx']",1
+853,['apnews'],1
+855,"['york', 'city', 'marathon', 'covid', 'canceled', 'trnd', 'index', 'html']",1
+856,"['cnet', 'news', 'chicken', 'sequel', 'coming', 'netflix']",1
+857,"['theskimm', 'money', 'grad', 'school', 'worth', 'student', 'loan']",1
+858,"['theskimm', 'pick', 'product', 'pack', 'youre', 'flying', 'pandemic']",1
+859,"['glamour', 'gallery', 'best', 'movie']",1
+860,"['globalcitizen', 'connect', 'globalgoalunite']",1
+862,"['cariuma', 'page', 'skimm']",0
+863,['drinkolipop'],1
+864,"['verbenergy', 'trial']",1
+865,['uqora'],0
+866,['neonatalrescue'],1
+867,['simpleswitch'],1
+873,"['morningbrew', 'daily']",1
+875,"['magicspoon', 'product', 'pack', 'case']",1
+876,"['reuters', 'article', 'stock', 'wall', 'street', 'drop', 'rising', 'virus', 'case', 'weak', 'economic', 'view']",1
+877,"['nytimes', 'politics', 'trump', 'biden', 'poll', 'upshot', 'siena', 'college', 'html']",1
+878,"['morningbrew', 'daily', 'story', 'report', 'show', 'overwhelming', 'public', 'debt']",1
+880,['content'],1
+881,"['cnbc', 'global', 'economy', 'contract', 'coronavirus', 'recovery', 'slow', 'html']",1
+882,"['article', 'debt', 'soaring', 'debt', 'risk']",1
+883,"['morningbrew', 'daily', 'story', 'ford', 'debut']",1
+884,"['cnbc', 'ford', 'feature', 'integrated', 'generator', 'update', 'html']",1
+885,"['detroitnews', 'story', 'business', 'auto', 'ford', 'ford', 'series', 'cash', 'haul', 'rank', 'near', 'iphone', 'among', 'product']",1
+886,"['morningbrew', 'daily', 'story', 'bayer', 'agrees', 'billion', 'settlement', 'roundup', 'lawsuit']",1
+887,"['flickr', 'photo', 'jeepersmedia']",1
+889,"['flickr', 'people', 'jeepersmedia']",1
+890,"['article', 'bayer', 'monsanto', 'became', 'worst', 'corporate', 'dealsin', 'chart']",1
+891,"['nytimes', 'business', 'roundup', 'settlement', 'lawsuit', 'html']",1
+892,"['morningbrew', 'daily', 'story', 'crossfit', 'glassman', 'good']",1
+893,"['business', 'greg', 'glassman', 'selling', 'crossfit', 'index', 'html']",1
+894,"['business', 'greg', 'glassman', 'crossfit', 'index', 'html']",1
+895,"['nytimes', 'style', 'greg', 'glassman', 'crossfit', 'sexism', 'html']",1
+896,"['morningbrew', 'daily', 'story', 'economic', 'political', 'consequence', 'follow', 'djokovics', 'tennis', 'tournament']",1
+897,['apnews'],1
+898,['apnews'],1
+899,"['nbcnews', 'news', 'news', 'york', 'jersey', 'connecticut', 'quarantine', 'visitor', 'coronavirus', 'spot']",1
+900,"['cnbc', 'apple', 'store', 'seven', 'houston', 'store', 'closing', 'covid', 'html']",1
+901,"['theguardian', 'news', 'texas', 'coronavirus', 'case', 'infection', 'houston', 'hospital']",1
+902,"['reuters', 'article', 'bankruptcy', 'vitamin', 'chain', 'file', 'bankruptcy', 'close', 'store', 'sell']",1
+903,"['tech', 'olympus', 'camera', 'trnd', 'index', 'html']",1
+904,"['within', 'retail', 'pulse']",1
+905,"['webull', 'activity']",1
+907,"['newyorker', 'magazine', 'dont', 'reading']",1
+908,"['goodreads', 'book', 'show', 'itchen', 'onfidential']",1
+909,"['show', 'anthony', 'bourdain', 'part', 'unknown']",1
+910,"['travelchannel', 'show', 'anthony', 'bourdain']",1
+911,"['firstwefeast', 'anthony', 'bourdain', 'standout', 'recipe', 'cookbook']",1
+912,"['quartzy', 'best', 'honor', 'anthony', 'bourdains', 'memory', 'like']",1
+915,"['history', 'news', 'olympic', 'marathon', 'outlandish', 'early', 'history']",1
+927,"['cnbc', 'york', 'jersey', 'connecticut', 'impose', 'quarantine', 'traveler', 'coronavirus', 'hotspot', 'state', 'html']",1
+928,"['theverge', 'coronavirus', 'daily', 'record', 'case', 'covid', 'arizona', 'texas', 'trump']",1
+929,"['coronavirus', 'testing', 'individual', 'state']",0
+930,"['texastribune', 'texas', 'coronavirus', 'greg', 'abbott', 'home']",1
+931,"['governing', 'ublic', 'ealth', 'fficials', 'uitting', 'uring', 'andemic', 'html']",1
+932,"['sciencedaily', 'release']",1
+933,"['ncbi', 'article']",1
+934,"['reuters', 'article', 'michigan', 'facial', 'recognition', 'activist', 'fault', 'face', 'recognition', 'wrongful', 'arrest', 'first', 'time']",1
+935,"['nist', 'news', 'event', 'news', 'nist', 'study', 'evaluates', 'effect', 'race', 'face', 'recognition', 'software']",1
+936,"['medium', 'uolamwini', 'response', 'racial', 'gender', 'bias', 'amazon', 'rekognition', 'commercial', 'system', 'analyzing', 'face', 'eeced']",1
+937,"['wired', 'story', 'algorithm', 'predicts', 'criminality', 'based', 'face', 'spark', 'furor']",1
+938,"['fool', 'content', 'netflix', 'really', 'fear']",0
+939,"['section', 'coronavirus', 'live', 'update', 'york', 'city', 'marathon', 'canceled', 'coronavirus']",1
+940,"['variety', 'digital', 'news', 'gone', 'wind', 'disclaimer', 'horror', 'slavery']",1
+941,"['news', 'business']",1
+942,"['nature', 'article']",1
+943,"['news', 'northwestern', 'story', 'ligo', 'virgo', 'find', 'mystery', 'astronomical', 'object', 'mass']",1
+944,"['nature', 'article']",1
+945,"['reuters', 'article', 'stock', 'wall', 'street', 'finish', 'lower', 'rising', 'virus', 'case', 'weak', 'economic', 'view']",1
+946,"['detroitnews', 'story', 'business', 'auto', 'chrysler', 'fiat', 'chrysler', 'loan', 'backed', 'italy', 'government']",1
+947,"['fortune', 'bankruptcy', 'filing', 'close', 'store']",1
+948,"['news', 'crime', 'cobb', 'holmes', 'speak', 'ahmaud', 'arbery', 'case', 'afternoon', 'tegn']",1
+949,"['apnews', 'eabf']",1
+950,"['politico', 'news', 'circuit', 'order', 'flynn', 'judge', 'dismiss', 'charge']",1
+951,"['axios', 'bill', 'barr', 'testify', 'house', 'judiciary', 'committee', 'html']",1
+952,"['thehill', 'homenews', 'senate', 'democrat', 'block', 'police', 'reform', 'bill', 'amid', 'senate', 'stalemate']",1
+953,"['news', 'article', 'news', 'local', 'arizona', 'tucson', 'custody', 'death']",1
+954,"['wnycstudios', 'podcasts', 'radiolab', 'article', 'liberation']",1
+955,"['visualcapitalist', 'whats', 'risk', 'month', 'view', 'post', 'covid', 'world']",1
+956,"['fivethirtyeight', 'feature', 'look', 'face', 'mask', 'according', 'science']",1
+957,"['abcnews', 'nasa', 'headquarters', 'hidden', 'figure', 'mary', 'jackson', 'story']",1
+959,"['arcgis', 'apps', 'ournal', 'index', 'html']",1
+960,"['news', 'business']",1
+961,"['highlight', 'coronavirus', 'covid', 'wedding', 'virtual', 'wedding', 'zoom', 'quarantine']",1
+962,"['popsci', 'story', 'technology', 'inside', 'force', 'training', 'mission']",1
+963,"['smithsonianmag', 'smart', 'news', 'beethoven', 'black', 'might', 'wrong', 'question']",1
+964,"['fastcompany', 'meet', 'summer', 'sleeper', 'product']",1
+966,"['nytimes', 'opinion', 'sunday', 'trump', 'cant', 'disengage', 'america', 'world', 'html']",1
+967,"['worldview', 'stratfor', 'article', 'geopolitics', 'united', 'state', 'part', 'inevitable', 'empire']",1
+968,"['worldview', 'stratfor', 'article', 'geopolitics', 'united', 'state', 'part', 'inevitable', 'empire']",1
+969,"['nytimes', 'interactive', 'magazine', 'slavery', 'capitalism', 'html']",1
+970,"['investopedia', 'article', 'market', 'economy', 'country', 'natural', 'resource']",1
+971,"['newyorker', 'magazine', 'hiroshima']",1
+973,"['straight', 'spam']",1
+974,"['theringer', 'south', 'park', 'episode', 'ranked']",1
+975,"['digg', 'watch', 'long', 'range', 'soccer', 'goal', 'rocket', 'back']",1
+979,"['graphic', 'reuters', 'oakveazawvr']",1
+980,"['news', 'trust', 'item']",1
+981,"['nautil', 'issue', 'energy', 'bird', 'mount', 'everest']",1
+982,"['onezero', 'medium', 'inside', 'social', 'medium', 'cult', 'convinces', 'young', 'people', 'give', 'everything', 'fbec']",1
+983,"['messynessychic', 'arctic', 'seaside', 'town', 'call', 'paris', 'north']",1
+984,"['politico', 'news', 'angela', 'merkel', 'germany']",1
+985,"['apimagesblog', 'blog', 'plastic', 'keep', 'virus', 'love', 'away', 'spain', 'nursing', 'home']",1
+986,"['theconversation', 'uber', 'wework', 'airbnb', 'coronavirus', 'bursting', 'tech', 'bubble']",1
+987,"['future', 'article', 'quiet', 'secret', 'success', 'athlete']",1
+988,"['narratively', 'crime', 'victim', 'obsessed', 'true', 'crime', 'show']",1
+989,"['city', 'journal', 'francisco', 'hotel', 'motel', 'plan', 'homeless']",1
+990,"['tedium', 'television', 'test', 'pattern', 'history']",1
+991,"['news', 'gallup', 'poll', 'confident', 'protect', 'self', 'covid', 'aspx']",1
+992,"['youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",1
+993,"['gizmodo', 'endangered', 'internet', 'archive', 'full', 'treasure']",1
+994,"['thedodo', 'close', 'home', 'retiring', 'detection', 'surprised', 'tennis', 'ball']",1
+995,"['thereader', 'mitpress', 'citizenship', 'great', 'extinguisher', 'hope']",1
+996,"['outsideonline', 'sperm', 'whale', 'research', 'dominica']",1
+997,"['esquire', 'entertainment', 'music', 'world', 'history', 'interview']",1
+998,"['theguardian', 'world', 'live', 'cage', 'resident', 'hide', 'macaque', 'gang', 'take', 'thai', 'city']",1
+1000,"['briefingday', 'commentform']",1
+1004,"['theringer', 'south', 'park', 'oscar', 'blame', 'canada', 'controversy']",1
+1005,"['melmagazine', 'story', 'girl', 'gone', 'wild', 'commercial', 'threw', 'million', 'millennials', 'puberty']",1
+1006,"['youtube', 'playlist']",0
+1007,"['king', 'article', 'news', 'local', 'seattle', 'amazon', 'rename', 'keyarena', 'climate', 'pledge', 'arena', 'securing', 'naming', 'right']",1
+1008,"['youtube', 'watch']",1
+1010,"['apnews', 'ebaf']",1
+1012,"['nbcnews', 'news', 'news', 'texas', 'governor', 'pause', 'state', 'reopening', 'spike', 'covid']",1
+1013,['apnews'],1
+1014,['apnews'],1
+1018,"['wired', 'story', 'slack', 'connect', 'email', 'stewart', 'butterfield', 'interview']",1
+1019,"['newyorker', 'culture', 'video', 'dept', 'llama', 'antibody', 'could', 'help', 'fight', 'coronavirus']",1
+1020,"['smithsonianmag', 'smart', 'news', 'museum', 'reimagines', 'masterpiece', 'face', 'mask']",1
+1021,"['washingtonpost', 'video', 'game', 'enjoy', 'game', 'make', 'work', 'proficiency', 'control', 'fairness', 'escape']",1
+1022,"['vice', 'article', 'uber', 'acquisition', 'jump', 'bikeshare', 'destroyed', 'thousand', 'bike']",1
+1023,"['skratchbastid', 'bandcamp', 'album', 'starter', 'dope']",1
+1024,"['reddit', 'eddit', 'comment', 'stupidest', 'thing', 'youve', 'done']",1
+1025,['forecastapp'],1
+1026,"['perininetworks', 'term', 'condition']",0
+1027,"['imperica', 'newsletter']",0
+1028,"['youtube', 'watch']",0
+1029,"['youtube', 'watch']",1
+1030,"['youtube', 'watch']",1
+1031,"['youtube', 'watch', 'ffdn']",1
+1032,"['youtube', 'watch']",1
+1033,"['lithub', 'someone', 'wrong', 'internet', 'study', 'pandemic', 'distraction']",1
+1034,"['therumpus', 'blacker', 'berry', 'quicker', 'shoot']",1
+1035,"['nplusonemag', 'online', 'online', 'could']",1
+1036,"['mashable', 'article', 'reddit', 'history', 'anniversary']",1
+1037,"['theface', 'music', 'alternative', 'black', 'woman', 'goth', 'grunge', 'rico', 'nasty', 'doja']",1
+1039,"['esquire', 'culture', 'virtual', 'quiz']",1
+1040,"['buzzfeednews', 'article', 'adeonibada', 'nigeriam', 'comedian', 'dont', 'leave', 'tiktok', 'challenge']",1
+1041,"['change', 'name', 'turok']",1
+1042,"['theatlantic', 'technology', 'archive', 'little', 'pony', 'nazi', 'chan', 'black', 'life', 'matter']",1
+1043,"['tribunemag', 'conquest', 'bread']",1
+1044,"['forbes', 'site', 'carltonreid', 'segway', 'reach', 'road', 'bicycle', 'keep', 'rolling']",1
+1045,"['bellingcat', 'resource', 'investigate', 'tiktok', 'like']",1
+1046,"['hollywoodreporter', 'news', 'disney', 'overhaul', 'splash', 'mountain', 'ride', 'outcry']",1
+1047,"['refinery', 'dixie', 'chick', 'name', 'change', 'racist', 'root']",1
+1048,"['axios', 'golf', 'tour', 'lower', 'score', 'coronavirus', 'html']",1
+1049,"['theneed', 'know', 'list', 'manage']",0
+1050,"['theneed', 'know', 'list', 'manage', 'unsubscribe']",0
+1051,"['theneed', 'know', 'list', 'manage', 'profile']",0
+1052,"['patent', 'racism']",1
+1053,"['interactioninstitute', 'temporary', 'autonomous', 'zone']",1
+1054,"['theweek', 'article', 'seattle', 'policefree', 'autonomous', 'zone', 'anomaly']",1
+1055,"['utopiskehorisonter', 'engelsk', 'comcur']",1
+1056,"['travel', 'article', 'christiania', 'copenhagen', 'denmark', 'index', 'html']",1
+1057,"['newyorker', 'news', 'dispatch', 'attack', 'exarchia', 'anarchist', 'refuge', 'athens']",1
+1058,"['surprising', 'legacy', 'occupy', 'wall', 'street']",1
+1059,"['journal', 'burningman', 'philosophical', 'center', 'tenprinciples', 'black', 'rock', 'city', 'rise', 'great', 'civilization']",1
+1060,"['king', 'article', 'news', 'local', 'protest', 'activist', 'urge', 'chop', 'demonstrator', 'leave', 'capitol', 'hill', 'protest', 'night', 'chaz']",1
+1061,"['kuow', 'story', 'chaz', 'chop', 'seattle', 'protest', 'make', 'change']",1
+1063,"['theanarchistlibrary', 'library', 'hakim', 'temporary', 'autonomous', 'zone', 'ontological', 'anarchy', 'poetic', 'terrorism']",1
+1064,"['wikipedia', 'wiki', 'eter', 'amborn', 'ilson']",1
+1065,"['whatsupwithamsterdam', 'amsterdam', 'squat']",1
+1066,"['wikipedia', 'wiki', 'uburbia']",1
+1067,"['theculturetrip', 'europe', 'netherlands', 'article', 'brief', 'history', 'squatting', 'amsterdam']",1
+1068,"['framestrategy', 'substack']",0
+1069,['framestrategy'],1
+1070,"['whyisthisinteresting', 'substack', 'interesting', 'utopia']",0
+1071,"['whyisthisinteresting', 'substack', 'interesting', 'climate']",0
+1072,"['bonappetit', 'story', 'bittersweet', 'quaratine', 'cooking']",1
+1073,"['nytimes', 'opinion', 'sunday', 'poker', 'bluffing', 'luck', 'skill', 'html']",1
+1075,"['moonclerk', 'otanwlok']",0
+1076,"['nytimes', 'interactive', 'design', 'rosie', 'tompkins', 'quilt', 'html']",1
+1077,"['hirshhorn', 'hirshhorninsideout']",1
+1082,"['learntoexpress', 'wixsite', 'learntoexpress']",1
+1083,['bringcamphome'],1
+1084,"['podcasts', 'apple', 'podcast', 'mask', 'girl', 'summer']",1
+1085,"['revtownusa', 'offer', 'skimm']",1
+1086,"['carawayhome', 'collection']",1
+1087,"['maryruthorganics', 'page', 'skimm', 'morning', 'multi']",1
+1088,"['magicspoon', 'product', 'pack', 'case']",1
+1089,"['vincerowatches', 'page', 'skimm']",1
+1090,"['wearlively', 'collection', 'bralette']",1
+1091,"['drinkhydrant', 'sample', 'skimm', 'lander']",1
+1092,"['people', 'country', 'dixie', 'chick', 'change', 'name', 'chick']",1
+1093,"['eonline', 'news', 'elizabeth', 'bank', 'cast', 'frizzle', 'magic', 'school', 'live', 'action', 'film']",1
+1094,"['medium', 'splash', 'mountain', 'disney', 'index', 'html']",1
+1095,"['section', 'live', 'update', 'protest', 'racial', 'justice', 'nasa', 'name', 'headquarters', 'mary', 'jackson', 'first', 'black', 'female', 'engineer', 'text', 'ashington', 'headquarters', 'statement', 'released', 'ednesday']",1
+1096,"['news', 'room', 'detail', 'ebola', 'outbreak', 'detected', 'northwest', 'democratic', 'republic', 'congo', 'surge', 'team', 'supporting', 'response']",1
+1097,"['abcnews', 'nternational', 'world', 'deadliest', 'ebola', 'outbreak', 'story']",1
+1098,"['nytimes', 'supreme', 'court', 'obamacare', 'appeal', 'html']",1
+1099,"['reuters', 'article', 'trump', 'obamacare', 'trump', 'administration', 'asks', 'supreme', 'court', 'obamacare']",1
+1100,"['britannica', 'topic', 'habeas', 'corpus']",1
+1101,"['thehill', 'regulation', 'court', 'battle', 'supreme', 'court', 'permit', 'fast', 'track', 'removal', 'asylum', 'seeker']",1
+1102,"['nytimes', 'business', 'coronavirus', 'small', 'business', 'loan', 'large', 'company', 'html']",1
+1103,"['cnbc', 'trump', 'second', 'round', 'stimulus', 'check', 'could', 'happen', 'html']",1
+1104,"['cbsnews', 'news', 'stimulus', 'check', 'dead', 'people', 'return']",1
+1105,"['nytimes', 'politics', 'coronavirus', 'stimulus', 'dead', 'people', 'html']",1
+1106,"['cnbc', 'texas', 'abbott', 'pause', 'state', 'reopening', 'plan', 'coronavirus', 'case', 'hospitalization', 'rise', 'html']",1
+1107,"['cbsnews', 'news', 'texas', 'coronavirus', 'massive', 'outbreak', 'governor', 'greg', 'abbott', 'reopening']",1
+1108,"['nytimes', 'interactive', 'state', 'reopen', 'coronavirus', 'html']",1
+1109,"['section', 'coronavirus', 'live', 'update', 'texas', 'governor', 'pause', 'reopening', 'amid', 'covid', 'surge']",1
+1110,"['health', 'maskne', 'acne', 'covid', 'mask', 'wellness', 'index', 'html']",1
+1114,"['austinkleon', 'learn', 'alone']",1
+1115,"['youtube', 'watch']",1
+1116,"['nytimes', 'music', 'dylan', 'rough', 'rowdy', 'html']",1
+1117,"['newyorker', 'culture', 'culture', 'desk', 'dylan', 'rough', 'rowdy', 'hard']",1
+1118,"['austinkleon', 'fish', 'thought']",1
+1119,"['explore', 'livecams', 'brown', 'bear', 'brown', 'bear', 'salmon', 'brook', 'fall']",1
+1120,"['offspring', 'lifehacker', 'play', 'game', 'youre', 'done', 'parenting']",1
+1121,"['theguardian', 'radio', 'netflixs', 'floor', 'lava', 'show', 'save', 'summer']",1
+1122,"['amazon', 'ivers', 'ides', 'oldsworthy']",1
+1123,"['austinkleon', 'morning']",1
+1124,"['austinkleon', 'change']",1
+1125,"['austinkleon', 'welcoming']",1
+1126,"['sfchronicle', 'bayarea', 'article', 'rancisco', 'residio', 'threaten']",1
+1128,"['vulture', 'zadie', 'smith', 'essay', 'collection', 'lockdown', 'html']",1
+1129,"['wikipedia', 'wiki', 'uihitsu']",1
+1130,"['austinkleon', 'next']",0
+1131,"['proof', 'product', 'proof']",1
+1132,"['vanityfair', 'news', 'inside', 'world', 'poker', 'super', 'high', 'roller']",1
+1133,"['unsubscribe', 'fourhourmail', 'wqlokqf', 'hxlr']",0
+1134,"['blog', 'output']",0
+1136,"['wikipedia', 'wiki', 'uanxiu']",1
+1137,"['youtube', 'channel']",1
+1138,"['open', 'spotify', 'track']",1
+1139,"['youtube', 'watch']",1
+1140,"['hopkinspsychedelic', 'anorexia']",1
+1141,"['blog', 'psychedelics', 'microdosing', 'mind', 'enhancing', 'method']",1
+1142,"['youtube', 'watch']",1
+1143,"['blog', 'largest', 'psychedelic', 'research', 'center']",1
+1144,"['blog', 'enjoy', 'perfect', 'shower', 'anywhere', 'worldfor']",1
+1145,"['blog', 'ferriss', 'show', 'transcript', 'caroline', 'paul']",1
+1146,"['blog', 'caroline', 'paul']",1
+1147,"['wikipedia', 'wiki', 'rien', 'author']",1
+1148,"['blog', 'bullet', 'friday']",0
+1149,['blog'],0
+1150,"['digg', 'cmail', 'ptdjtuk', 'vkjjhbly']",1
+1153,"['datajournalism', 'read', 'handbook', 'verification']",1
+1154,"['doctornerdlove', 'finding', 'hero', 'monster', 'detoxifying', 'comic', 'culture']",1
+1155,"['longreads', 'long', 'britishness']",1
+1156,['guidetoallyship'],1
+1157,"['mildlyinteresting', 'blog', 'blogspot']",1
+1158,['angeladeanestudio'],1
+1159,['blue'],1
+1160,"['youtube', 'watch']",1
+1161,"['radiatoryang', 'itch', 'hardlads']",1
+1162,['stinkymeat'],1
+1163,['kickscondor'],1
+1164,"['dreamwiki', 'sixey', 'welcome', 'dream']",1
+1165,"['tiktok', 'fishesgetstitches']",1
+1166,['mowned'],1
+1167,['foldnfly'],1
+1168,"['trump', 'shrunk']",1
+1169,"['kickstarter', 'project', 'ugmonk', 'analog', 'simplest', 'productivity', 'system']",1
+1170,"['theatlantic', 'photo', 'eclipse']",1
+1171,['readtheplaque'],1
+1172,"['glastonburyfestivals', 'line']",1
+1173,['chiaraluzzana'],1
+1174,"['chrome', 'google', 'webstore', 'detail', 'link', 'text', 'fragment', 'pbcodcjpfjdpcineamnnmbkkmkdpajjg']",1
+1175,"['zooniverse', 'project', 'hiro']",1
+1176,"['unhcr', 'goalclick']",1
+1177,"['epicgames', 'fortnite', 'partyroyale']",1
+1178,['unicornycopia'],1
+1179,"['evolution', 'depositphotos']",1
+1181,"['staykeen', 'landing']",1
+1182,"['theverge', 'luka', 'artificial', 'intelligence', 'memorial', 'roman', 'mazurenko']",1
+1183,['hereafter'],1
+1184,['waxy'],0
+1185,"['katalog', 'barbaraiweins']",1
+1186,['airforcepuzzle'],1
+1187,['fingeronthe'],1
+1188,"['aisnakeoil', 'designinvestigations']",1
+1189,['aquarium'],1
+1190,"['musiclab', 'chromeexperiments', 'hared', 'iano']",1
+1191,"['mixcloud', 'jedhallam', 'love', 'save', 'three', 'year', 'anniversary', 'special']",1
+1192,"['google', 'presentation', 'wqxp', 'edit', 'slide']",1
+1193,"['ofcom', 'data', 'asset', 'file', 'online', 'nation', 'report']",1
+1194,"['tiktok', 'business']",1
+1195,['stophateforprofit'],1
+1196,"['news', 'context', 'news', 'article', 'content']",1
+1198,"['adweek', 'digital', 'facebook', 'gaming', 'creator', 'design', 'custom', 'sticker', 'emojis', 'subscription', 'player']",1
+1199,"['adweek', 'digital', 'vidcon', 'facebook', 'tweak', 'monetization', 'option', 'content', 'creator']",1
+1200,"['adweek', 'digital', 'facebook', 'gaming', 'level', 'program', 'live', 'country']",1
+1201,"['adweek', 'digital', 'facebook', 'gaming', 'debut', 'live', 'partnered', 'gaming', 'creator']",1
+1202,"['forecast', 'community', 'crowdsourced', 'prediction', 'collective', 'insight']",1
+1203,"['news', 'supporting', 'black', 'diverse', 'community']",1
+1205,"['mixcloud', 'sadeagle', 'eagle', 'banging', 'drum', 'catch', 'criminal']",1
+1206,"['behance', 'alicemoxlin']",1
+1207,['imperica'],0
+1213,"['donald', 'trump', 'lobster', 'bailout', 'obama']",1
+1214,"['culture', 'disney', 'splash', 'mountain', 'redesign', 'racist', 'song', 'south']",1
+1215,"['donald', 'trump', 'poll', 'coronavirus', 'biden', 'reelection', 'losing']",1
+1216,"['recode', 'mark', 'zuckerberg', 'facebook', 'chan', 'zuckerberg', 'initiative', 'philanthropy', 'tension']",1
+1217,"['good', 'college', 'reopening', 'fall', 'coronavirus', 'student', 'faculty', 'worry']",1
+1218,"['open', 'spotify', 'episode']",1
+1219,"['nytimes', 'opinion', 'confederate', 'monument', 'racism', 'html']",1
+1220,"['free', 'online', 'crossword']",0
+1221,['coronavirus'],0
+1222,"['good', 'outdoor', 'dining', 'drinking', 'restaurant', 'opening', 'safety']",1
+1223,"['politics', 'border', 'wall', 'circuit', 'appeal', 'court', 'index', 'html']",1
+1224,"['nytimes', 'world', 'africa', 'ebola', 'congo', 'html']",1
+1225,"['section', 'coronavirus', 'live', 'update', 'daily', 'record', 'covid', 'case']",1
+1226,"['statehood', 'vote', 'filibuster', 'supreme', 'court', 'biden']",1
+1227,"['washingtonian', 'colossally', 'stupid', 'argument', 'statehood']",1
+1228,"['house', 'vote', 'friday', 'would', 'make', 'state', 'trump', 'senate']",1
+1229,"['abcnews', 'olitics', 'house', 'vote', 'statehood', 'create', 'washington', 'douglas', 'story']",1
+1231,"['search', 'itunes', 'apple', 'bjects', 'ontent', 'link']",1
+1232,"['politics', 'trump', 'administration', 'obamacare', 'supreme', 'court', 'index', 'html']",1
+1233,"['politico', 'news', 'trump', 'supreme', 'court', 'overturn', 'obamacare']",1
+1234,"['axios', 'enrollment', 'coronavirus', 'html']",1
+1235,"['nytimes', 'politics', 'obamacare', 'trump', 'administration', 'supreme', 'court', 'html']",1
+1236,"['supreme', 'court', 'trump', 'justice', 'department', 'health', 'care', 'obamacare', 'affordable', 'care', 'texas', 'california']",1
+1238,"['digg', 'edition', 'story']",1
+1239,"['thecut', 'anna', 'delvey', 'tricked', 'york', 'html']",1
+1240,"['outsideonline', 'murder', 'mountain', 'bike']",1
+1241,"['huckberry', 'store', 'looft', 'category', 'looftlighter']",1
+1242,"['police', 'reform', 'bill', 'house', 'democrat', 'senate', 'republican']",1
+1243,"['usatoday', 'story', 'news', 'politics', 'supreme', 'court', 'upholds', 'trump', 'administration', 'removing', 'asylum', 'seeker']",1
+1246,"['digg', 'video', 'relationship', 'advice']",1
+1247,"['theatlantic', 'science', 'archive', 'second', 'coronavirus', 'surge']",1
+1248,"['nytimes', 'interactive', 'coronavirus', 'spread', 'html']",1
+1249,"['theringer', 'movie', 'sight', 'george', 'clooney', 'steven', 'soderbergh']",1
+1250,"['insidehook', 'article', 'politics', 'edgy', 'comedy', 'lazy', 'rogan', 'coco', 'diaz']",1
+1251,"['mentalfloss', 'article', 'live', 'concert', 'history']",1
+1252,"['digg', 'best', 'meme', 'trump', 'walk', 'shame', 'hand', 'water', 'drinking', 'challenge']",1
+1253,"['simplisafe', 'value']",0
+1255,"['list', 'manage', 'profile']",0
+1256,['americanart'],1
+1257,['glenstone'],1
+1258,"['avclub', 'madonna', 'golden', 'girl', 'queer', 'icon']",1
+1259,"['story', 'californiasunday', 'eleanor', 'davis', 'look', 'forward']",1
+1260,"['youtube', 'watch']",1
+1262,"['obamacare', 'must', 'fall', 'trump', 'administration', 'tell', 'supreme', 'court']",1
+1263,"['caltech', 'news', 'black', 'hole', 'collision', 'exploded', 'light']",1
+1264,"['nasa', 'mission', 'page', 'chandra', 'news', 'black', 'hole', 'image', 'make', 'history']",1
+1265,"['ligo', 'caltech', 'page']",1
+1266,"['theguardian', 'science', 'black', 'hole', 'merge', 'light', 'trillion', 'scientist']",1
+1267,['apnews'],1
+1268,"['tradingeconomics', 'united', 'state', 'asylum', 'application']",1
+1269,"['trac', 'immigration', 'report']",1
+1270,"['texastribune', 'asylum', 'seeker', 'experience', 'texas', 'mexico', 'border']",1
+1271,"['thehill', 'policy', 'healthcare', 'health', 'insurance', 'trump', 'administration', 'call', 'supreme', 'court', 'strike']",1
+1272,"['noom', 'program', 'health', 'weight', 'exsf']",1
+1273,"['nycpride', 'event', 'pride', 'march']",1
+1274,"['espn', 'soccer', 'fifa', 'woman', 'world', 'story', 'australianew', 'zealand', 'host', 'woman', 'world']",1
+1275,"['billboard', 'article', 'column', 'country', 'dixie', 'chick', 'change', 'name']",1
+1276,"['thehill', 'changing', 'america', 'enrichment', 'culture', 'backlash', 'racist', 'trope', 'disney', 'splash']",1
+1277,"['nature', 'article']",1
+1278,"['broadinstitute', 'broad', 'area', 'focus', 'project', 'spotlight', 'question', 'answer', 'crispr']",1
+1279,"['newatlas', 'drone', 'algorithm', 'autonomous', 'drone', 'barrel', 'roll', 'flip']",1
+1280,"['news', 'world', 'africa']",1
+1281,"['medium', 'lebron', 'james', 'springhill', 'medium', 'index', 'html']",1
+1282,"['cnbc', 'german', 'payment', 'company', 'wirecard', 'file', 'insolvency', 'html']",1
+1283,['apnews'],1
+1284,"['reuters', 'article', 'defense', 'senate', 'senate', 'advance', 'billion', 'defense', 'bill', 'stage', 'confederate', 'battle']",1
+1285,"['politico', 'news', 'senate', 'pass', 'china', 'sanction', 'bill']",1
+1286,"['politico', 'news', 'police', 'reform', 'plan', 'house']",1
+1287,"['axios', 'police', 'reform', 'george', 'floyd', 'protest', 'html']",1
+1288,['apnews'],1
+1289,"['section', 'health', 'shot', 'year', 'patient', 'gene', 'editing', 'sickle', 'cell', 'disease', 'thriving']",1
+1291,"['unbundle', 'defund', 'police', 'george', 'floyd', 'rayshard', 'brook', 'violence', 'european', 'policing']",1
+1292,"['manhattan', 'institute', 'responds', 'five', 'idea', 'sensible', 'approach', 'police', 'reform']",1
+1294,['usnewsdeserts'],1
+1295,"['startupgenome', 'article', 'ranking']",1
+1297,"['cbsnews', 'news', 'eiffel', 'tower', 'reopens', 'paris', 'stair', 'longest', 'closure', 'since', 'wwii', 'coronavirus']",1
+1298,"['earther', 'gizmodo', 'musician', 'latest', 'project', 'made', 'noise']",1
+1299,"['goldenhearts', 'oldest', 'golden', 'retriever']",1
+1300,"['nbcnews', 'politics', 'politics', 'news', 'dead', 'wrong', 'sent', 'stimulus', 'check', 'million']",1
+1301,"['usatoday', 'cutler', 'instagram', 'chicken']",1
+1302,"['history', 'history', 'begin', 'berlin', 'airlift']",1
+1303,"['wikipedia', 'wiki', 'idrikson', 'aharias']",1
+1305,"['news', 'story']",1
+1306,"['lawfareblog', 'classified', 'information', 'primer']",1
+1307,"['vice', 'article', 'akzkvp', 'international', 'fashion', 'house', 'leaving', 'million', 'asian', 'jobless', 'worker', 'protesting']",1
+1308,"['wired', 'article', 'door', 'door', 'salesperson', 'coronavirus']",1
+1309,"['news', 'odour', 'history', 'smelling', 'magna', 'carta', 'shakespeare', 'iliad']",1
+1310,"['reddit', 'interestingasfuck', 'comment', 'hfwnua', 'light', 'captured', 'trillion', 'frame', 'second']",1
+1311,"['fastcompany', 'quibi', 'quibi', 'inside', 'story', 'jeffrey', 'katzenbergs', 'first', 'failure']",1
+1312,"['aeon', 'essay', 'time', 'take', 'alternative', 'dark', 'matter', 'seriously']",1
+1313,"['aljazeera', 'programme', 'peopleandpower', 'coronavirus', 'lockdown', 'iran', 'html']",1
+1314,"['devex', 'news', 'data', 'tell', 'state', 'human', 'right']",1
+1315,"['expmag', 'health', 'tracking', 'implant', 'create', 'bionic', 'human', 'next']",1
+1316,"['youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",1
+1317,"['caltech', 'news', 'memory', 'based', 'choice', 'probed', 'brain']",1
+1318,"['marketwatch', 'story', 'news', 'converging', 'stock', 'market', 'deal']",1
+1319,"['nypost', 'capone', 'childhood', 'home', 'brooklyn', 'market']",1
+1320,"['country', 'expensive', 'alcohol', 'world']",1
+1322,"['outsideonline', 'tarahumara', 'runner', 'study']",1
+1323,"['edition', 'business', 'pakistan', 'fake', 'pilot', 'intl', 'index', 'html']",1
+1324,"['theverge', 'nasa', 'artemis', 'astronaut', 'human', 'lunar', 'lander', 'toilet', 'competition']",1
+1326,"['briefingday', 'commentform']",1
+1331,"['morningbrew', 'daily']",1
+1333,"['businessinsider', 'weekly', 'jobless', 'claim', 'filing', 'unemployment', 'insurance', 'coronavirus', 'recession', 'economy']",1
+1334,"['morningbrew', 'daily', 'story', 'rising', 'covid', 'case', 'threaten', 'state', 'reopening', 'plan']",1
+1335,"['texastribune', 'texas', 'elective', 'surgery', 'coronavirus', 'greg', 'abbott']",1
+1336,"['news', 'news', 'local', 'desantis', 'plan', 'move', 'next', 'phase', 'reopening', 'florida', 'amid', 'spike']",1
+1337,"['nypost', 'reopen', 'york', 'phase', 'four']",1
+1338,"['hollywoodreporter', 'news', 'bellagio', 'resort', 'vega', 'require', 'guest', 'wear', 'face', 'mask']",1
+1339,"['blog', 'airport', 'delta', 'already', 'banned', 'passenger', 'refusing', 'wear', 'mask']",1
+1340,"['cnbc', 'apple', 'close', 'store', 'florida', 'rising', 'covid', 'rate', 'html']",1
+1341,"['nbcnews', 'health', 'health', 'news', 'covid', 'case']",1
+1343,"['morningbrew', 'daily', 'story', 'lebron', 'james', 'agent', 'maverick', 'carter', 'raise', 'million', 'medium', 'company']",1
+1345,"['morningbrew', 'daily', 'story', 'find', 'stimulus', 'check', 'went', 'dead', 'american']",1
+1346,['asset'],1
+1347,"['morningbrew', 'daily', 'story', 'unilever', 'change', 'fair', 'lovely', 'skincare', 'brand', 'name']",1
+1348,"['news', 'business']",1
+1349,"['article', 'unilever', 'rename', 'fair', 'lovely', 'skin', 'lightening', 'cream', 'amid', 'criticism']",1
+1350,"['reuters', 'article', 'unilever', 'whitening', 'southasia', 'unilevers', 'fair', 'lovely', 'makeover', 'backlash']",1
+1351,"['espn', 'story', 'amazon', 'backing', 'seattle', 'arena', 'climate', 'initiative']",1
+1352,"['cnbc', 'verizon', 'pulling', 'advertising', 'facebook', 'instagram', 'html']",1
+1353,"['cnbc', 'nike', 'report', 'earnings', 'html']",1
+1354,"['reuters', 'article', 'wirecard', 'account', 'wirecard', 'collapse', 'owing', 'creditor', 'billion']",1
+1356,"['nirandfar', 'focus', 'quiz']",0
+1357,"['theverge', 'face', 'mask', 'glass', 'fogging', 'stop', 'clear']",1
+1358,"['tiktok', 'btypep', 'video']",1
+1359,"['tiktok', 'watercolorartist', 'video']",1
+1360,"['tiktok', 'evanatoredits']",1
+1361,"['tiktok', 'kcdadventure']",1
+1362,"['tiktok', 'discovery', 'video']",1
+1363,"['tiktok', 'washingtonpost', 'video']",1
+1364,"['tiktok', 'video']",1
+1365,"['morningbrew', 'daily', 'story', 'finance', 'twitter', 'account', 'follow']",1
+1368,"['puzzle', 'blainesville', 'sunday', 'puzzle', 'digit', 'html']",1
+1378,"['mailchi', 'creativemornings', 'weekly', 'highlight']",1
+1379,"['ownyourcontent', 'wordpress', 'toolkit', 'write', 'page']",1
+1380,"['ownyourcontent', 'wordpress', 'paul', 'jarvis']",1
+1381,"['wordpress', 'business', 'website', 'guidance', 'create', 'page', 'website']",1
+1382,"['holleymurchison', 'tmay', 'book']",1
+1383,"['wordpress', 'creativemornings']",0
+1384,"['ownyourcontent', 'wordpress']",0
+1385,[],0
+1386,"['airtable', 'shrfzkyygv']",0
+1387,"['psyche', 'guide', 'engage', 'life', 'feel']",1
+1388,"['designbetter', 'podcast', 'nancy', 'douyon']",1
+1389,"['quakelab', 'blog', 'please', 'dont', 'check', 'black', 'employee']",1
+1390,"['wordpress', 'content', 'blogging', 'blogger', 'block', 'writing', 'resource', 'youre', 'idea']",1
+1391,['collageretreat'],1
+1392,['latinxdesigndirectory'],1
+1393,"['natashaknows', 'summersoulstice']",1
+1394,"['gleefactor', 'resource']",1
+1395,"['adalo', 'future', 'code', 'conclusion']",1
+1396,"['oprahmag', 'entertainment', 'book', 'black', 'queer', 'author']",1
+1397,"['wingspan', 'blog', 'start', 'resent', 'client']",1
+1398,"['youtube', 'nalog', 'ournal', 'playlist']",1
+1399,"['twitch', 'soulection', 'video']",1
+1400,"['giphy', 'salim', 'adam']",1
+1401,"['timcasasola', 'blog', 'design']",1
+1402,['quakelab'],1
+1403,['natashaknows'],1
+1404,"['creativemornings', 'company']",0
+1405,"['creativemornings', 'company', 'studio', 'cooke', 'john']",1
+1406,"['creativemornings', 'company', 'west', 'design', 'studio']",1
+1407,['creativemornings'],0
+1408,"['creativemornings', 'company', 'black', 'sheep', 'agency']",0
+1409,"['creativemornings', 'company', 'shopify']",0
+1410,"['creativemornings', 'company', 'place', 'staffing']",1
+1411,"['creativemornings', 'company', 'numarket']",1
+1412,"['creativemornings', 'company', 'sdco', 'partner']",1
+1413,"['creativemornings', 'individual', 'emerlineji']",0
+1414,"['creativemornings', 'list', 'manage', 'profile']",0
+1415,"['creativemornings', 'list', 'manage', 'unsubscribe']",0
+1416,['creativemornings'],0
+1417,"['mymodernmet', 'baby', 'sleeping']",1
+1418,['apnews'],1
+1419,"['theringer', 'breonna', 'taylor', 'louisville', 'police', 'black', 'life', 'matter', 'protest']",1
+1420,"['list', 'manage', 'unsubscribe']",0
+1421,"['open', 'spotify', 'playlist', 'rryt']",0
+1422,"['nytimes', 'interactive', 'magazine', 'america', 'slavery', 'html']",1
+1423,['nikolehannahjones'],1
+1425,"['bombas', 'pride', 'loremipsum']",1
+1426,"['wizard', 'article', 'feature', 'diversity']",1
+1427,"['twimg', 'medium']",1
+1428,['pawpatrol'],1
+1429,"['vulture', 'live', 'legacy', 'running', 'html']",1
+1430,"['nytimes', 'television', 'protest', 'fictional', 'html']",1
+1431,"['theatlantic', 'health', 'archive', 'story', 'black', 'band']",1
+1432,"['forbes', 'site', 'lisettevoytko', 'uncle', 'brand', 'evolve', 'following', 'aunt', 'jemimas', 'removal']",1
+1433,"['wikipedia', 'wiki', 'astus', 'text', 'astus', 'pejorative', 'term', 'considered', 'offensive']",1
+1434,"['forbes', 'site', 'jemimamcevoy', 'cream', 'wheat', 'becomes', 'fourth', 'brand', 'hour', 'revisit', 'packaging', 'racist', 'origin']",1
+1435,"['conagrabrands', 'news', 'room', 'news', 'conagra', 'brand', 'announces', 'butterworths', 'brand', 'review']",1
+1436,"['nbcnews', 'culture', 'culture', 'news', 'relative', 'aunt', 'jemima', 'actress', 'express', 'concern', 'history', 'erased']",1
+1437,"['article', 'pepsico', 'unit', 'retire', 'aunt', 'jemima', 'brand', 'citing', 'origin', 'racist', 'stereotype']",1
+1438,"['forbes', 'site', 'jemimamcevoy', 'cream', 'wheat', 'becomes', 'fourth', 'brand', 'hour', 'revisit', 'packaging', 'racist', 'origin']",1
+1439,"['kareemali', 'bandcamp']",1
+1440,"['kareemali', 'bandcamp', 'album', 'black', 'power']",1
+1441,"['kareemali', 'bandcamp', 'album', 'black', 'advancement']",1
+1442,"['kareemali', 'bandcamp', 'album', 'black', 'freedom']",1
+1443,"['youtube', 'watch']",1
+1446,"['action', 'justiceforbreonna', 'sign', 'reonna', 'ssential']",1
+1447,"['nytimes', 'interactive', 'coronavirus', 'case', 'html']",0
+1448,"['eventbrite', 'friendship', 'book', 'launch', 'ticket']",0
+1449,['pagesofhackney'],1
+1450,"['sixthandi', 'event', 'friedman', 'aminatou']",0
+1451,"['politics', 'prose']",1
+1452,"['bigfriendship', 'event']",0
+1453,"['blog', 'list', 'manage', 'subscribe']",0
+1454,"['anchorandorbit', 'grow']",1
+1455,['feelingmyflo'],1
+1456,['tightlippedpod'],1
+1457,"['witchesconfluence', 'newsletter']",1
+1458,['entropyinherited'],1
+1459,"['wixsite', 'list', 'manage', 'subscribe']",0
+1460,['theokraproject'],0
+1461,"['annfriedman', 'classified']",0
+1462,"['annfriedman', 'weekly']",0
+1463,"['moonclerk', 'portal', 'oyynk', 'signin']",0
+1464,"['theguardian', 'commentisfree', 'arctic', 'heatwave', 'siberia', 'science']",1
+1465,"['theatlantic', 'idea', 'archive', 'second', 'great', 'depression']",1
+1466,"['wired', 'story', 'airbnb', 'quietly', 'fired', 'hundred', 'contract', 'worker']",1
+1467,"['saltyworld', 'chick', 'walk', 'doctor', 'office']",1
+1468,"['thecut', 'daughter', 'always', 'loved', 'solitude', 'much', 'html']",1
+1469,"['marieclaire', 'politics', 'prison', 'release', 'recidivism']",1
+1470,"['austinkleon', 'free', 'cheap']",1
+1471,"['austinkleon', 'book']",0
+1472,"['austinkleon', 'newsletter']",0
+1473,"['austinkleon', 'keepgoing']",0
+1474,['austinkleon'],0
+1475,['austinkleon'],0
+1476,"['austinkleon', 'steal']",0
+1477,"['austinkleon', 'contact']",0
+1478,"['austinkleon', 'list', 'manage', 'profile']",0
+1479,"['austinkleon', 'list', 'manage', 'unsubscribe']",0
+1480,"['indiebound', 'indie', 'bookstore', 'finder']",0
+1482,"['cheddar', 'newsletter', 'share']",1
+1483,"['forward', 'friend', 'forward']",0
+1484,"['cheddar', 'live']",0
+1486,"['nytimes', 'coronavirus', 'case', 'young', 'people', 'html']",1
+1487,"['reuters', 'article', 'facebook', 'boycott', 'verizon', 'verizon', 'suspends', 'advertising', 'facebook', 'join', 'growing', 'boycott']",1
+1488,"['sportingnews', 'nascar', 'news', 'bubba', 'wallace', 'noose', 'picture', 'lamurgkgs', 'xtyv']",1
+1490,"['podcasts', 'apple', 'podcast', 'cheddar', 'need', 'know']",0
+1491,"['open', 'spotify', 'show', 'ofzr']",0
+1492,"['story', 'chase', 'strangio', 'aclu', 'lgbtq', 'legal', 'victory']",1
+1493,"['tinyletter', 'dayo', 'letter', 'noun', 'labyrinth']",1
+1494,"['theguardian', 'commentisfree', 'abolish', 'police', 'sexual', 'assault', 'violence']",1
+1495,"['newyorker', 'news', 'news', 'desk', 'domestic', 'abuser', 'keep', 'accountable', 'watching']",1
+1496,"['nytimes', 'minneapolis', 'george', 'floyd', 'police', 'html']",1
+1497,"['latimes', 'opinion', 'story', 'social', 'medium', 'trauma', 'black', 'killing']",1
+1498,"['theguardian', 'society', 'online', 'harassment', 'increase', 'american', 'minority', 'group']",1
+1499,"['news', 'artnet', 'opinion', 'limit', 'care', 'knowledge', 'yesomi', 'umolu']",1
+1500,"['runnersworld', 'runner', 'story', 'ahmaud', 'arbery', 'death', 'running', 'racism']",1
+1501,"['identity', 'police', 'black', 'trans', 'people', 'violence']",1
+1502,"['thecut', 'since', 'breonna', 'taylor', 'murder', 'html']",1
+1503,"['newyorker', 'news', 'dispatch', 'vanishing', 'monument', 'columbus', 'ohio']",1
+1504,"['newyorker', 'magazine', 'trayvon', 'generation']",1
+1505,"['independentpublisher', 'article']",1
+1506,"['tinyletter', 'dayo']",1
+1507,['bigfriendship'],0
+1508,"['callyourgirlfriend', 'episode', 'origin', 'story', 'summer', 'friendship']",1
+1509,"['mailchi', 'ladyswagger', 'close', 'frond']",1
+1510,['giveessential'],1
+1511,"['annfriedman', 'aboutme']",0
+1512,"['annfriedman', 'writing']",0
+1513,"['annfriedman', 'speaking']",0
+1514,"['annfriedman', 'consulting']",0
+1515,"['annfriedman', 'list', 'manage', 'profile']",0
+1516,"['annfriedman', 'list', 'manage', 'unsubscribe']",0
+1517,"['mailchi', 'bigspaceship', 'spaceship', 'internet', 'brunch']",1
+1518,"['youtube', 'watch', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",1
+1519,"['youtube', 'watch', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",1
+1521,"['conversation', 'friend', 'adaptation', 'hulu', 'sally', 'rooney']",1
+1522,"['variety', 'film', 'office', 'tenet', 'release', 'date', 'delayed', 'christopher', 'nolan']",1
+1523,"['eonline', 'news', 'justin', 'bieber', 'file', 'million', 'defamation', 'lawsuit', 'sexual', 'assault', 'accuser']",1
+1524,"['youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",1
+1525,"['cnbc', 'ford', 'unveils', 'tech', 'savvy', 'pickup', 'hand', 'free', 'driving', 'html']",1
+1526,"['theverge', 'microsoft', 'retail', 'store', 'closing', 'city', 'open']",1
+1527,"['nytimes', 'business', 'kanye', 'west', 'yeezy', 'html']",1
+1528,"['economist', 'leader', 'next', 'olympics', 'include', 'fortnite']",1
+1529,"['cbsnews', 'news', 'bubba', 'wallace', 'nascar', 'noose', 'photo', 'garage']",1
+1533,"['austinkleon', 'good', 'thing', 'must', 'begin']",1
+1534,"['mailchi', 'austinkleon', 'good', 'thing', 'must', 'begin']",1
+1537,"['menshealth', 'fitness', 'yoga']",1
+1542,"['fastcompany', 'decontaminate', 'mask', 'minute']",1
+1543,"['youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",1
+1545,"['biography', 'news', 'stephen', 'hawking', 'zinger']",1
+1546,"['noemamag', 'anthropocene', 'microbiocene']",1
+1547,['easterneuropeanmovies'],1
+1548,"['curbed', 'swimming', 'pool', 'ground', 'coronavirus']",1
+1549,"['designyoutrust', 'breathtaking', 'aerial', 'shot', 'barcelona', 'revealing', 'city', 'symmetry']",1
+1550,"['reel', 'video', 'hfhck', 'little', 'known', 'concept', 'hypersanity']",1
+1551,"['outsideonline', 'grid', 'cabin', 'life', 'california']",1
+1552,"['treehugger', 'slowest', 'animal', 'world']",1
+1553,"['future', 'article', 'astonishing', 'focus', 'namibia', 'nomad']",1
+1554,"['todayifoundout', 'index', 'coming', 'america', 'life', 'frederick', 'trump']",1
+1555,"['apollo', 'magazine', 'future', 'museum', 'fundraising']",1
+1556,"['stevebenjamins', 'blog', 'music', 'algorithm']",1
+1557,"['theguardian', 'environment', 'cyanide', 'bomb', 'wildfire', 'service', 'idaho']",1
+1558,"['news', 'blog', 'trending']",1
+1559,"['typeinvestigations', 'investigation', 'exporting', 'virus']",1
+1560,"['haaretz', 'world', 'news', 'premium', 'million', 'people', 'jailed', 'china', 'gulag', 'escaped', 'inside']",1
+1561,"['wired', 'article', 'mask', 'shaming']",1
+1562,"['theconversation', 'northern', 'ireland', 'police', 'transformation', 'hold', 'lesson']",1
+1563,"['briefingday', 'commentform']",1
+1565,"['morningbrew', 'account', 'edit']",0
+1570,"['morningbrew', 'daily', 'story', 'youre', 'getting', 'married', 'pandemic', 'html']",1
+1573,"['boston', 'news', 'local', 'news', 'rhode', 'island', 'town', 'declared', 'first', 'amendment', 'sanctuary']",1
+1574,"['medium', 'giphy', 'medium', 'dvsgta', 'giphy']",1
+1575,"['fieri', 'flavortown', 'columbus', 'ohio', 'petition', 'trnd', 'index', 'html']",1
+1576,"['morningbrew', 'daily', 'story', 'future', 'city', 'source', 'morning', 'brew']",1
+1577,"['physic', 'harvard', 'undergrad', 'humor']",1
+1578,"['existentialcomics', 'comic']",1
+1579,"['youtube', 'watch', 'source', 'morning', 'brew']",1
+1580,"['youtube', 'watch', 'source', 'morning', 'brew']",1
+1581,"['theconversation', 'trolley', 'dilemma', 'would', 'kill', 'person', 'save', 'five']",1
+1582,"['podcasts', 'apple', 'podcast', 'climate', 'data', 'revolution']",1
+1583,"['investing', 'luckin', 'coffee', 'delisted', 'index', 'html']",1
+1584,"['cnbc', 'nike', 'john', 'donahoe', 'tell', 'employee', 'layoff', 'coming', 'html']",1
+1585,"['tech', 'microsoft', 'store', 'closing', 'index', 'html']",1
+1587,"['reuters', 'article', 'oreal', 'whitening', 'loreal', 'drop', 'word', 'whitening', 'skin', 'product']",1
+1588,"['cbssports', 'soccer', 'news', 'fifa', 'woman', 'world', 'australia', 'zealand', 'joint', 'awarded', 'hosting', 'duty', 'next']",1
+1589,"['news', 'england', 'merseyside']",1
+1590,"['morningbrew', 'daily', 'story', 'nwsl', 'return', 'utah', 'monthlong', 'tournament']",1
+1591,"['cnbc', 'amazon', 'spending', 'billion', 'zoox', 'invest', 'billion', 'html']",1
+1592,"['article', 'elon', 'musk', 'call', 'amazon', 'breakup', 'latest', 'spat', 'jeff', 'bezos']",1
+1593,"['cnbc', 'amazon', 'self', 'driving', 'technology', 'company', 'zoox', 'html']",1
+1594,"['morningbrew', 'daily', 'story', 'amazon', 'level', 'autonomous', 'driving', 'game']",1
+1595,"['youtube', 'watch']",1
+1596,"['complex', 'style', 'kanye', 'west', 'mowalola', 'ogunlesi', 'design', 'director', 'yeezy']",1
+1597,"['morningbrew', 'retail', 'story', 'simon', 'missed', 'rent', 'payment']",1
+1598,"['cnbc', 'report', 'loss', 'share', 'fall', 'html']",1
+1599,"['youtube', 'watch', 'source', 'morning', 'brew']",1
+1600,"['morningbrew', 'daily', 'story', 'kanye', 'team', 'clothing', 'line']",1
+1601,"['article', 'coronavirus', 'latest', 'news']",1
+1602,"['health', 'florida', 'coronavirus', 'case', 'young', 'people', 'index', 'html']",1
+1603,"['axios', 'florida', 'single', 'increase', 'coronavirus', 'case', 'html']",1
+1604,"['nbcnews', 'news', 'news', 'texas', 'close', 'limit', 'restaurant', 'dining', 'explosion', 'covid']",1
+1605,"['morningbrew', 'daily', 'story', 'texas', 'florida', 'curb', 'stem', 'outbreak', 'among', 'young', 'people']",1
+1606,"['cnbc', 'zuckerberg', 'facebook', 'prohibit', 'hate', 'speech', 'html']",1
+1607,"['gizmodo', 'stop', 'hate', 'profit', 'movement', 'isnt', 'going', 'stop']",1
+1608,"['forbes', 'site', 'martyswant', 'civil', 'right', 'group', 'marketer', 'boycott', 'facebook', 'outdoor', 'brand', 'pause', 'spending']",1
+1609,"['cnbc', 'coca', 'cola', 'pause', 'advertising', 'social', 'medium', 'platform', 'globally', 'html']",1
+1610,['content'],1
+1611,"['morningbrew', 'daily', 'story', 'facebook', 'boycott', 'grows', 'zuck', 'announces', 'policy', 'change']",1
+1612,"['nytimes', 'world', 'europe', 'europe', 'travel', 'html']",1
+1613,"['cnbc', 'stock', 'market', 'future', 'open', 'close', 'news', 'html']",1
+1614,"['reuters', 'article', 'economy', 'spending', 'consumer', 'spending', 'rebound', 'falling', 'income', 'surging', 'covid', 'case', 'loom']",1
+1618,"['morningbrew', 'daily']",1
+1620,"['digg', 'cmail', 'ptddylt', 'vkjjhbly']",1
+1624,"['digg', 'edition', 'story']",1
+1625,"['splinternews', 'first', 'step', 'recovery', 'admitting', 'youre', 'racist']",1
+1626,"['magazine', 'atavist', 'ghost', 'pickering', 'trail']",1
+1627,"['classic', 'avantlink', 'click']",1
+1628,"['digg', 'video', 'someone', 'mashed', 'anti', 'mask', 'protester', 'florida', 'park', 'recreation', 'town', 'hall', 'meeting']",1
+1629,"['hollywoodreporter', 'news', 'streamer', 'muzzling', 'controversial']",1
+1630,"['buzzfeednews', 'article', 'scaachikoul', 'netflix', 'michele', 'morrone', 'erotica']",1
+1632,"['culture', 'best', 'movie', 'streaming']",1
+1633,"['digg', 'best', 'photo', 'week', 'forgotten', 'playground']",1
+1634,"['newrepublic', 'article', 'justice', 'department', 'fake', 'fight', 'trafficking']",1
+1635,"['digg', 'oldest', 'restaurant', 'world', 'visualized']",1
+1636,"['theatlantic', 'politics', 'archive', 'kamala', 'harris', 'shadow', 'campaign', 'vice', 'president']",1
+1637,"['lelo', 'pride', 'month']",1
+1639,"['spiegel', 'international', 'business', 'corona', 'slaughterhouse', 'high', 'price', 'cheap', 'meat']",1
+1640,['briefingday'],1
+1642,"['youtube', 'watch', 'feature', 'youtu']",1
+1643,"['youtube', 'watch', 'feature', 'youtu']",1
+1644,"['youtube', 'watch', 'feature', 'youtu']",1
+1645,"['youtube', 'watch', 'feature', 'youtu']",1
+1646,"['vincerowatches', 'page', 'elevator']",1
+1647,"['youtube', 'watch', 'feature', 'youtu']",1
+1648,"['mailchi', 'benedict', 'newsletter']",1
+1649,"['evans', 'list', 'manage', 'unsubscribe']",0
+1650,"['forward', 'friend', 'forward']",1
+1651,"['ofcom', 'research', 'data', 'internet', 'demand', 'research', 'online', 'nation', 'narrative']",1
+1652,"['mobiledevmemo', 'apocalypse', 'wwdc', 'idfa', 'dead']",1
+1653,"['medium', 'learningbyshipping', 'apple', 'relentless', 'strategy', 'execution']",1
+1654,"['digitstodollars', 'apple', 'silicon', 'rest']",1
+1655,"['nytimes', 'technology', 'facial', 'recognition', 'arrest', 'html']",1
+1656,"['jdsupra', 'legalnews', 'california', 'privacy', 'right']",1
+1657,"['europa', 'info', 'site', 'info', 'file', 'codeofconduct', 'factsheet']",1
+1658,"['story', 'digitalmycenae']",1
+1659,"['readingdesign', 'thing']",1
+1660,"['secondbreakfast', 'google', 'blew', 'year', 'lead']",1
+1661,"['protocol', 'mike', 'schroepfer', 'facebook', 'interview']",1
+1662,"['opensignal', 'rakutens', 'mobile', 'experience', 'challenge', 'japan', 'world']",1
+1663,"['blog', 'google', 'product', 'admanager', 'news', 'publisher', 'make', 'money', 'manager']",1
+1664,"['blog', 'google', 'product', 'admanager', 'display', 'buying', 'share', 'revenue', 'publisher']",1
+1665,"['content', 'adfbc']",1
+1666,"['digg', 'video', 'crime', 'expert', 'critique', 'movie', 'realistic', 'money', 'laundering', 'scene']",1
+1667,"['digg', 'video', 'make', 'trader', 'joes', 'product']",1
+1668,"['digg', 'wing', 'movie', 'tracking', 'shot', 'incredible']",1
+1669,"['store', 'digg', 'sale', 'waterproof', 'zapper', 'lantern', 'gray']",1
+1670,"['digg', 'edition', 'video']",1
+1674,"['digg', 'cmail', 'ptddjn', 'vkjjhbly']",1
+1675,"['blog', 'google', 'technology', 'safety', 'security', 'keeping', 'private', 'information', 'private']",1
+1676,"['thetileapp', 'work']",1
+1677,"['developer', 'apple', 'find']",1
+1678,"['news', 'microsoft', 'microsoft', 'store', 'announces', 'approach', 'retail']",1
+1681,"['digg', 'video', 'dirty', 'flushing', 'house', 'listing']",1
+1682,"['digg', 'video', 'trey', 'kennedy', 'karen', 'impression']",1
+1683,"['digg', 'video', 'squirrel', 'show', 'woman', 'peanut', 'stash']",1
+1684,"['digg', 'video', 'would', 'happen', 'injected', 'liquid', 'metal', 'inside', 'stretch', 'armstrong', 'action', 'figure']",1
+1685,"['eater', 'reopening', 'restaurant', 'struggling', 'rehire', 'employment', 'coronavirus', 'pandemic', 'covid']",1
+1689,"['briefingday', 'commentform']",1
+1691,"['seth', 'blog', 'stolen', 'address', 'book']",1
+1692,"['reuters', 'article', 'boeing', 'exclusive', 'exclusive', 'boeing', 'certification', 'flight', 'test', 'begin', 'monday', 'source']",1
+1693,"['city', 'journal', 'plummeting', 'confidence', 'expert']",1
+1694,"['techcrunch', 'oreilly', 'make', 'persuasive', 'case', 'venture', 'capital', 'starting', 'harm', 'good']",1
+1695,"['thedodo', 'video', 'daily', 'dodo', 'baby', 'animal', 'pure']",1
+1696,"['boingboing', 'magnetic', 'medium', 'enthusiast', 'html']",1
+1697,"['itsnicethat', 'article', 'barbara', 'iweins', 'katalog', 'photography']",1
+1698,"['futurism', 'byte', 'michigan', 'illegal', 'company', 'microchip', 'employee']",1
+1699,"['worklife', 'article', 'canada', 'forgotten', 'universal', 'basic', 'income', 'experiment']",1
+1700,"['vintage', 'everyday', 'curtis', 'wright', 'html']",1
+1701,"['foodandwine', 'travel', 'restaurant', 'scamming', 'pizza']",1
+1702,"['mysteriousuniverse', 'forbidden', 'hotel', 'room', 'haunted', 'guest', 'arent', 'allowed', 'stay']",1
+1703,"['theconversation', 'holding', 'holding', 'still', 'photograph', 'father', 'alzheimers']",1
+1704,"['marketwatch', 'story', 'reason', 'stock', 'market', 'face', 'severe', 'bout', 'turbulence', 'next', 'week', 'beyondonly', 'rising', 'coronavirus', 'case']",1
+1705,"['news', 'gallup', 'poll', 'ideal', 'evening', 'american', 'involve', 'family', 'time', 'aspx']",1
+1706,"['theweek', 'article', 'dark', 'inside', 'cinema', 'business']",1
+1708,"['aeon', 'essay', 'child', 'earliest', 'memory']",1
+1709,"['profgalloway', 'higher', 'enough', 'already']",1
+1710,"['reuters', 'article', 'facebook', 'breakingviews', 'breakingviews', 'corporate', 'boycott', 'expose', 'inconvenient', 'truth']",1
+1711,"['phys', 'news', 'conspiracy', 'theory', 'emergeand', 'storyline', 'fall', 'html']",1
+1712,"['evans', 'newsletter']",0
+1713,"['evans', 'benedictevans', 'zoom', 'next', 'video']",1
+1714,"['cnbc', 'facebook', 'boycott', 'entered', 'league', 'html']",1
+1716,"['blog', 'aboutamazon', 'company', 'news', 'acquiring', 'zoox', 'help', 'bring', 'vision', 'autonomous', 'ride', 'hailing', 'reality']",1
+1717,"['europa', 'commission', 'commissioner', 'vestager', 'announcement', 'competition', 'digital', 'changing', 'enforcement', 'changing', 'time']",1
+1718,"['businesswire', 'news', 'home']",1
+1719,"['theverge', 'starbucks', 'advertising', 'social', 'medium', 'july', 'facebook', 'twitter']",1
+1720,['apnews'],1
+1721,"['nytimes', 'business', 'medium', 'acebook', 'advertising', 'boycott', 'html']",1
+1723,"['thehustle', 'tarbucks']",1
+1724,"['tech', 'white', 'supremacist', 'telegram', 'racism', 'intl', 'index', 'html']",1
+1725,"['techcrunch', 'telegram', 'fine', 'million', 'return', 'billion', 'investor', 'dissolve']",1
+1726,"['thehustle', 'elegram', 'messaging']",1
+1727,"['reuters', 'article', 'health', 'coronavirus', 'cattle', 'feature', 'travel', 'coronavirus', 'meat', 'plant', 'build', 'demand', 'mobile', 'butcher']",1
+1728,"['thehustle', 'butcher']",1
+1729,"['trend', 'weekly', 'lecture', 'exclusive', 'offer']",0
+1730,['thekanyestory'],1
+1731,['marketingexamples'],1
+1732,"['reuters', 'article', 'facebook', 'boycott', 'exclusive', 'exclusive', 'facebook', 'boycott', 'campaign', 'global', 'organizer']",1
+1733,"['gizmodo', 'twitter', 'sorry', 'putting', 'covid', 'misinformation', 'labe']",1
+1734,"['newyorker', 'news', 'letter', 'silicon', 'valley', 'ghost', 'kitchen', 'future']",1
+1735,"['theverge', 'fake', 'twitter', 'tiktok', 'meme']",1
+1736,"['forbes', 'site', 'tamarathiessen', 'covid', 'birthplace', 'wuhan', 'china', 'travel', 'attraction', 'efce']",1
+1737,"['nytimes', 'realestate', 'could', 'doomsday', 'bunker', 'become', 'normal', 'html']",1
+1738,"['chicagobusiness', 'airline', 'airport', 'american', 'pilot', 'seat']",1
+1739,"['nytimes', 'style', 'tiktok', 'teen', 'politics', 'html']",1
+1740,"['quantamagazine', 'geometric', 'perspective', 'crack', 'problem', 'rectangle']",1
+1741,"['nytimes', 'money', 'philanthropy', 'pandemic', 'coronavirus', 'html']",1
+1742,"['qmunity', 'tech', 'qubes', 'camp']",1
+1743,['woven'],1
+1745,['vettery'],1
+1746,['thehustle'],0
+1747,"['thehustle', 'account']",0
+1748,"['google', 'form', 'viewform']",0
+1749,"['google', 'form', 'sgxkvx', 'viewform']",0
+1750,"['google', 'form', 'iuxw', 'viewform']",0
+1751,"['thehustle', 'first', 'million', 'podcast']",0
+1752,"['thehustle', 'career']",0
+1753,"['thehustle', 'advertise']",0
+1754,"['youtube', 'channel']",0
+1755,['trend'],0
+1756,"['thehustle', 'daily']",0
+1757,"['cheddar', 'newsletter', 'share']",1
+1759,"['texastribune', 'mike', 'penny', 'visit', 'dallas', 'texas', 'grapple', 'coronavirus', 'spike']",1
+1760,"['news', 'music', 'award', 'full', 'winner', 'list', 'roddy', 'ricch', 'lizzo']",1
+1761,"['sciencedaily', 'release']",1
+1762,"['phys', 'news', 'theorist', 'upper', 'limit', 'quantization', 'html']",1
+1763,"['healthsciences', 'newsfaculty', 'news', 'sledge', 'closely', 'related', 'year', 'ancient']",1
+1764,"['cheddar', 'medium', 'stock', 'sink', 'coronavirus', 'case', 'jump']",1
+1765,"['reuters', 'article', 'albertsons', 'company', 'albertsons', 'share', 'fall', 'nyse', 'debut']",1
+1767,"['market', 'businessinsider', 'news', 'stock', 'stock', 'surge', 'year', 'apparel', 'deal', 'kanye', 'west', 'yeezy']",1
+1768,"['cnbc', 'chesapeake', 'energy', 'pioneer', 'shale', 'revolution', 'file', 'bankruptcy', 'protection', 'html']",1
+1769,"['courier', 'journal', 'story', 'news', 'local', 'know', 'louisville', 'shooting', 'breonna', 'taylor', 'protest']",1
+1770,"['thehill', 'homenews', 'administration', 'trump', 'praise', 'video', 'includes', 'protester', 'shouting', 'white', 'power']",1
+1771,"['theguardian', 'news', 'russia', 'offered', 'bounty', 'afghanistan', 'militant', 'killing', 'soldier', 'report', 'outrage']",1
+1772,"['nbcnews', 'news', 'news', 'saharan', 'dust', 'cloud', 'southern', 'state', 'reducing']",1
+1773,"['usatoday', 'story', 'news', 'nation', 'sahara', 'dust', 'cloud', 'storm', 'reach', 'mainland']",1
+1774,"['parent', 'learn', 'child', 'care', 'center', 'stayed', 'open', 'lockdown']",1
+1777,"['wikipedia', 'wiki', 'lobe', 'heatre', 'hakespeare', 'lobe', 'heatres']",1
+1778,"['vice', 'article', 'invading', 'cicada', 'turn', 'crazed', 'zombie', 'summer']",1
+1779,"['latimes', 'entertainment', 'music', 'story', 'song', 'summer', 'beyonce', 'drake', 'baby']",1
+1780,"['beyonc', 'drop', 'visual', 'album', 'black', 'king', 'disney', 'july']",1
+1781,"['youtube', 'watch', 'feature', 'title']",1
+1782,"['arstechnica', 'gaming', 'doomscrolling', 'slowly', 'eroding', 'mental', 'health']",1
+1783,"['yelpeconomicaverage', 'yelp', 'coronavirus', 'economic', 'impact', 'report', 'html']",1
+1785,"['nytimes', 'travel', 'dolomite', 'italy', 'hiking', 'html']",1
+1786,"['theconversation', 'simple', 'model', 'show', 'importance', 'wearing', 'mask', 'social', 'distancing']",1
+1787,"['bitchesgottaeat', 'substack']",1
+1788,"['minimizer', 'substack', 'welcome']",1
+1789,['theankler'],1
+1790,['publishersweekly'],1
+1791,['lithub'],1
+1792,['skift'],1
+1793,['remodelista'],1
+1794,['elanaspantry'],1
+1795,['nomnompaleo'],1
+1796,['food'],1
+1797,['milkstreet'],1
+1798,"['vulture', 'author', 'priyanka', 'mattoo']",1
+1799,['primattoo'],1
+1800,"['podcasts', 'apple', 'podcast', 'foxy', 'brown']",1
+1801,['earios'],1
+1805,"['camellaskitchen', 'shop']",1
+1806,['justiceinjune'],1
+1807,['prose'],1
+1808,"['sakara', 'page', 'skimm']",0
+1809,"['summersalt', 'page', 'summersalt', 'skimm']",0
+1811,"['nytimes', 'politics', 'russian', 'bounty', 'warning', 'trump', 'html']",1
+1812,"['shot', 'hour', 'shooting', 'york', 'city', 'brooklyn', 'shooting']",1
+1813,"['csmonitor', 'ociety', 'ississippi', 'lawmaker', 'voted', 'retire', 'onfederate', 'flag']",1
+1814,"['news', 'local', 'news', 'chase', 'investigating', 'report', 'missing', 'additional', 'money', 'bank', 'account']",1
+1815,['radpowerbikes'],1
+1817,"['espn', 'story', 'grading', 'newton', 'move', 'patriot', 'little', 'risk', 'huge', 'potential', 'look', 'patriot', 'offense']",1
+1818,"['variety', 'film', 'office', 'mulan', 'release', 'postponed', 'coronavirus', 'disney']",1
+1819,['beyonce'],1
+1820,"['cbsnews', 'news', 'starbucks', 'karen', 'barista', 'diego', 'dollar', 'mask', 'encounter']",1
+1825,"['morningbrew', 'daily']",1
+1828,"['morningbrew', 'daily', 'story', 'ultimate', 'guide', 'investing', 'today', 'tomorrow', 'beyond', 'story']",1
+1829,"['morningbrew', 'marketing']",0
+1830,"['aljazeera', 'indepth', 'interactive', 'infographic', 'million', 'coronavirus', 'case', 'html']",1
+1832,['apnews'],1
+1833,"['morningbrew', 'daily', 'story', 'controversy', 'mask', 'threatens', 'pandemic', 'response']",1
+1834,"['axios', 'pelosi', 'face', 'mask', 'coronavirus', 'html']",1
+1835,"['courier', 'journal', 'story', 'news', 'politics', 'mitch', 'mcconnell', 'urge', 'people', 'wear', 'mask', 'covid', 'vaccine']",1
+1836,"['politics', 'biden', 'mask', 'mandatory', 'coronavirus', 'index', 'html']",1
+1837,"['article', 'transcript', 'president', 'trump', 'interview', 'wall', 'street', 'journal']",1
+1838,"['thehill', 'homenews', 'sunday', 'talk', 'show', 'penny', 'want', 'defer', 'local', 'official', 'requiring', 'mask']",1
+1839,"['cnbc', 'coronavirus', 'mask', 'mandate', 'differ', 'across', 'country', 'spot', 'multiply', 'html']",1
+1840,"['texastribune', 'face', 'mask', 'order', 'dallas', 'harris', 'travis', 'bexar']",1
+1841,"['axios', 'coronavirus', 'face', 'mask', 'science', 'html']",1
+1842,"['usatoday', 'story', 'money', 'mask', 'requirement', 'trader', 'joes', 'viral', 'twitter', 'video']",1
+1843,"['nytimes', 'american', 'airline', 'mask', 'brandon', 'straka', 'html']",1
+1844,"['article', 'mask', 'could', 'help', 'stop', 'coronavirus', 'still', 'controversial']",1
+1845,"['morningbrew', 'daily', 'story', 'mask', 'prove', 'puzzling', 'retail', 'category']",1
+1846,"['morningbrew', 'daily', 'story', 'boeing', 'expected', 'begin', 'critical', 'test', 'flight', 'monday']",1
+1847,"['news', 'business']",1
+1848,"['nytimes', 'business', 'boeing', 'cost', 'html']",1
+1850,"['morningbrew', 'daily', 'story', 'chesapeake', 'energy', 'file', 'chapter', 'bankruptcy']",1
+1851,"['article', 'fracking', 'trailblazer', 'chesapeake', 'energy', 'file', 'bankruptcy']",1
+1852,"['nytimes', 'business', 'economy', 'chesapeake', 'energy', 'bankruptcy', 'html']",1
+1854,"['morningbrew', 'daily', 'story', 'ultimate', 'guide', 'investing', 'today', 'tomorrow', 'beyond']",1
+1855,"['morningbrew', 'daily', 'story', 'starbucks', 'pause', 'social', 'medium']",1
+1856,"['usatoday', 'story', 'money', 'facebook', 'boycott', 'starbucks', 'pausing', 'advertising', 'social', 'medium', 'platform']",1
+1858,"['tech', 'facebook', 'boycott', 'index', 'html']",1
+1859,"['morningbrew', 'daily', 'story', 'week', 'ahead', 'june']",1
+1860,"['section', 'live', 'update', 'protest', 'racial', 'justice', 'trump', 'retweets', 'video', 'apparent', 'supporter', 'saying', 'white', 'power']",1
+1861,"['apnews', 'ccef']",1
+1862,"['reuters', 'article', 'bond', 'tobacco', 'buffett', 'join', 'portfolio']",1
+1863,"['espn', 'story', 'newton', 'reach', 'year', 'deal', 'patriot', 'source']",1
+1864,['masterworks'],0
+1867,"['miltonglaser', 'work']",1
+1869,"['masterworks', 'disclaimer']",0
+1870,"['bankingdive', 'news', 'suspend', 'share', 'buyback', 'dividend']",1
+1871,"['stock', 'buyback', 'coronavirus', 'bailouts', 'airline', 'trump']",1
+1872,"['investopedia', 'article']",1
+1873,"['youtube', 'watch', 'yvkbw', 'source', 'morning', 'brew']",1
+1874,"['cnbc', 'populism', 'worked', 'buyback', 'bull', 'market', 'without', 'last', 'html']",1
+1875,"['youtube', 'watch', 'source', 'morning', 'brew']",1
+1876,"['washingtonexaminer', 'opinion', 'coronavirus', 'bailout', 'dont', 'punish', 'company', 'stock', 'buyback']",1
+1877,"['morningbrew', 'daily', 'story', 'practice', 'selling', 'buyback', 'come', 'fire']",1
+1878,"['morningbrew', 'daily', 'story', 'week', 'review', 'crossword', 'june']",1
+1891,"['statnews', 'feature', 'coronavirus', 'covid', 'tracker']",1
+1892,"['news', 'world', 'canada']",1
+1896,"['briefingday', 'commentform']",1
+1898,"['news', 'science', 'home', 'affair', 'protection', 'visa', 'facebook', 'social', 'medium']",1
+1899,"['edition', 'travel', 'article', 'cheddar', 'cheese', 'history', 'index', 'html']",1
+1900,"['unherd', 'thepost', 'stranded', 'seafarer', 'could', 'trigger', 'national', 'food', 'crisis']",1
+1901,"['nytimes', 'opinion', 'sunday', 'coronavirus', 'html']",1
+1902,"['deathbytoys', 'storenvy', 'product', 'male', 'action', 'figure', 'broken']",1
+1903,"['psychologytoday', 'blog', 'living', 'single', 'phony', 'spending', 'time', 'alone', 'authentic', 'people']",1
+1904,"['arstechnica', 'gadget', 'tiktok', 'apps', 'still', 'snoop', 'sensitive', 'clipboard', 'data']",1
+1905,"['worklife', 'article', 'could', 'adding', 'public', 'holiday', 'boost', 'economy']",1
+1906,"['wallpaper', 'memoriam', 'milton', 'glaser', 'obituary']",1
+1907,"['theringer', 'music', 'album', 'rick', 'rubin', 'extended', 'universe', 'ranked']",1
+1908,"['melmagazine', 'story', 'waterloo', 'brought', 'abba', 'world', 'didnt', 'know']",1
+1909,"['telegraph', 'health', 'fitness', 'mind', 'meet', 'family', 'could', 'hold', 'understanding', 'major', 'mental', 'illness']",1
+1910,"['reddit', 'eddit', 'comment', 'people']",1
+1911,"['mondaynote', 'next', 'electric']",1
+1912,"['currentaffairs', 'collecting', 'book']",1
+1913,"['benjaminreinhardt', 'wddw']",1
+1914,"['wired', 'article', 'forensic', 'photo']",1
+1915,"['mymodernmet', 'best', 'milky', 'photo']",1
+1916,"['theguardian', 'world', 'poor', 'covid', 'fuel', 'rising', 'poverty', 'italy']",1
+1917,"['theweek', 'article', 'election', 'nightmare', 'scenario']",1
+1918,"['forbes', 'site', 'kerryadolan', 'billionaire', 'behind', 'movie', 'contagion', 'working', 'stop', 'pandemic', 'next']",1
+1919,"['popularmechanics', 'technology', 'infrastructure', 'future', 'airport', 'tech', 'coronavirus']",1
+1920,"['theneutral', 'russia', 'accuse', 'election', 'meddling']",1
+1921,['briefingday'],1
+1924,"['legacy', 'obituary', 'nytimes', 'obituary', 'aspx']",1
+1925,"['wikipedia', 'wiki', 'hristopher']",1
+1926,"['wikipedia', 'wiki', 'urning']",1
+1927,"['whyisthisinteresting', 'substack', 'interesting', 'masked']",0
+1928,['paprikaapp'],1
+1932,"['drinkhydrant', 'skimm', 'june']",1
+1934,"['cookinglight', 'cooking', 'technique', 'grill', 'anything']",1
+1935,"['yourparade', 'page']",1
+1936,"['theskimm', 'pick', 'beach', 'product', 'make', 'next', 'trip', 'success']",0
+1938,"['eonline', 'news', 'beyonc', 'eacute', 'accepts', 'award', 'humanitarian', 'award', 'none', 'michelle', 'obama']",1
+1940,"['politics', 'mississippi', 'flag', 'confederate', 'emblem', 'index', 'html']",1
+1941,"['apnews', 'ddde', 'eeae']",1
+1942,"['theguardian', 'world', 'poland', 'election', 'duda', 'forced', 'second', 'round', 'exit', 'poll', 'suggests']",1
+1943,"['axios', 'scott', 'trump', 'tweet', 'white', 'power', 'html']",1
+1945,"['nytimes', 'confederate', 'statue', 'photo', 'html']",1
+1946,"['cbsnews', 'news', 'trump', 'executive', 'order', 'protect', 'monument']",1
+1947,"['politico', 'news', 'trump', 'russia']",1
+1948,"['cnet', 'news', 'russia', 'targeted', 'election', 'system', 'state', 'senate', 'report']",1
+1949,"['britannica', 'event', 'oviet', 'invasion', 'fghanistan']",1
+1950,"['forbes', 'site', 'andrewsolender', 'lawmaker', 'party', 'demand', 'answer', 'trump', 'russian', 'bounty']",1
+1951,"['article', 'trump', 'wasnt', 'aware', 'russia', 'bounty', 'allegation']",1
+1952,"['reuters', 'article', 'mideast', 'crisis', 'syria', 'russia', 'casualtie', 'russian', 'toll', 'syria', 'battle', 'killed', 'wounded', 'source']",1
+1953,"['nytimes', 'politics', 'russia', 'afghanistan', 'bounty', 'html']",1
+1954,"['people', 'music', 'adele', 'tell', 'patient', 'album']",1
+1957,"['cidrap', 'news', 'perspective', 'covid', 'case', 'among', 'young', 'adult', 'spike']",1
+1958,"['livescience', 'covid', 'coronavirus', 'deadly', 'people', 'html']",1
+1960,"['usatoday', 'story', 'tech', 'facebook', 'boycott', 'hate', 'speech', 'biggest', 'brand', 'verizon', 'coca', 'cola']",1
+1961,"['adweek', 'programmatic', 'civil', 'right', 'group', 'facebook', 'advertiser', 'boycott', 'stophateforprofit']",1
+1962,"['marketwatch', 'story', 'facebook', 'share', 'drop', 'unilever', 'halt', 'advertising', 'prompting', 'change', 'social', 'networking', 'giant']",1
+1963,"['consumerreports', 'social', 'medium', 'facebook', 'approved', 'coronavirus', 'misinformation']",1
+1964,"['clarionledger', 'story', 'news', 'politics', 'mississippi', 'state', 'flag', 'lawmaker', 'vote', 'state', 'remove', 'confederate', 'emblem']",1
+1965,"['masslive', 'sport', 'college', 'football', 'mississippi', 'flag', 'miss', 'lane', 'kiffin', 'mike', 'leach', 'call', 'drop', 'confederate', 'emblem', 'state', 'flag', 'html']",1
+1966,"['mshistorynow', 'mdah', 'state', 'article', 'flag', 'mississippi']",1
+1967,"['clarionledger', 'story', 'news', 'stennis', 'flag', 'thing', 'know', 'popular', 'replacement', 'choice']",1
+1969,"['coronavirus', 'pandemic', 'black', 'life', 'matter', 'protest']",1
+1970,"['elijah', 'mcclain', 'george', 'floyd', 'black', 'life', 'matter', 'protest', 'killing']",1
+1971,"['nytimes', 'book', 'review', 'neel', 'patel', 'dont', 'html']",1
+1972,"['bookdepository', 'olour', 'abalola']",1
+1973,"['nytimes', 'book', 'review', 'windfall', 'diksha', 'basu', 'html']",1
+1974,"['policy', 'politics', 'bill', 'barr', 'donald', 'trump', 'berman', 'david', 'rohde']",1
+1975,"['united', 'state', 'serbia', 'democracy', 'journalist', 'stevan', 'dojcinovic']",1
+1976,"['nytimes', 'book', 'review', 'interior', 'chinatown', 'charles', 'html']",1
+1977,"['penguinrandomhouse', 'book', 'burning', 'megha', 'majumdar']",1
+1978,"['penguinrandomhouse', 'book', 'vanishing', 'half', 'brit', 'bennett']",1
+1979,"['penguinrandomhouse', 'book', 'nobody', 'tell', 'kalb']",1
+1980,"['theguardian', 'book', 'naoise', 'dolan', 'good', 'presenting', 'likable']",1
+1981,"['penguinrandomhouse', 'book', 'possessed', 'elif', 'batuman']",1
+1982,"['storypirates', 'podcast']",1
+1983,"['podcasts', 'apple', 'podcast', 'ghost', 'podcast']",1
+1984,"['estherperel', 'podcast']",1
+1985,['mydadwroteaporno'],1
+1986,"['podcasts', 'apple', 'podcast', 'guilty', 'feminist']",1
+1987,"['podcasts', 'apple', 'podcast', 'jesus', 'jollof']",1
+1988,"['podcasts', 'apple', 'podcast', 'ronna']",1
+1989,"['shesallfatpod', 'podcast']",1
+1990,"['homecooking', 'show']",1
+1991,['songexploder'],1
+1992,"['callyourgirlfriend', 'episode']",1
+1993,"['littleeverywhere', 'show']",1
+1994,['theweekjunior'],1
+1995,"['thejuggernaut', 'newsletter']",1
+1996,"['emilyoster', 'substack']",1
+1997,"['nytimes', 'newsletter', 'parenting']",1
+1998,"['latimes', 'newsletter', 'coronavirus', 'today']",1
+1999,['hotpodnews'],1
+2000,"['eviction', 'moratorium', 'senate', 'bill', 'elizabeth', 'warren', 'chuy', 'garcia']",1
+2001,"['open', 'spotify', 'episode']",1
+2002,"['recode', 'amazon', 'coronavirus', 'warehouse', 'worker', 'protest', 'jeff', 'bezos', 'chris', 'small', 'boycott', 'pandemic']",1
+2004,"['nytimes', 'world', 'asia', 'afghanistan', 'woman', 'human', 'right', 'html']",1
+2005,"['politico', 'news', 'belt', 'coronavirus', 'trump', 'reelection']",1
+2007,"['coronavirus', 'pandemic', 'second', 'wave', 'america']",1
+2008,"['nytimes', 'coronavirus', 'hospital', 'houston', 'html']",1
+2010,"['nbcnews', 'news', 'world', 'global', 'covid', 'case', 'reach', 'million', 'john', 'hopkins', 'data']",1
+2011,"['reuters', 'article', 'health', 'coronavirus', 'case', 'global', 'coronavirus', 'case', 'exceed', 'million']",1
+2012,"['world', 'coronavirus', 'death', 'toll', 'case', 'intl', 'index', 'html']",1
+2014,"['rollcall', 'supreme', 'court', 'allows', 'president', 'fire', 'head', 'consumer', 'protection', 'agency']",1
+2015,"['nytimes', 'politics', 'cfpb', 'supreme', 'court', 'html']",1
+2016,"['supreme', 'court', 'abortion', 'chief', 'justice', 'john', 'robert', 'stephen', 'breyer', 'june', 'medical', 'russo']",1
+2017,"['supreme', 'court', 'hand', 'abortion', 'right', 'victory', 'louisiana', 'case']",1
+2018,"['thecut', 'supreme', 'court', 'vote', 'block', 'louisiana', 'abortion', 'html']",1
+2019,"['latimes', 'politics', 'story', 'supreme', 'court', 'louisiana', 'abortion', 'case']",1
+2020,"['abcnews', 'olitics', 'supreme', 'court', 'hand', 'major', 'decision', 'louisiana', 'abortion', 'case', 'story']",1
+2022,"['janefriedman', 'list', 'manage', 'profile']",0
+2023,"['janefriedman', 'list', 'manage', 'unsubscribe']",0
+2024,['buffer'],1
+2025,"['campaign', 'archive']",0
+2026,"['courtneymaum', 'list', 'manage', 'subscribe']",0
+2027,"['blackcardiganedit', 'category', 'newsletter']",1
+2028,"['section', 'live', 'update', 'protest', 'racial', 'justice', 'princeton', 'remove', 'woodrow', 'wilson', 'name', 'public', 'policy', 'school']",1
+2029,"['offer', 'kettleandfire', 'june']",1
+2030,"['bleacherreport', 'article', 'report', 'newton', 'patriot', 'agree', 'year', 'incentive', 'laden', 'contract']",1
+2031,"['billboard', 'article', 'news', 'milton', 'glaser', 'designer', 'love', 'logo', 'dylan', 'silhouette', 'poster']",1
+2032,"['book', 'graduate', 'author', 'charles', 'webb']",1
+2033,"['hollywoodreporter', 'list', 'daytime', 'emmy', 'award', 'winner', 'full', 'list']",1
+2034,"['mailchi', 'bigspaceship', 'spaceship', 'internet', 'brunch']",1
+2035,"['youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'acebbd', 'medium', 'email', 'term', 'acebbd', 'acebbd']",1
+2036,"['mashable', 'article', 'twitter', 'meme', 'know', 'spot', 'place']",1
+2037,"['junkee', 'shredded', 'cheese', 'wife']",1
+2038,"['vulture', 'hood', 'baby', 'shuffle', 'tiktok', 'trend', 'kbfr', 'explained', 'html']",1
+2039,"['deadline', 'mulan', 'release', 'date', 'change', 'august']",1
+2041,"['variety', 'digital', 'news', 'princess', 'bride', 'remake', 'quibi', 'jonas', 'sophie', 'turner', 'tiffany', 'haddish']",1
+2042,"['youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'acebbd', 'medium', 'email', 'term', 'acebbd', 'acebbd']",1
+2043,"['youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'acebbd', 'medium', 'email', 'term', 'acebbd', 'acebbd']",1
+2044,"['duvernay', 'colin', 'kaepernick', 'netflix', 'series']",1
+2045,"['youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'acebbd', 'medium', 'email', 'term', 'acebbd', 'acebbd']",1
+2046,"['youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'acebbd', 'medium', 'email', 'term', 'acebbd', 'acebbd']",1
+2047,"['variety', 'music', 'news', 'chase', 'rice', 'concert', 'crowd', 'packed', 'video', 'social', 'distancing']",1
+2048,"['variety', 'news', 'bachelorette', 'resume', 'production', 'exclusive']",1
+2049,"['cosmopolitan', 'lifestyle', 'jenna', 'marble', 'quitting', 'youtube', 'blackface', 'nicki', 'minaj', 'apology']",1
+2050,"['adage', 'article', 'digital', 'continually', 'updated', 'list', 'brand', 'joining', 'facebook', 'boycott']",1
+2052,"['theverge', 'twitch', 'sexual', 'harassment', 'assault', 'permanent', 'streamer']",1
+2053,"['techcrunch', 'facebook', 'content', 'notification', 'screen']",1
+2054,"['techcrunch', 'youtubes', 'latest', 'experiment', 'tiktok', 'rival', 'focused', 'second', 'video']",1
+2055,"['theverge', 'amazon', 'seattle', 'climate', 'pledge', 'arena', 'environment']",1
+2056,"['nytimes', 'supreme', 'court', 'abortion', 'louisiana', 'html']",1
+2057,"['fastcompany', 'aocs', 'brand', 'groundbreaking', 'inspiring', 'knockoff', 'around', 'world']",1
+2058,"['section', 'live', 'update', 'protest', 'racial', 'justice', 'nasa', 'name', 'headquarters', 'mary', 'jackson', 'first', 'black', 'female', 'engineer']",1
+2064,"['lelo', 'bestseller']",1
+2065,"['melmagazine', 'story', 'female', 'orgasm', 'doctor']",1
+2066,"['theringer', 'music', 'rick', 'rubin', 'producer', 'legacy', 'shangri']",1
+2067,"['politico', 'news', 'magazine', 'republican', 'convention', 'florida', 'donald', 'trump']",1
+2068,"['popsci', 'story', 'science', 'number', 'look', 'like', 'spaghetti']",1
+2070,"['newyorker', 'science', 'medical', 'dispatch', 'coronavirus', 'surge', 'texas', 'could', 'seen', 'coming']",1
+2071,"['cnbc', 'chart', 'show', 'link', 'restaurant', 'spending', 'coronavirus', 'case', 'html']",1
+2072,"['thedailybeast', 'mexico', 'reopening']",1
+2073,"['digg', 'video', 'love', 'brush']",1
+2074,"['nytimes', 'world', 'coronavirus', 'update', 'html']",1
+2075,"['news', 'black', 'officer', 'detained', 'george', 'floyd', 'pledged', 'police']",1
+2076,"['politico', 'news', 'trump', 'share', 'video', 'supporter', 'yell', 'white', 'power']",1
+2077,"['huckberry', 'store', 'truff', 'category', 'black', 'truffle', 'infused', 'sauce']",1
+2078,"['dmagazine', 'publication', 'magazine', 'january', 'beverly', 'jean', 'hope', 'murder', 'grover', 'hope', 'suspect']",1
+2079,"['travel', 'story', 'unlikely', 'home', 'world', 'smallest', 'desert']",1
+2080,"['digg', 'edition', 'story']",1
+2084,"['digg', 'cmail', 'pthulty', 'vkjjhbly']",1
+2086,"['moralcode', 'product', 'quintus']",1
+2087,"['story', 'free', 'guide', 'making', 'partner', 'come']",1
+2088,"['huckberry', 'journal', 'post', 'best', 'brewery', 'state']",1
+2089,"['mentalfloss', 'article', 'best', 'song', 'movie']",1
+2092,"['curiositystream', 'hustle']",1
+2093,"['article', 'amazon', 'acquire', 'self', 'driving', 'startup', 'zoox']",1
+2094,"['thehustle', 'waymo', 'driverless', 'alphabet']",1
+2095,"['nytimes', 'business', 'amazon', 'zoox', 'html']",1
+2096,"['wired', 'story', 'amazon', 'aurora', 'self', 'driving', 'investment', 'funding', 'series']",1
+2097,"['thehustle', 'amazon', 'drone', 'delivery']",1
+2098,"['wired', 'story', 'amazon', 'shake', 'self', 'driving', 'ride', 'hailing']",1
+2099,"['thehustle', 'mazon', 'vehicle']",1
+2100,"['story', 'starbucks', 'story', 'creating', 'welcoming', 'inclusive', 'online', 'community']",1
+2101,"['level', 'medium', 'guide', 'upgrading', 'position']",1
+2102,"['melmagazine', 'story', 'america', 'lost', 'switched', 'porno', 'porn']",1
+2103,"['insidehook', 'feature', 'interview', 'mark', 'seliger', 'iconic', 'celebrity', 'photograph']",1
+2104,"['mensjournal', 'food', 'drink', 'loved', 'sandwich', 'america']",1
+2105,"['melmagazine', 'story', 'quarantine', 'revved', 'back', 'wholesome', 'tradition']",1
+2106,"['theringer', 'porn', 'coronavirus', 'pandemic', 'onlyfans']",1
+2107,"['demilked', 'creepy', 'scary', 'nature']",1
+2108,"['melmagazine', 'story', 'five', 'youve', 'told', 'whiskey']",1
+2109,['crownes'],0
+2110,"['greatist', 'grow', 'libido', 'concern', 'treatment']",1
+2120,"['article', 'shift', 'plan', 'public', 'year', 'covid', 'boost', 'online', 'sale']",1
+2121,"['cnbc', 'tock', 'market', 'future', 'open', 'close', 'news', 'html']",1
+2122,"['reuters', 'article', 'stock', 'wall', 'street', 'higher', 'boeing', 'bump', 'stimulus', 'eyed']",1
+2123,"['cnbc', 'coronavirus', 'update', 'pending', 'home', 'sale', 'spike', 'record', 'point', 'percent', 'html']",1
+2126,['doordash'],1
+2127,"['reddit', 'dataisbeautiful']",1
+2128,"['nytimes', 'movie', 'sundance', 'virus', 'html']",1
+2129,"['nytimes', 'fake', 'face', 'mask', 'exemption', 'card', 'coronavirus', 'html']",1
+2130,"['news', 'business']",1
+2131,"['nytimes', 'technology', 'working', 'home', 'failure', 'html']",1
+2132,"['nytimes', 'theater', 'broadway', 'reopening', 'coronavirus', 'html']",1
+2133,"['theverge', 'twitch', 'donald', 'trump', 'campaign', 'account']",1
+2134,"['theverge', 'reddit', 'subreddits', 'donald', 'chapo', 'trap', 'house', 'content', 'policy', 'rule']",1
+2135,"['techcrunch', 'india', 'tiktok', 'dozen', 'chinese', 'apps']",1
+2136,"['nytimes', 'technology', 'uber', 'postmates', 'offer', 'html']",1
+2137,"['thehustle', 'lululemon', 'self', 'care', 'product', 'lifestyle', 'brand']",1
+2138,"['nytimes', 'business', 'lululemon', 'mirror', 'html']",1
+2139,"['businesswire', 'news', 'home', 'lululemon', 'athletica', 'cquire', 'itness', 'nnovator']",1
+2140,"['thehustle', 'wift', 'training']",1
+2141,"['fastcompany', 'bike', 'racing', 'virtual', 'captivate', 'cycling', 'billion', 'worldwide']",1
+2142,"['zwift', 'welcome', 'zwift']",1
+2143,"['thehustle', 'foraging', 'mushroom']",1
+2144,"['newyorker', 'magazine', 'foraged', 'food', 'shorten', 'supply', 'chain']",1
+2145,"['thehustle', 'recruiting', 'referral']",1
+2146,"['onezero', 'medium', 'tech', 'elite', 'selling', 'referral', 'facebook', 'google', 'amazon', 'afdd']",1
+2147,"['thehustle', 'oupang', 'ecommerce']",1
+2149,"['reuters', 'article', 'health', 'coronavirus', 'southkorea', 'explain', 'explainer', 'catch', 'covid', 'delivered', 'package']",1
+2150,"['cnbc', 'meet', 'cnbc', 'disruptor', 'company', 'html']",1
+2151,"['cnbc', 'coupang', 'crushed', 'amazon', 'become', 'south', 'korea', 'biggest', 'online', 'retailer', 'html']",1
+2153,"['washingtonpost', 'term', 'service', 'story', 'html']",1
+2154,"['washingtonpost', 'privacy', 'policy', 'story', 'html']",1
+2155,"['helpcenter', 'washingtonpost']",0
+2156,"['subscribe', 'washingtonpost', 'newsletter']",0
+2157,"['subscribe', 'washingtonpost', 'newsletter', 'newsletter']",0
+2158,"['subscribe', 'washingtonpost', 'newsletter', 'bundle', 'boldschool', 'wapo']",0
+2159,"['subscribe', 'washingtonpost', 'newsletter', 'bundle', 'wapo']",0
+2160,"['subscribe', 'washingtonpost', 'newsletter', 'bundle', 'comment', 'wapo']",0
+2162,"['joinhoney', 'page', 'implified', 'ellow', 'eneral']",0
+2163,"['nytimes', 'nyregion', 'coronavirus', 'fusco', 'family', 'html']",1
+2164,"['newrepublic', 'article', 'democrat', 'cant', 'quit', 'addiction', 'money', 'donor']",1
+2165,"['buzzfeednews', 'article', 'amberjamieson', 'coronavirus', 'social', 'distancing', 'contract', 'divorce', 'parent']",1
+2166,"['trump', 'obamacare', 'repeal', 'short', 'term', 'health', 'care', 'insurance', 'scam']",1
+2167,"['narratively', 'conscripted', 'emperor', 'private', 'orchestra']",1
+2168,"['vice', 'article', 'show', 'home', 'flood', 'next', 'year', 'climate', 'change']",1
+2169,"['propublica', 'article', 'north', 'carolina', 'transformed', 'worst', 'state', 'unemployed']",1
+2170,"['slate', 'technology', 'george', 'orwell', 'black', 'life', 'matter', 'police', 'colonialism', 'html']",1
+2171,"['digg', 'video', 'cant', 'drive', 'north', 'south', 'america']",1
+2172,"['reuters', 'article', 'auto', 'fleet', 'sale', 'analysis', 'slumping', 'fleet', 'sale', 'weigh', 'auto', 'market']",1
+2173,"['nbcnews', 'news', 'news', 'state', 'halt', 'reopening', 'indoor', 'dining', 'public', 'health', 'expert', 'urge']",1
+2174,['apnews'],1
+2175,"['store', 'digg', 'sale', 'apple', 'magic', 'mouse', 'wireless', 'rechargable', 'silver', 'certified', 'refurbished']",1
+2176,"['outsideonline', 'death']",1
+2177,"['story', 'uber', 'driver']",1
+2178,"['digg', 'edition', 'story']",1
+2182,"['digg', 'cmail', 'ptkulky', 'vkjjhbly']",1
+2194,"['morningbrewdaily', 'typeform']",1
+2195,"['morningbrew', 'daily', 'story', 'second', 'half', 'preview']",1
+2197,"['techcrunch', 'commerce', 'sale', 'jump', 'april', 'online', 'grocery']",1
+2198,"['morningbrew', 'daily', 'story', 'future', 'city']",1
+2199,"['morningbrew', 'daily', 'story', 'virtual', 'world', 'stay']",0
+2200,"['morningbrew', 'daily', 'story', 'higher', 'never']",1
+2201,"['morningbrew', 'daily', 'story', 'remote', 'work', 'destiny']",1
+2202,"['morningbrew', 'daily', 'story', 'thing', 'sped', 'covid']",1
+2203,"['morningbrew', 'daily', 'story', 'photo']",1
+2204,"['morningbrew', 'daily', 'story', 'spacex', 'successfully', 'launch', 'human', 'space']",1
+2205,"['nytimes', 'business', 'economy', 'trump', 'navarro', 'china', 'trade', 'deal', 'html']",1
+2206,"['foodandwine', 'news', 'francisco', 'district', 'attorney', 'doordash']",1
+2207,"['economist', 'business', 'sight', 'samsungs', 'legal', 'trouble']",1
+2208,"['axios', 'tech', 'summer', 'antitrust', 'cffcc', 'html']",1
+2209,"['morningbrew', 'daily', 'story', 'underreported', 'business', 'story']",1
+2210,"['usatoday', 'story', 'tech', 'twitter', 'jack', 'dorsey', 'elliott', 'management']",1
+2211,['apnews'],1
+2212,"['nytimes', 'technology', 'twitter', 'trump', 'dorsey', 'html']",1
+2213,"['nytimes', 'opinion', 'sunday', 'twitter', 'protest', 'politics', 'html']",1
+2214,"['cnbc', 'twitter', 'jack', 'dorsey', 'francisco', 'comment', 'warning', 'sign', 'html']",1
+2215,"['morningbrew', 'daily', 'story', 'tale', 'three', 'crisis', 'twitter', 'fared']",1
+2216,"['news', 'noted']",1
+2217,"['cloudwars', 'covid', 'zoom', 'quarter', 'popping', 'stats', 'tech', 'superstar']",1
+2218,"['brynjolfsson', 'remotework']",1
+2219,"['theguardian', 'film', 'office', 'drop', 'year', 'year', 'wednesday', 'reach', 'historic']",1
+2220,"['pcmag', 'news', 'netflix', 'subscriber', 'watch', 'hour', 'data']",1
+2221,"['press', 'release', 'hotel', 'demand', 'expected', 'fully', 'recover']",1
+2222,"['businessinsider', 'traffic', 'coronavirus', 'pandemic', 'change', 'effect', 'around', 'world', 'continuation', 'commercial', 'flight', 'mask', 'people', 'flying']",1
+2223,"['fortune', 'black', 'fortune', 'african', 'american', 'business', 'leader']",1
+2224,['creosotemaps'],1
+2225,"['coronavirus', 'html']",0
+2226,"['marketwatch', 'story', 'another', 'million', 'jobless', 'claim', 'predicted', 'arent', 'falling', 'faster']",1
+2227,"['morningbrew', 'daily', 'story', 'number']",1
+2228,"['morningbrew', 'emerging', 'tech', 'story', 'microsoft', 'amazon', 'announce', 'restriction', 'facial', 'recognition', 'sale', 'police', 'department', 'html']",1
+2229,"['morningbrew', 'daily', 'story', 'aunt', 'jemima', 'uncle', 'owner', 'rethink', 'offensive', 'brand']",1
+2230,"['reuters', 'article', 'minneapolis', 'police', 'bank', 'america', 'bank', 'america', 'pledge', 'billion', 'address', 'racial', 'economic', 'inequality']",1
+2231,"['morningbrew', 'daily', 'story', 'corporate', 'america', 'finally', 'black', 'life', 'matter']",1
+2232,"['politico', 'news', 'magazine', 'coronavirus', 'shutdown', 'kill', 'switch']",1
+2233,"['article', 'amazon', 'keep', 'added', 'pandemic']",1
+2234,"['congress', 'approved', 'trillion', 'coronavirus', 'relief', 'breakdown']",1
+2235,"['nytimes', 'business', 'world', 'economic', 'outlook', 'html']",1
+2236,"['global', 'newsroom', 'news', 'lang', 'index']",1
+2237,"['youtube', 'watch']",1
+2238,"['morningbrew', 'daily', 'story', 'reflecting', 'historic', 'economic', 'shutdown']",1
+2241,"['morningbrew', 'daily', 'latest']",1
+2243,"['washingtonpost', 'world', 'asia', 'pacific', 'hong', 'kong', 'national', 'security', 'freedom', 'democracy', 'china', 'story', 'html']",1
+2244,"['washingtonpost', 'national', 'security', 'russian', 'bounty', 'taliban', 'linked', 'militant', 'resulted', 'death', 'troop', 'according', 'intelligence', 'assessment', 'ffaec', 'story', 'html']",1
+2249,"['policy', 'politics', 'voxcare', 'remdesivir', 'price', 'coronavirus']",1
+2250,"['recode', 'blockbuster', 'netflix', 'podcast', 'land', 'giant']",1
+2251,"['energy', 'environment', 'climate', 'change', 'house', 'democrat', 'select', 'committee', 'report']",1
+2252,"['bipoc', 'mean', 'critical', 'race', 'linguistics', 'jonathan', 'rosa', 'deandra', 'mile', 'hercules']",1
+2253,"['news', 'update', 'google', 'assistant']",1
+2254,"['youtube', 'watch']",1
+2255,['apnews'],1
+2257,"['trump', 'system', 'failure']",1
+2258,"['nytimes', 'style', 'boogaloo', 'hawaiian', 'shirt', 'html']",1
+2259,"['section', 'coronavirus', 'live', 'update', 'list', 'approved', 'travel', 'partner', 'isnt']",1
+2260,"['supreme', 'court', 'separation', 'church', 'state', 'espinoza', 'montana', 'school', 'religion']",1
+2261,"['courier', 'journal', 'story', 'news', 'politics', 'election', 'kentucky', 'kentucky', 'senate', 'primary', 'election', 'result', 'booker', 'mcgrath']",1
+2262,"['live', 'result', 'june', 'primary', 'colorado', 'utah', 'oklahoma']",1
+2263,"['scmp', 'news', 'hong', 'kong', 'politics', 'article', 'hong', 'kong', 'activist', 'plan', 'defy', 'police', 'july', 'protest']",1
+2264,"['nytimes', 'world', 'asia', 'china', 'hong', 'kong', 'security', 'rule', 'html']",1
+2265,"['china', 'hong', 'kong', 'national', 'security', 'passed', 'intl', 'index', 'html']",1
+2266,"['china', 'enacts', 'security', 'asserting', 'control', 'hong', 'kong']",1
+2268,"['politico', 'news', 'house', 'democrat', 'russia', 'bounty', 'white', 'house', 'briefing']",1
+2269,"['congress', 'unites', 'demand', 'answer', 'trump', 'russian', 'bounty', 'afghanistan']",1
+2270,"['policy', 'politics', 'russian', 'bounty', 'troop', 'afghanistan', 'trump', 'explained']",1
+2271,"['thedailybeast', 'trump', 'official', 'didnt', 'want', 'tell', 'russian', 'bounty']",1
+2272,"['politics', 'russia', 'bounty', 'presidential', 'daily', 'briefing', 'index', 'html']",1
+2273,"['nytimes', 'politics', 'russian', 'bounty', 'afghanistan', 'intelligence', 'html']",1
+2274,"['apnews', 'ffdd']",1
+2280,"['nytimes', 'business', 'zoom', 'shirt', 'html']",1
+2281,['apnews'],0
+2282,"['supreme', 'court', 'revisits', 'abortion', 'louisiana', 'case']",1
+2283,"['politics', 'supreme', 'court', 'abortion', 'texas', 'index', 'html']",1
+2284,"['thehill', 'regulation', 'supreme', 'court', 'strike', 'louisiana', 'abortion', 'restriction']",1
+2285,['apnews'],1
+2286,"['axios', 'alabama', 'senate', 'vote', 'abortion', 'html']",1
+2288,"['theguardian', 'world', 'china', 'sterilising', 'ethnic', 'minority', 'woman', 'xinjiang', 'report']",1
+2289,"['cbsnews', 'news', 'gilead', 'coronavirus', 'treatment', 'remdesivir', 'private', 'insurance', 'cost']",1
+2290,"['thehill', 'changing', 'america', 'well', 'prevention', 'cure', 'chinese', 'researcher', 'warn', 'swine', 'strain']",1
+2291,"['espn', 'story', 'netflix', 'produce', 'part', 'series', 'colin', 'kaepernick']",1
+2292,"['civilrights', 'justice', 'nine']",1
+2293,"['election', 'office']",1
+2294,['voting'],1
+2295,"['theskimm', 'pick', 'hottest', 'book', 'season']",0
+2296,"['nytimes', 'article', 'maskne', 'acne', 'html']",1
+2298,"['dameproducts', 'page', 'skimm']",0
+2299,"['podcasts', 'apple', 'podcast', 'skimmd', 'couch']",0
+2300,"['mykitsch', 'page', 'cleanse', 'ritual', 'towel', 'scrunchies', 'skimm']",1
+2301,"['shop', 'perfectketo', 'product', 'keto', 'cooky']",1
+2302,['hireblacknow'],1
+2308,"['reuters', 'article', 'court', 'abortion', 'major', 'ruling', 'supreme', 'court', 'strike', 'strict', 'louisiana', 'abortion']",1
+2309,"['scotusblog', 'symposium', 'intensely', 'factual', 'question', 'physician', 'admitting', 'privilege']",1
+2310,"['scotusblog', 'opinion', 'analysis', 'robert', 'providing', 'fifth', 'vote', 'court', 'strike', 'louisiana', 'abortion']",1
+2311,"['cbsnews', 'news', 'supreme', 'court', 'allows', 'federal', 'death', 'penalty', 'justice', 'department', 'execution']",1
+2313,"['theverge', 'reddit', 'quarantine', 'donald', 'trump', 'subreddit', 'misbehavior', 'violence', 'police', 'oregon']",1
+2314,"['news', 'technology']",1
+2315,"['cbsnews', 'news', 'company', 'boycotting', 'facebook', 'different', 'boycott']",1
+2316,"['digitaltrends', 'reddit']",1
+2317,"['nbcnews', 'news', 'news', 'golden', 'state', 'killer', 'suspect', 'plead', 'guilty', 'count', 'first', 'degree']",1
+2318,"['mercurynews', 'golden', 'state', 'killer', 'stop', 'assuming']",1
+2319,"['section', 'thetwo', 'hunt', 'golden', 'state', 'killer', 'investigator', 'uploaded', 'genealogy', 'site']",1
+2320,"['diversyfund', 'growth', 'reit', 'platform', 'start', 'investing']",1
+2321,"['playbill', 'article', 'broadway', 'officially', 'remain', 'closed']",1
+2322,"['hollywoodreporter', 'live', 'feed', 'colin', 'kaepernicks', 'life', 'become', 'netflix', 'series', 'duvernay']",1
+2323,"['variety', 'film', 'news', 'theatre', 'tenet', 'coronavirus']",1
+2324,"['news', 'berkeley', 'native', 'amazonians', 'american', 'monkey', 'show', 'similar', 'thinking', 'pattern']",1
+2325,"['theverge', 'apple', 'news', 'york', 'time', 'available', 'free', 'article', 'subscription']",1
+2327,"['news', 'rice', 'laser', 'welded', 'sugar', 'sweet', 'print', 'blood', 'vessel']",1
+2329,"['reuters', 'article', 'pakistan', 'attack', 'gunman', 'attack', 'pakistani', 'stock', 'exchange', 'seven', 'killed', 'police']",1
+2330,"['reuters', 'article', 'boeing', 'boeing', 'begin', 'crucial', 'certification', 'test', 'flight', 'grounded']",1
+2331,"['statnews', 'gilead', 'announces', 'remdesivir', 'price', 'covid']",1
+2332,"['tech', 'lululemon', 'mirror', 'fitness', 'startup', 'acquisition', 'index', 'html']",1
+2333,['apnews'],1
+2334,"['graphic', 'reuters', 'dgkvlgkrkpb']",1
+2335,"['apnews', 'eabe']",1
+2337,"['abcnews', 'george', 'floyds', 'relative', 'watch', 'officer', 'charged', 'killing', 'court', 'story']",1
+2339,"['freep', 'story', 'news', 'health', 'chandler', 'sinai', 'grace', 'corona', 'death', 'nurse']",1
+2340,"['americanpressinstitute', 'election', 'primary', 'state', 'ready', 'november']",1
+2341,"['diversyfund', 'growth', 'reit', 'platform', 'market', 'volatility']",1
+2342,"['thereader', 'mitpress', 'american', 'democracy', 'broken', 'think']",0
+2343,"['agoraimages', 'prowly', 'world', 'best', 'photo', 'green']",1
+2344,"['origin', 'milestone', 'june', 'tunguska', 'event', 'threat', 'tomorrow']",1
+2345,['meetselect'],0
+2346,"['news', 'health']",1
+2348,"['news', 'arrested', 'caught', 'video', 'swimming', 'bass', 'shop', 'aquarium']",1
+2349,"['whdh', 'news', 'police', 'resident', 'plummeted', 'abyss', 'year', 'england', 'home']",1
+2350,"['tampabay', 'life', 'culture', 'tampa', 'quarantined', 'alone', 'hundred', 'parrot', 'wasnt', 'choice']",1
+2351,"['wikipedia', 'wiki', 'xford', 'evolution', 'debate']",1
+2353,"['robinsloan', 'book']",1
+2354,['gold'],1
+2355,['robinsloan'],0
+2356,['snarkmarket'],1
+2357,"['robinsloan', 'note', 'writing', 'machine']",1
+2358,"['whyisthisinteresting', 'substack', 'interesting', 'monday']",1
+2359,"['whyisthisinteresting', 'substack', 'interesting', 'autonomous']",0
+2360,['deceuvel'],1
+2361,"['deceuvel', 'sustainable', 'technology', 'phytoremediation']",1
+2362,"['deceuvel', 'organisatie']",1
+2363,"['deceuvel', 'cafe', 'cafe', 'home']",1
+2364,"['amsterdam', 'bestuur', 'organisatie', 'organisaties', 'organisaties', 'bureau', 'broedplaatsen']",1
+2365,"['amsterdam', 'bestuur', 'organisatie', 'organisaties', 'organisaties', 'bureau', 'broedplaatsen', 'loket', 'broedplaatsen']",1
+2366,"['amsterdam', 'kunst', 'cultuur', 'atelier', 'broedplaatsen', 'broedplaatsen']",1
+2367,"['amsterdam', 'kunst', 'cultuur', 'atelier', 'broedplaatsen', 'broedplaatsen', 'alle', 'vrijplaatsen']",1
+2368,"['roberthodgin', 'project', 'meander']",1
+2369,['nikolehannahjones'],1
+2372,"['benwesthoff', 'substack', 'beastie']",1
+2376,"['morningbrew', 'daily']",1
+2379,"['info', 'attentivemobile', 'morning', 'brew']",1
+2380,"['reuters', 'article', 'stock', 'wall', 'gain', 'boeing', 'bump', 'remdesivir', 'hope']",1
+2381,"['nbcnewyork', 'news', 'local', 'york', 'camp', 'shopping', 'mall', 'reopen', 'global', 'covid', 'death']",1
+2383,"['morningbrew', 'daily', 'story', 'broadway', 'extends', 'shutdown', 'year']",1
+2384,"['playbill', 'article', 'broadway', 'officially', 'remain', 'closed']",1
+2385,"['cnbc', 'york', 'city', 'broadway', 'remain', 'dark', 'rest', 'html']",1
+2386,"['reuters', 'article', 'cirque', 'soleil', 'bankruptcy', 'cirque', 'soleil', 'file', 'bankruptcy', 'protection', 'covid', 'cancel', 'show']",1
+2387,"['section', 'coronavirus', 'live', 'update', 'emergency', 'relief', 'package', 'provides', 'million', 'fund', 'help']",1
+2388,"['section', 'coronavirus', 'live', 'update', 'mourning', 'loss', 'third', 'artist', 'report', 'unemployed']",1
+2389,"['nytimes', 'theater', 'phantom', 'opera', 'seoul', 'virus', 'html']",1
+2390,"['show', 'must', 'online', 'theater', 'closed', 'covid', 'creative']",1
+2391,"['morningbrew', 'daily', 'story', 'reddit', 'take', 'stand', 'hate', 'speech']",1
+2392,"['tech', 'reddit', 'hate', 'policy', 'index', 'html']",1
+2393,"['politico', 'news', 'reddit', 'trump', 'forum', 'crackdown', 'hate', 'speech']",1
+2394,"['morningbrew', 'marketing', 'story', 'facebook', 'boycott', 'mean', 'really']",1
+2395,"['usatoday', 'story', 'tech', 'trump', 'twitch', 'channel', 'trump', 'reddit', 'group', 'cited', 'hate', 'speech']",1
+2396,"['nytimes', 'technology', 'reddit', 'hate', 'speech', 'html']",1
+2397,"['tech', 'facebook', 'boycott', 'stock', 'index', 'html']",1
+2398,"['morningbrew', 'daily', 'story', 'lululemon', 'acquires', 'mirror', 'million']",1
+2399,"['cnbc', 'lululemon', 'acquire', 'home', 'fitness', 'company', 'mirror', 'million', 'html']",1
+2400,"['businesscasual', 'might', 'sore', 'tomorrow', 'fitness', 'tech', 'treatment']",1
+2401,"['morningbrew', 'daily', 'story', 'gilead', 'unveils', 'price', 'remdesivir']",1
+2402,"['cnbc', 'gileads', 'coronavirus', 'treatment', 'remdesivir', 'cost', 'insured', 'patient', 'html']",1
+2403,['apnews'],1
+2404,"['morningbrew', 'daily', 'story', 'coty', 'snag', 'another', 'kardashian']",1
+2405,"['yahoo', 'lifestyle', 'kardashian', 'sold', 'percentage', 'html']",1
+2408,"['axios', 'scoop', 'microsoft', 'pausing', 'spending', 'facebook', 'instagram', 'html']",1
+2409,"['nbcnews', 'politics', 'supreme', 'court', 'supreme', 'court', 'strike', 'restrictive', 'louisiana', 'abortion']",1
+2411,"['cnbc', 'shift', 'reopening', 'july', 'hollywood', 'push', 'back', 'blockbuster', 'html']",1
+2412,"['reuters', 'article', 'york', 'time', 'apple', 'news', 'york', 'time', 'partnership', 'apple', 'news']",1
+2413,"['cariuma', 'page']",1
+2415,"['techcommunity', 'microsoft', 'excel', 'blog', 'announcing', 'stockhistory']",1
+2416,"['shape', 'fitness', 'workout', 'deck', 'card', 'workout']",1
+2417,"['topic', 'lgbt']",1
+2418,"['nytimes', 'nyregion', 'pride', 'event', 'html']",1
+2419,"['newyorker', 'culture', 'essay', 'coming', 'rising', 'fifty', 'year', 'stonewall']",1
+2420,"['newyorker', 'magazine', 'trans', 'community', 'christopher', 'street']",1
+2421,"['theconversation', 'york', 'medium', 'covered', 'stonewall', 'riot']",1
+2422,"['morningbrew', 'marketing']",1
+2426,"['playbill', 'article', 'playbillcom', 'lettering']",1
+2436,['densediscovery'],0
+2437,"['densediscovery', 'issue']",1
+2438,"['github', 'climate', 'strike', 'license']",1
+2439,"['github', 'climate', 'strike', 'license', 'project', 'accelerate', 'climate', 'crisis']",1
+2440,"['medium', 'kaibrach', 'individual', 'collective', 'climate', 'action']",1
+2441,"['densediscovery', 'issue', 'comment']",1
+2442,"['densediscovery', 'advertise']",0
+2443,"['google', 'spreadsheet', 'pubhtml']",0
+2444,"['bakkenbaeck', 'join']",1
+2445,"['fastcompany', 'design', 'innovative', 'company']",1
+2446,['syncthing'],1
+2447,['quotebacks'],1
+2448,['dittowords'],1
+2449,['yourblackfriendsarebusy'],1
+2450,['senetmagazine'],1
+2451,"['senetmagazine', 'product', 'issue']",1
+2452,"['greenpeace', 'blog', 'beyond', 'reduce', 'reuse', 'recycle']",1
+2453,"['weshouldgettogether', 'book']",1
+2454,"['simplebits', 'product', 'twenty', 'learned', 'book']",1
+2455,['dribbble'],1
+2456,"['simplebits', 'page']",1
+2457,"['techcrunch', 'want', 'talk', 'race', 'tech', 'ijeoma', 'oluo']",1
+2458,"['thebaffler', 'latest', 'chatbots', 'world', 'connolly']",1
+2459,"['news', 'science', 'wellness', 'instagram', 'influencers', 'veer', 'conspiracy', 'theory']",1
+2460,"['brandidentity', 'feed', 'parson', 'showcase', 'unsuccessful', 'identity', 'pitch', 'start', 'conference', 'bitspretzels']",1
+2461,"['futurefonts', 'studiotriple', 'jaune', 'grande']",1
+2462,['float'],0
+2463,['emailancer'],1
+2464,['visualsitemaps'],1
+2465,['coastalwilderness'],1
+2466,"['unenvironment', 'news', 'story', 'story', 'perfect', 'storm', 'climate', 'change', 'stokes', 'wildfire', 'marine', 'heatwaves']",1
+2467,"['google', 'document', 'edit', 'heading', 'mzcufn']",0
+2468,"['densediscovery', 'issue']",1
+2469,"['densediscovery', 'dontgo']",0
+2470,"['densediscovery', 'archive']",0
+2471,"['mailchi', 'bigspaceship', 'spaceship', 'internet', 'brunch']",1
+2473,"['huffpost', 'entry', 'trump', 'twitch', 'channel', 'suspended', 'hateful', 'conduct']",1
+2475,"['tiktok', 'html']",1
+2477,"['variety', 'news', 'anthony', 'mackie', 'falcon', 'winter', 'soldier', 'disney', 'plus', 'marvel', 'avenger']",1
+2478,"['eonline', 'news', 'carl', 'reiner', 'dick', 'dyke', 'show', 'creator', 'dead']",1
+2480,"['finance', 'yahoo', 'amphtml', 'news', 'beyond', 'meat', 'founder', 'plantbased', 'meat', 'cheaper', 'animal', 'protein', 'html']",1
+2481,"['theverge', 'apple', 'iphone', 'power', 'adapter', 'charger', 'rumor']",1
+2482,"['nytimes', 'nyregion', 'budget', 'police', 'html']",1
+2483,"['travel', 'article', 'border', 'open', 'american', 'intl', 'index', 'html']",1
+2487,"['cheddar', 'newsletter', 'share']",1
+2491,"['nytimes', 'politics', 'russian', 'bounty', 'trump', 'html']",1
+2492,"['reuters', 'article', 'health', 'coronavirus', 'gilead', 'science', 'breakingviews', 'gilead', 'give', 'glimpse', 'feverish', 'drug', 'market']",1
+2493,"['youtube', 'watch', 'feature', 'youtu']",1
+2494,"['eddit', 'rump', 'group', 'violating', 'hate', 'speech', 'policy']",1
+2495,"['player', 'opting', 'season', 'mike', 'leake', 'ryan', 'zimmerman', 'ross', 'trnd', 'index', 'html']",1
+2497,"['broadwayworld', 'article', 'reaking', 'roadway', 'hutdown', 'xtends', 'ntil']",1
+2501,"['cheddar', 'medium', 'loosens', 'restriction', 'food', 'labeling']",1
+2602,"['morningbrew', 'daily']",1
+2605,"['curiositystream', 'brew']",1
+2606,"['cnbc', 'stock', 'market', 'future', 'open', 'close', 'news', 'html']",1
+2607,"['apnews', 'acbffb']",1
+2608,"['morningbrew', 'daily', 'story', 'coronavirus', 'surge', 'state', 'fauci', 'warns', 'rough', 'ahead']",1
+2609,"['reuters', 'article', 'health', 'coronavirus', 'fauci', 'guarantee', 'effective', 'covid', 'vaccine', 'warns', 'spread', 'could']",1
+2610,"['nytimes', 'world', 'coronavirus', 'update', 'html', 'link']",1
+2612,"['cnbc', 'american', 'remain', 'barred', 'european', 'travel', 'html']",1
+2613,"['nbcnewyork', 'news', 'local', 'future', 'nycs', 'indoor', 'dining', 'limbo', 'covid', 'case', 'tied', 'restaurant', 'surge']",1
+2614,"['health', 'fauci', 'stop', 'going', 'trnd', 'index', 'html']",1
+2615,"['article', 'williams', 'economy', 'likely', 'seen', 'point', 'continuing', 'crisis']",1
+2616,"['morningbrew', 'daily', 'story', 'adidas', 'exec', 'resigns', 'complaint', 'racism', 'company']",1
+2617,"['nytimes', 'business', 'adidas', 'karen', 'parkin', 'resigns', 'html']",1
+2618,"['nytimes', 'business', 'adidas', 'diversity', 'employee', 'html']",1
+2619,"['morningbrew', 'daily', 'story', 'employee', 'demand', 'company', 'fight', 'racism']",1
+2620,"['morningbrew', 'daily', 'story', 'microsoft', 'announces', 'program', 'train', 'worker']",1
+2621,"['blog', 'microsoft', 'blog', 'microsoft', 'launch', 'initiative', 'help', 'million', 'people', 'worldwide', 'acquire', 'digital', 'skill', 'needed', 'covid', 'economy']",1
+2622,"['article', 'microsoft', 'train', 'million', 'worker', 'free']",1
+2623,"['morningbrew', 'daily', 'story', 'democrat', 'unveil', 'plan', 'zero', 'emission']",1
+2624,"['politico', 'news', 'democrat', 'unveil', 'sweeping', 'plan', 'tackle', 'climate', 'change']",1
+2625,"['nytimes', 'climate', 'house', 'democrat', 'climate', 'plan', 'html']",1
+2626,"['morningbrew', 'daily', 'story', 'goldman', 'sachs', 'project', 'national', 'mask', 'mandate', 'save']",1
+2627,"['marketwatch', 'story', 'wearing', 'mask', 'halt', 'spread', 'coronavirus', 'impact', 'economic', 'growthand', 'goldman', 'done', 'math']",1
+2628,"['cnbc', 'goldman', 'sachs', 'national', 'mask', 'mandate', 'could', 'slash', 'infection', 'save', 'economy', 'percent', 'html']",1
+2630,"['theverge', 'facebook', 'boogaloo', 'group', 'network', 'removal', 'civil', 'violence']",1
+2631,"['business', 'airbus', 'index', 'html']",1
+2632,"['politico', 'news', 'guideline', 'coronavirus', 'vaccine']",1
+2633,"['techcrunch', 'google', 'acquires', 'smart', 'glass', 'company', 'north', 'whose', 'focals', 'wont', 'ship']",1
+2634,"['theverge', 'youtube', 'price', 'increase', 'viacom', 'channel']",1
+2635,"['morningbrew', 'daily', 'story', 'recapping', 'historic', 'first', 'half']",1
+2636,['boxofstyle'],1
+2637,"['drinkhint', 'collection', 'newcustomer']",0
+2638,"['nirandfar', 'becoming', 'indistractable']",0
+2640,"['sporcle', 'game', 'chasing', 'destiny', 'tswiftlyrics']",1
+2641,"['alexandracooks', 'swiss', 'chard', 'salad', 'lemon', 'parmesan', 'breadcrumb']",1
+2642,"['soundcloud', 'tycho', 'inversion', 'burning', 'sunrise']",1
+2643,['mcmansionhell'],1
+2644,"['kirkusreviews', 'book', 'review', 'brit', 'bennett', 'vanishing', 'half', 'bennett']",1
+2645,"['morningbrewdaily', 'typeform', 'ogvpiowk']",1
+2651,"['cheddar', 'newsletter', 'share']",1
+2662,"['washingtonpost', 'business', 'back', 'work', 'laid', 'coronavirus', 'spike']",1
+2664,"['news', 'world', 'canada', 'family', 'rescue', 'bear', 'swimming', 'stuck', 'head']",1
+2665,"['visualcapitalist', 'billion', 'dollar', 'transfer', 'military', 'equipment', 'police', 'department']",1
+2666,"['youtube', 'watch']",1
+2668,"['nationalgeographic', 'photography', 'best', 'picture', 'decade']",1
+2669,"['city', 'world', 'worst', 'traffic']",1
+2670,"['fortune', 'hospital', 'watson', 'health']",1
+2672,"['evans', 'presentation']",1
+2673,"['vuoriclothing', 'page']",1
+2674,"['clarionledger', 'story', 'news', 'politics', 'mississippi', 'state', 'flag', 'reef', 'sign', 'bill', 'mandate', 'confederate', 'flag', 'removal']",1
+2675,"['thehill', 'regulation', 'court', 'battle', 'supreme', 'court', 'hand', 'religious', 'school']",1
+2676,"['politico', 'news', 'hickenlooper', 'colorado', 'senate', 'primary']",1
+2677,"['business', 'facebook', 'boycott', 'list', 'index', 'html']",1
+2678,"['reuters', 'article', 'boogaloo', 'facebook', 'account', 'linked', 'anti', 'government', 'boogaloo', 'movement']",1
+2679,"['cnbc', 'powell', 'recovery', 'path', 'extraordinarily', 'uncertain', 'amid', 'effort', 'control', 'virus', 'html']",1
+2680,"['reuters', 'article', 'stock', 'best', 'quarter', 'since', 'high', 'note']",1
+2681,"['warwick', 'newsandevents', 'pressreleases', 'revealing', 'magnetic']",1
+2682,['apnews'],1
+2683,"['mailchi', 'bigspaceship', 'spaceship', 'internet', 'brunch']",1
+2684,"['youtube', 'watch']",1
+2685,"['youtube', 'watch']",1
+2686,"['youtube', 'watch']",1
+2687,"['youtube', 'watch', 'zpbm']",1
+2688,"['youtube', 'watch']",1
+2689,"['level', 'medium', 'breonna', 'taylor', 'meme']",1
+2690,"['jezebel', 'room', 'patron', 'saint']",1
+2691,"['buzzfeed', 'lizmrichardson', 'disney', 'princess', 'reimagined', 'tiktok']",1
+2692,"['vanityfair', 'hollywood', 'first', 'movie', 'created', 'entirely', 'quarantine']",1
+2693,"['buzzfeed', 'natashajokic', 'ryan', 'reynolds', 'reunion']",1
+2694,"['avclub', 'netflix', 'unsolved', 'mystery', 'loses', 'host']",1
+2695,"['curb', 'enthusiasm', 'renewed', 'season']",1
+2696,"['variety', 'film', 'news', 'director', 'kenny', 'ortega', 'pride', 'high', 'school', 'musical']",1
+2697,"['hamilton', 'disney', 'plus', 'fulfills', 'promise', 'streaming']",1
+2698,"['vogue', 'article', 'question', 'alicia']",1
+2699,"['buzzfeednews', 'article', 'tanyachen', 'youtube', 'suspended', 'monetization', 'shane', 'dawson']",1
+2700,"['fastcompany', 'walmart', 'yank', 'life', 'matter', 'merchandise', 'website']",1
+2702,"['mashable', 'article', 'amazon', 'prime', 'video', 'watch', 'party', 'feature']",1
+2703,"['theverge', 'google', 'airdrop', 'competitor', 'share', 'android', 'phone', 'beta', 'file', 'samsung', 'apple']",1
+2704,"['rollingstone', 'news', 'spotify', 'premium', 'subscription', 'service', 'launch']",1
+2705,"['politics', 'kentucky', 'primary', 'mcgrath', 'index', 'html']",1
+2706,"['section', 'live', 'update', 'protest', 'racial', 'justice', 'columbus', 'ohio', 'take', 'statue', 'christopher', 'columbus']",1
+2710,"['ohio', 'news', 'ohio', 'university', 'professor', 'ryan', 'fogt', 'alum', 'kyle', 'clem', 'publish', 'paper', 'record', 'warming', 'south']",1
+2711,"['healthcare', 'utah', 'publicaffairs', 'news', 'covid', 'blood', 'clot']",1
+2712,"['adam', 'silver', 'restart', 'unpredictable', 'covid']",1
+2713,"['deadline', 'motion', 'picture', 'academy', 'member', 'diversity', 'record']",1
+2714,"['deadline', 'reiner', 'alan', 'alda', 'william', 'shatner', 'remember', 'carl', 'reiner']",1
+2715,"['carl', 'reiner', 'actor', 'director', 'writer', 'producer', 'mensch']",1
+2716,"['whitehouse', 'peacetoprosperity']",1
+2717,"['aljazeera', 'news', 'area', 'occupied', 'west', 'bank', 'html']",1
+2718,"['reuters', 'article', 'israel', 'palestinian', 'annexation', 'israeli', 'minister', 'signal', 'major', 'west', 'bank', 'annexation', 'move', 'imminent']",1
+2719,"['theguardian', 'world', 'hong', 'kong', 'activist', 'shut', 'protest', 'group', 'china', 'pass', 'security']",1
+2720,"['news', 'world', 'asia', 'pacific']",1
+2721,"['axios', 'hong', 'kong', 'national', 'security', 'china', 'html']",1
+2722,"['scitation', 'action', 'cookie', 'bsent']",0
+2724,['apnews'],1
+2725,"['graphic', 'reuters', 'yxmvjqywprz', 'index', 'html']",1
+2727,"['thehill', 'policy', 'healthcare', 'senator', 'urge', 'trump', 'wear', 'mask', 'example']",1
+2729,['apnews'],1
+2731,"['washingtonpost', 'politics', 'court', 'supreme', 'court', 'rule', 'trump', 'administration', 'attempt', 'daca', 'undocumented', 'immigrant', 'brought', 'child', 'story', 'html']",1
+2732,"['washingtonpost', 'politics', 'court', 'supreme', 'court', 'montana', 'program', 'aiding', 'private', 'school', 'must', 'open', 'religious', 'school', 'bdaf', 'story', 'html']",1
+2733,"['washingtonpost', 'nation', 'coronavirus', 'live', 'update']",1
+2734,"['washingtonpost', 'politics', 'democrat', 'public', 'health', 'expert', 'decry', 'trump', 'saying', 'asked', 'official', 'slow', 'coronavirus', 'testing']",1
+2735,"['washingtonpost', 'health', 'white', 'house', 'turf', 'battle', 'guidance', 'broad', 'face', 'mask', 'fight', 'coronavirus']",1
+2740,['pivotok'],1
+2741,"['theskimm', 'pick', 'genius', 'product', 'make', 'cleaning', 'home', 'easier']",1
+2745,"['wethetrillions', 'quiz']",1
+2746,"['oprahmag', 'entertainment', 'movie', 'best', 'fourth', 'july', 'movie']",1
+2747,"['theskimm', 'pick', 'everything', 'youll', 'need', 'drink', 'outside', 'summer', 'long']",1
+2748,"['planbonestep', 'plan', 'work']",0
+2749,['planbonestep'],1
+2750,"['nytimes', 'science', 'flying', 'snake', 'physic', 'html']",1
+2751,"['layleen', 'polanco', 'correction', 'officer', 'suspended', 'index', 'html']",1
+2752,"['nbcnews', 'feature', 'solitary', 'confinement', 'trans', 'woman']",1
+2753,"['entertainment', 'reiner', 'obit', 'index', 'html']",1
+2754,['apnews'],1
+2755,"['politico', 'news', 'supreme', 'court', 'lgbt', 'right', 'decision']",1
+2757,"['nytimes', 'john', 'robert', 'supreme', 'court', 'html']",1
+2758,"['supreme', 'court', 'montana', 'cant', 'exclude', 'religious', 'school', 'scholarship', 'program']",1
+2759,"['thehill', 'policy', 'healthcare', 'public', 'global', 'health', 'young', 'people', 'drive', 'coronavirus', 'spike']",1
+2760,"['coronavirus', 'ncov', 'prevent', 'getting', 'sick', 'prevention', 'html']",1
+2763,"['nbcnews', 'tech', 'tech', 'news', 'coronavirus', 'contact', 'tracing', 'apps', 'tech', 'chance', 'step']",1
+2764,"['nbcnews', 'news', 'news', 'coronavirus', 'testing', 'must', 'double', 'triple', 'safely']",1
+2765,"['axios', 'trump', 'coronavirus', 'poll', 'early', 'action', 'html']",1
+2766,"['abcnews', 'olitics', 'fauci', 'warn', 'tremendous', 'burden', 'facing', 'health', 'care', 'system', 'story']",1
+2767,"['theguardian', 'world', 'coronavirus', 'world', 'country', 'covid', 'case', 'death']",1
+2768,"['news', 'world', 'canada']",1
+2769,"['time', 'coronavirus', 'pandemic', 'declaration']",1
+2770,"['cnbc', 'amid', 'testing', 'capacity', 'concern', 'unveils', 'coronavirus', 'test', 'html']",1
+2771,"['latimes', 'science', 'story', 'china', 'coronavirus', 'outbreak']",1
+2772,"['axios', 'coronavirus', 'spreading', 'fast', 'bbeb', 'html']",1
+2773,"['eonline', 'news', 'patrick', 'dempsey', 'brings', 'back', 'mcdreamy', 'signature', 'line', 'promote', 'mask', 'wearing']",1
+2776,"['theskimm', 'money', 'skimmd', 'couch', 'carmen', 'rita', 'wong']",1
+2777,['briefingday'],1
+2778,"['economist', 'science', 'technology', 'pandemic', 'proofing', 'planet']",1
+2779,"['sciencenews', 'article', 'coronavirus', 'covid', 'pandemic', 'month', 'know']",1
+2780,"['future', 'article', 'make', 'people', 'stop', 'caring']",1
+2781,"['buzzfeednews', 'article', 'tomiobaro', 'recession', 'economy', 'pandemic', 'money', 'diary']",1
+2782,"['onezero', 'medium', 'amazon', 'effect', 'making', 'customer', 'service', 'life', 'hell']",1
+2783,"['gossamer', 'article', 'skincare']",1
+2784,"['saturdayeveningpost', 'lure', 'buffet']",1
+2785,"['designyoutrust', 'covid', 'latam', 'latin', 'american', 'photographer', 'document', 'pandemic']",1
+2786,"['sensortower', 'blog', 'revenue', 'downloads']",1
+2787,"['massivesci', 'article', 'banana', 'flavor', 'cavendish', 'gros', 'michael', 'science', 'friday']",1
+2788,"['wired', 'story', 'nuclear', 'power', 'ball', 'triso', 'fuel']",1
+2789,"['news', 'trust', 'item']",1
+2790,"['thenewinquiry', 'ambiguity', 'city']",1
+2792,"['edition', 'travel', 'article', 'greece', 'abandoned', 'airport', 'index', 'html']",1
+2793,"['atlasobscura', 'article', 'caretaker', 'sealand']",1
+2794,"['thesun', 'news', 'uknews', 'euromillions', 'adrian', 'bayfords', 'mansion', 'loss']",1
+2795,"['flowstate', 'substack']",1
+2796,"['youtube', 'watch']",1
+2797,"['reddit', 'comment', 'squirrel', 'living', 'best', 'life']",1
+2798,"['theguardian', 'film', 'dont', 'regret', 'pierce', 'brosnan', 'love', 'loss', 'life', 'bond']",1
+2799,"['slate', 'business', 'coronavirus', 'pizza', 'delivery', 'domino', 'html']",1
+2800,"['travel', 'story', 'japanese', 'resilient']",1
+2802,"['briefingday', 'commentform']",1
+2806,"['mykawartha', 'news', 'story', 'canadian', 'tire', 'peel', 'back', 'problem', 'potato', 'head', 'glitch', 'lindsay']",1
+2807,"['supremecourt', 'ocket', 'rief', 'oalition', 'rand', 'wners', 'mici', 'uriae', 'upport', 'espondent']",1
+2808,"['politics', 'booking', 'trademark', 'supreme', 'court', 'index', 'html']",1
+2809,"['award', 'substack', 'numlock', 'award', 'puzzle']",1
+2810,"['variety', 'film', 'news', 'film', 'academy', 'member']",1
+2812,"['propublica', 'article', 'bottom']",1
+2813,"['reuters', 'investigates', 'special', 'report', 'judge', 'misconduct']",1
+2814,"['google', 'form', 'ukwm', 'viewform']",0
+2815,"['bookclub', 'substack']",0
+2816,"['award', 'substack']",0
+2817,"['numlock', 'substack', 'numlock', 'sunday', 'julie', 'halpert']",0
+2818,"['numlock', 'substack', 'numlock', 'sunday', 'karen', 'facial']",0
+2819,"['numlock', 'substack', 'numlock', 'sunday', 'nisen', 'vaccine']",0
+2820,"['numlock', 'substack', 'numlock', 'sunday', 'matt', 'daniel']",0
+2821,"['numlock', 'substack', 'numlock', 'sunday', 'rebecca', 'renner']",0
+2822,"['numlock', 'substack', 'numlock', 'sunday', 'john', 'jackson', 'miller']",0
+2823,"['numlock', 'substack', 'numlock', 'sunday', 'john', 'jackson', 'miller']",0
+2824,"['numlock', 'substack', 'numlock', 'sunday', 'kopf', 'streaming']",0
+2825,"['numlock', 'substack', 'numlock', 'sunday', 'dave', 'gershgorn']",0
+2826,"['numlock', 'substack', 'numlock', 'sunday', 'nicole', 'hemmer']",0
+2827,"['numlock', 'substack', 'numlock', 'sunday', 'sarah', 'frier']",0
+2828,"['numlock', 'substack', 'numlock', 'sunday', 'olga', 'khazan', 'weird']",0
+2829,"['numlock', 'substack', 'numlock', 'sunday', 'shayla', 'love', 'copper']",0
+2830,"['numlock', 'substack', 'numlock', 'sunday', 'aaron', 'gordon']",0
+2831,"['numlock', 'substack', 'numlock', 'sunday', 'cohen', 'shakespeare']",0
+2832,"['numlock', 'substack', 'numlock', 'sunday', 'cohen']",0
+2833,"['numlock', 'substack', 'numlock', 'sunday', 'frank', 'pallotta']",0
+2834,"['numlock', 'substack', 'numlock', 'sunday', 'alison', 'griswold']",0
+2835,"['numlock', 'substack', 'numlock', 'sunday', 'griswold', 'wework']",0
+2836,"['numlock', 'substack', 'numlock', 'sunday', 'ottavianti']",0
+2837,"['numlock', 'substack', 'numlock', 'sunday', 'josh', 'kosman', 'mattress']",0
+2838,"['numlock', 'substack', 'numlock', 'sunday', 'kyle', 'chayka']",0
+2839,"['numlock', 'substack', 'numlock', 'sunday', 'dani', 'levis', 'ghost']",0
+2840,"['numlock', 'substack', 'numlock', 'sunday', 'andrew', 'flower']",0
+2841,"['numlock', 'substack', 'numlock', 'sunday', 'stacy', 'smith']",0
+2842,"['numlock', 'substack', 'numlock', 'sunday', 'joanna', 'piacenza', 'wrap']",0
+2843,"['numlock', 'substack', 'numlock', 'sunday', 'maya', 'kosoff', 'graphing']",0
+2844,"['numlock', 'substack', 'numlock', 'sunday', 'emily', 'atkin', 'heated']",0
+2845,"['numlock', 'substack', 'numlock', 'sunday', 'sarah', 'kessler']",0
+2846,"['numlock', 'substack', 'numlock', 'sunday', 'bhasin']",0
+2847,"['numlock', 'substack', 'numlock', 'sunday', 'adam', 'minter', 'author']",0
+2848,"['numlock', 'substack', 'numlock', 'sunday', 'dave', 'gershgorn']",0
+2849,"['numlock', 'substack', 'numlock', 'sunday', 'jessica', 'huseman']",0
+2850,"['numlock', 'substack', 'numlock', 'sunday', 'bryan', 'caplan', 'open']",0
+2851,"['numlock', 'substack', 'numlock', 'sunday', 'garofalo']",0
+2852,"['numlock', 'substack', 'numlock', 'sunday', 'renfro', 'unofficial']",0
+2853,"['numlock', 'substack', 'numlock', 'sunday', 'christie', 'aschwanden']",0
+2854,"['numlock', 'substack', 'numlock', 'sunday', 'rebecca', 'boyle', 'light']",0
+2855,"['numlock', 'substack', 'numlock', 'sunday', 'yusra', 'murad', 'juuls']",0
+2856,"['numlock', 'substack', 'numlock', 'sunday', 'chris', 'ingraham', 'author']",0
+2857,"['numlock', 'substack', 'numlock', 'sunday', 'sarah', 'gilman', 'invasive']",0
+2858,"['numlock', 'substack', 'numlock', 'sunday', 'sarah', 'gilman']",0
+2859,"['numlock', 'substack', 'sunday', 'special']",0
+2860,"['numlock', 'substack', 'sunday', 'special']",0
+2863,"['skift', 'hospitality', 'devastating', 'loss', 'talent', 'gain']",1
+2864,"['news', 'world', 'asia', 'china']",1
+2865,"['getpocket', 'explore', 'item', 'data', 'cardio', 'weight', 'debate']",1
+2867,"['monocle', 'radio', 'show', 'entrepreneur']",1
+2868,"['office', 'mayor', 'news', 'mayor', 'blasio', 'police', 'commissioner', 'bratton', 'compstat']",1
+2869,"['wikipedia', 'wiki']",1
+2870,"['gimletmedia', 'show', 'reply', 'crime', 'machine', 'part', 'episode', 'player']",1
+2871,"['gimletmedia', 'show', 'reply']",1
+2872,"['gimletmedia', 'show', 'reply']",1
+2873,"['whyisthisinteresting', 'substack', 'interesting', 'systemic']",1
+2874,"['rationallyspeakingpodcast', 'show', 'david', 'manheim', 'goodharts', 'metric', 'fail', 'html']",1
+2875,['arxiv'],1
+2876,"['ribbonfarm', 'goodharts', 'measurement', 'hard']",1
+2877,"['skeptic', 'stackexchange', 'question', 'soviet', 'nail', 'factory', 'produce', 'useless', 'nail', 'improve', 'metric']",1
+2878,"['wikipedia', 'wiki', 'oodhart']",1
+2879,"['wikipedia', 'wiki', 'harles', 'oodhart']",1
+2880,"['action', 'tldrnewsletter', 'unsubscribe']",0
+2881,"['arstechnica', 'information', 'technology', 'embattled', 'group', 'leaker', 'pick', 'wikileaks', 'mantle']",1
+2882,"['deeplinks', 'inside', 'invasive', 'secretive', 'bossware', 'tracking', 'worker']",1
+2883,"['github', 'liuliu', 'dflat']",1
+2884,['hyperapp'],1
+2885,"['youtube', 'watch']",1
+2886,"['sciencealert', 'first', 'time', 'scientist', 'capture', 'video', 'brain', 'clearing', 'dead', 'neuron']",1
+2887,"['theverge', 'microsoft', 'window', 'file', 'recovery', 'tool', 'download', 'feature']",1
+2888,"['androidpolice', 'nearby', 'sharing', 'android', 'airdrop', 'competitor', 'rolling', 'beta']",1
+2889,"['tldrnewsletter', 'sponsor']",0
+2890,['tldrnewsletter'],0
+2891,"['youtube', 'watch', 'wnage']",1
+2892,"['newyorker', 'contributor', 'doreen', 'felix']",1
+2893,"['vanityfair', 'hollywood', 'ziwe', 'fumudoh', 'baited', 'interview', 'alison', 'roman']",1
+2894,"['youtube', 'channel', 'yltbh']",1
+2896,['frugalbookstore'],1
+2902,"['slate', 'human', 'interest', 'action', 'park', 'danger', 'history', 'bailey', 'ball', 'book', 'html']",1
+2904,"['sport', 'illustrated', 'idaho', 'transgender', 'fighting', 'back']",1
+2906,"['newyorker', 'magazine', 'rabbit', 'outbreak']",1
+2907,"['podcasts', 'ezra', 'klein', 'show', 'shallow', 'twitter', 'facebook', 'attention', 'deep', 'reading', 'thinking']",1
+2908,"['nytimes', 'world', 'asia', 'swine', 'virus', 'china', 'html']",1
+2909,"['digg', 'video', 'rand', 'paul', 'anthony', 'fauci', 'coronavirus', 'hearing']",1
+2910,"['nytimes', 'world', 'coronavirus', 'live', 'update', 'html']",1
+2911,"['theguardian', 'world', 'hong', 'kong', 'activist', 'call', 'protest', 'security', 'city', 'mark', 'handover', 'anniversary']",1
+2912,"['variety', 'film', 'news', 'carl', 'reiner', 'dead', 'died', 'dick', 'dyke']",1
+2913,"['travel', 'article', 'bison', 'gore', 'woman', 'yellowstone', 'trnd', 'index', 'html']",1
+2914,"['huckberry', 'store', 'storkstand', 'category', 'portable', 'standing', 'desk', 'desk']",1
+2915,"['magazine', 'atavist', 'thousand', 'pound', 'dynamite']",1
+2916,"['food', 'blog', 'queer', 'history', 'kombucha']",1
+2917,"['digg', 'edition', 'story']",1
+2921,"['digg', 'cmail', 'ptuurik', 'vkjjhbly']",1
+2922,"['washingtonpost', 'politics', 'nearly', 'people', 'voted', 'candidate', 'support', 'qanon']",1
+2923,"['washingtonpost', 'world', 'europe', 'russia', 'prize', 'patriotism', 'urge', 'vote', 'changing', 'constitution', 'scant', 'mention', 'keeping', 'putin', 'power', 'afcb', 'story', 'html']",1
+2924,"['washingtonpost', 'local', 'public', 'safety', 'president', 'trump', 'tweet', 'protester', 'serious', 'force', 'establish', 'autonomous', 'zone', 'story', 'html']",1
+2929,"['supreme', 'court', 'conservatism', 'bostock', 'lgbtq', 'republican']",1
+2930,"['good', 'travel', 'covid', 'summer', 'road', 'trip']",1
+2931,"['sahara', 'dust', 'storm', 'godzilla', 'cloud', 'saharan', 'sunset']",1
+2932,"['future', 'perfect', 'coronavirus', 'pandemic', 'reopen', 'school', 'economy', 'social', 'distancing']",1
+2933,"['coronavirus', 'symptom', 'spain', 'italy', 'jersey', 'england', 'iran', 'nigeria']",1
+2934,"['open', 'spotify', 'episode']",1
+2935,"['nytimes', 'upshot', 'poll', 'trump', 'defector', 'election', 'html']",1
+2938,"['arctic', 'siberia', 'temperature', 'heat', 'wave', 'record', 'russia', 'fire', 'climate', 'change']",1
+2939,"['nytimes', 'business', 'economic', 'recovery', 'virus', 'surge', 'html']",1
+2940,"['nytimes', 'world', 'europe', 'putin', 'referendum', 'vote', 'russia', 'html']",1
+2941,"['russian', 'voting', 'reform', 'important', 'extend', 'putin']",1
+2942,['apnews'],1
+2943,"['axios', 'putin', 'russia', 'referendum', 'approved', 'html']",1
+2944,"['reuters', 'article', 'russia', 'putin', 'vote', 'russian', 'grant', 'putin', 'right', 'extend', 'rule', 'landslide', 'vote', 'initial', 'result', 'show']",1
+2946,"['oregonlive', 'portland', 'portland', 'protest', 'continue', 'straight', 'tuesday', 'html']",1
+2947,"['nytimes', 'nyregion', 'black', 'life', 'matter', 'protest', 'html']",1
+2948,"['news', 'world', 'canada']",1
+2949,"['king', 'article', 'news', 'local', 'protest', 'seattle', 'police', 'capitol', 'hill', 'chop', 'chaz']",1
+2950,"['identity', 'chaz', 'seattle', 'police', 'free', 'neighborhood']",1
+2951,"['komonews', 'news', 'local', 'seattle', 'police', 'clearing', 'chop', 'area', 'durkan', 'issue', 'executive', 'order']",1
+2955,"['popularmechanics', 'space', 'moon', 'space', 'moon', 'poop', 'toilet']",1
+2956,"['hopculture', 'food', 'beer', 'pairing']",1
+2961,"['washingtonpost', 'business', 'mask', 'mandate', 'economy', 'goldman', 'sachs']",1
+2969,"['marketwatch', 'story', 'consumer', 'confidence', 'jump', 'month', 'high', 'still', 'well', 'precrisis', 'level']",1
+2970,"['marketwatch', 'story', 'bafa']",1
+2974,"['reuters', 'article', 'tech', 'food', 'alternative', 'meat', 'coming', 'soon', 'printer', 'near', 'plant', 'based', 'steak']",1
+2975,"['business', 'costco', 'half', 'sheet', 'cake', 'coronavirus', 'index', 'html']",1
+2976,"['nytimes', 'design', 'sothebys', 'online', 'auction', 'html']",1
+2977,"['venturebeat', 'enhance', 'wimbledon', 'tennis', 'footage', 'digital']",1
+2978,"['theguardian', 'technology', 'third', 'advertiser', 'boycott', 'facebook', 'hate', 'speech', 'revolt']",1
+2980,"['gizmodo', 'google', 'north', 'smart', 'glass', 'north', 'kill']",1
+2981,"['news', 'bloomberglaw', 'supreme', 'court', 'affirms', 'validity', 'booking', 'trademark']",1
+2982,"['thehustle', 'artha', 'tewart', 'anopy']",1
+2983,"['fastcompany', 'canopy', 'growth', 'became', 'jolly', 'green', 'giant', 'cannabis']",1
+2984,"['canopygrowth', 'investor', 'news', 'release', 'canopy', 'growth', 'report', 'full', 'year', 'quarter', 'fiscal', 'financial', 'result', 'provides', 'strategic', 'review', 'update']",1
+2985,"['fastcompany', 'canopy', 'growth', 'using', 'martha', 'stewart', 'celebs', 'become', 'unilever', 'weed']",1
+2986,"['mashed', 'untold', 'truth', 'martha', 'snoop']",1
+2987,"['thehustle', 'orporate', 'swag']",1
+2988,"['google', 'form', 'viewform']",1
+2989,"['thehustle', 'ational', 'esearch', 'loud']",1
+2990,"['nytimes', 'technology', 'national', 'cloud', 'computing', 'project', 'html']",1
+2991,"['thehustle', 'deepfakes']",1
+2992,"['technologyreview', 'ethical', 'deepfake', 'tool', 'manifesto']",1
+2993,"['theverge', 'disney', 'deepfake', 'face', 'swapping', 'research', 'megapixel', 'resolution', 'film']",1
+2994,"['smartcitiesworld', 'news', 'news', 'deepfake', 'technology', 'used', 'advance', 'autonomous', 'vehicle']",1
+2996,"['techcrunch', 'optimistic', 'view', 'deepfakes']",1
+2997,"['technologyreview', 'startup', 'claim', 'deepfakes', 'protect', 'privacy']",1
+2998,"['news', 'technology']",1
